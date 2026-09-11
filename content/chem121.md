@@ -17,7 +17,7 @@ Chemistry also puts a spotlight on how comfortable you are with learning itself.
 
 If you read one part of this syllabus, read this one.
 
-| | |
+| Item | Details |
 |---|---|
 | **What it costs** | **Chemfolio** *[price TBD]* + **CHEM&121 Lab Manual** *[price TBD]* (Clark Bookstore) + ALEKS (paid through your course registration). |
 | **When things are due** | Tuesday through Sunday each carry something — see Weekly Flow below for the exact rhythm. Once you learn it, it repeats every module. |
@@ -55,7 +55,7 @@ A few abbreviations come up constantly in this course. Here's what they mean, so
 
 # Course Information
 
-| | |
+| Item | Details |
 |---|---|
 | **Course Title** | CHEM&121: Introduction to Chemistry (Pre-Health) |
 | **Course Nbr/Sec** | 18405/18406, 18407/18408 |
@@ -108,7 +108,7 @@ Quizzes are the one exception to this weekly pattern — they're in-person durin
 
 # About Your Instructor
 
-| | |
+| Item | Details |
 |---|---|
 | **Instructor Name and pronouns** | Dr. Karl Bailey, Ph.D. (he/him) |
 | **How I like to be addressed** | Dr. B |
@@ -125,7 +125,7 @@ I've spent more than 25 years building and refining active-learning chemistry co
 
 # What Course Materials Will I Need?
 
-| | |
+| Item | Details |
 |---|---|
 | **Texts/Other learning materials** | **Chemfolio** (lecture workbook) — required, drives our 3-2-1 discussion format. *[edition/ISBN/price TBD]* / **CHEM&121 Lab Manual** (lab manual) — required. *[edition/ISBN/price TBD]* / **ALEKS** — required online homework platform, includes access to the Smith textbook. Paid through your course registration. |
 | **Companion Web Site** | ALEKS (aleks.com), accessed through Canvas |
@@ -253,7 +253,7 @@ There is no separate revision or regrade policy at this time — the late-work w
 
 ## Technical Support
 
-| | |
+| Item | Details |
 |---|---|
 | **Tech Hub** | Canvas, software, or account trouble — Scarpelli Hall 135 · techhub@clark.edu · 360-992-2010 |
 | **To report a Canvas problem** | The Help button in Canvas → "Report a Problem" (replies come to your Clark Gmail) |
@@ -261,7 +261,7 @@ There is no separate revision or regrade policy at this time — the late-work w
 
 ## Academic Support
 
-| | |
+| Item | Details |
 |---|---|
 | **Student Success Coaches** | One-on-one coaching for study/organization skills, emotional and personal support, and connections to college resources. PUB 002 or Zoom. |
 | **Clark College Tutoring Services** | In-person and virtual tutoring via Zoom; eTutoringOnline.org for additional online writing lab support. |
@@ -269,7 +269,7 @@ There is no separate revision or regrade policy at this time — the late-work w
 
 ## Student Support
 
-| | |
+| Item | Details |
 |---|---|
 | **Counseling and Health Center** | Physical and mental health services to support student wellness and academic success. |
 | **Office of People and Culture (OPC)** | Supports systemically non-dominant groups navigating Clark College; the Diversity Center is a great place to visit between classes. |

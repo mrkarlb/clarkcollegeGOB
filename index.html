@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,6 +15,7 @@
     --ink-soft: #445048;
     --primary: #1D5C6B;
     --primary-dark: #143F49;
+    --th-bg: #1D5C6B;
     --header-bg: #143F49;
     --header-tab-text: #143F49;
     --accent: #A8690F;
@@ -33,6 +34,7 @@
     --ink-soft: #AFC0B8;
     --primary: #7FC3CE;
     --primary-dark: #9AD3DC;
+    --th-bg: #0F4750;
     --header-bg: #0C2226;
     --header-tab-text: #0C2226;
     --accent: #E0A857;
@@ -108,8 +110,6 @@
     align-items: start;
   }
   aside.sidebar {
-    position: sticky;
-    top: 20px;
     align-self: start;
   }
   #search {
@@ -123,7 +123,9 @@
     color: var(--ink);
     margin-bottom: 14px;
   }
-  nav.toc { display: flex; flex-direction: column; gap: 2px; margin-bottom: 18px; }
+  nav.toc {
+    display: flex; flex-direction: column; gap: 2px; margin: 10px 0 14px;
+  }
   nav.toc a {
     text-decoration: none;
     color: var(--ink-soft);
@@ -169,7 +171,7 @@
 
   table { width: 100%; border-collapse: collapse; margin: 0 0 18px; font-size: 15.5px; }
   th, td { text-align: left; padding: 10px 12px; border: 1px solid var(--border); vertical-align: top; }
-  th { background: var(--primary); color: #fff; font-weight: 600; }
+  th { background: var(--th-bg); color: #fff; font-weight: 600; }
   table.def td:first-child { background: var(--tint); font-weight: 600; width: 220px; }
   tr:nth-child(even) td:not(:first-child) { background: rgba(0,0,0,0.015); }
 
@@ -254,7 +256,6 @@
   @media (max-width: 860px) {
     .layout { grid-template-columns: 1fr; }
     aside.sidebar { position: static; }
-    nav.toc { max-height: 260px; overflow-y: auto; border: 1px solid var(--border); border-radius: var(--radius); padding: 8px; }
   }
   @media (prefers-reduced-motion: reduce) {
     * { scroll-behavior: auto !important; }
@@ -270,9 +271,9 @@
     <h1 class="top-title" id="pageTitle">CHEM&amp;121: Introduction to Chemistry</h1>
     <div class="top-sub" id="pageSub">Dr. Karl Bailey (Dr. B) · Hybrid, September 21 – December 10, 2026</div>
     <div class="top-sub" id="pageContact">Enrolled in this course? Message me in Canvas Inbox. Otherwise, reach me at <a href="mailto:kbailey@clark.edu" style="color:#fff;text-decoration:underline;">kbailey@clark.edu</a>.</div>
-    <div class="course-toggle" role="tablist" aria-label="Choose a course">
-      <button id="btn121" role="tab" aria-pressed="true" onclick="setCourse('chem121')">CHEM&amp;121</button>
-      <button id="btn131" role="tab" aria-pressed="false" onclick="setCourse('chem131')">CHEM&amp;131</button>
+    <div class="course-toggle" role="group" aria-label="Choose a course">
+      <button id="btn121" aria-pressed="true" onclick="setCourse('chem121')">CHEM&amp;121</button>
+      <button id="btn131" aria-pressed="false" onclick="setCourse('chem131')">CHEM&amp;131</button>
     </div>
   </div>
 </header>
@@ -280,12 +281,13 @@
 <div class="layout">
   <aside class="sidebar">
     <input type="search" id="search" placeholder="Search this syllabus…" aria-label="Search this syllabus" oninput="doSearch(this.value)">
-    <nav class="toc" id="toc" aria-label="Table of contents"></nav>
 
-    <div class="side-block">
+    <div class="side-block" style="border-top:none;margin-top:0;padding-top:10px;">
       <div class="side-label">Get a copy</div>
       <div class="copy-btns" id="copyBtns"></div>
     </div>
+
+    <nav class="toc" id="toc" aria-label="Table of contents"></nav>
 
     <div class="side-block">
       <div class="side-label">This page</div>
