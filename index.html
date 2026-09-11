@@ -98,6 +98,22 @@
     background: #fff;
     color: var(--header-tab-text);
   }
+  .header-copy {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid rgba(255,255,255,0.18);
+  }
+  .header-copy-label { font-size: 14px; font-weight: 600; color: #fff; }
+  .header-copy .copy-btns a {
+    background: #fff;
+    color: var(--header-tab-text);
+    border-color: #fff;
+  }
+  .header-copy .copy-btns a:hover { background: #E4EEEC; }
 
   /* ---------- Layout ---------- */
   .layout {
@@ -274,6 +290,10 @@
     <div class="course-toggle" role="group" aria-label="Choose a course">
       <button id="btn121" aria-pressed="true" onclick="setCourse('chem121')">CHEM&amp;121</button>
       <button id="btn131" aria-pressed="false" onclick="setCourse('chem131')">CHEM&amp;131</button>
+    </div>
+    <div class="header-copy">
+      <span class="header-copy-label">Get a copy:</span>
+      <div class="copy-btns" id="headerCopyBtns"></div>
     </div>
   </div>
 </header>

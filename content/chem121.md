@@ -65,9 +65,11 @@ A few abbreviations come up constantly in this course. Here's what they mean, so
 | **Course Modality** | Hybrid — asynchronous online lecture/discussion + biweekly on-campus lab |
 | **Credit Hours** | 5 credits (3.0 hours lecture-equivalent / 4.0 hours lab) |
 | **Prerequisites** | MATH 96 (grade of "C" or higher), or placement into Math level 45. |
-| **Course Description** | **What the catalog says:** Topics in general chemistry applicable to students seeking a 2-year degree in the health-occupations fields. Unit-factor method is applied to problem solving. Topics covered include units of measurement, atomic structure, chemical bonding, energy, the mole concept, nomenclature of inorganic compounds, writing and balancing equations, properties of gases, solutions and colloids, reaction rates and equilibrium, acids, bases and salts, radiation and health. **What that means in practice:** You'll learn to think like a health professional needs to think about chemistry — using math and unit conversions to solve real clinical-style problems, not just memorizing facts. Expect this course to feel like a math class and a foreign-language class rolled together: we use conversions from day one, every week, in both discussion and lab. |
+| **Course Description** | **What the catalog says:** Topics in general chemistry applicable to students seeking a 2-year degree in the health-occupations fields. Unit-factor method is applied to problem solving. Topics covered include units of measurement, atomic structure, chemical bonding, energy, the mole concept, nomenclature of inorganic compounds, writing and balancing equations, properties of gases, solutions and colloids, reaction rates and equilibrium, acids, bases and salts, radiation and health.<br><br>**What that means in practice:** You'll learn to think like a health professional needs to think about chemistry — using math and unit conversions to solve real clinical-style problems, not just memorizing facts. Expect this course to feel like a math class and a foreign-language class rolled together: we use conversions from day one, every week, in both discussion and lab. |
 
 # Welcome to Class!
+
+**TL;DR:** No lectures — everything happens through weekly team discussions and hands-on labs. Show up, stay engaged, and ask for help before you're stuck.
 
 Welcome, welcome, welcome! I'm Dr. B (Dr. Karl Bailey, he/him), and I'm so glad to be your Chemistry instructor this term. However you landed in this course, I'm glad you're here — let's get into how it actually runs, week to week.
 
@@ -89,6 +91,8 @@ Clark College and the Disability Access Center (DAC) office assist students with
 
 ## Weekly Flow
 
+**TL;DR:** Something is due nearly every day, Tuesday through Sunday — same pattern every week once you learn it.
+
 Canvas Modules are your home base. This rhythm repeats every module — once you know this table, you know the whole term.
 
 | Day | What's due |
@@ -108,34 +112,40 @@ Quizzes are the one exception to this weekly pattern — they're in-person durin
 
 # About Your Instructor
 
+**TL;DR:** Canvas Inbox only, no email — I reply within 24 hours on weekdays.
+
 | Item | Details |
 |---|---|
 | **Instructor Name and pronouns** | Dr. Karl Bailey, Ph.D. (he/him) |
 | **How I like to be addressed** | Dr. B |
-| **Communication** | Canvas Inbox only — I do not use email during the term. Not a current student? Reach me at kbailey@clark.edu or 360-992-2313. |
+| **Communication** | Canvas Inbox only — I do not use email during the term.<br><br>Not a current student? Reach me at kbailey@clark.edu or 360-992-2313. |
 | **Student Hours** | Monday & Wednesday, 1:00–2:00 PM and 4:00–5:00 PM (1 hour before each lab section) |
 | **Preferred Mode of Communication** | Canvas Inbox — I reply within 24 hours on weekdays. |
 
 ## What can you expect from me?
 
-I've spent more than 25 years building and refining active-learning chemistry courses — including pioneering asynchronous online POGIL (Process Oriented Guided Inquiry Learning) before it was common practice. Struggling at first is normal; stick with it, ask questions, and you'll find your footing. I've designed everything with you in mind, and I respond to Canvas messages within 24 hours on weekdays.
+I've spent more than 25 years building and refining active-learning chemistry courses putting students and their learning at the center of my teaching whether in person or online. I've designed everything in this course with you in mind based on what my students tell me works. The first big part of that is learning to struggle when learning anything new. It's normal. So stick with it and you'll find your footing and confidence with it. Reach out for help directly before things get away from you. I respond to Canvas messages within 24 hours on weekdays.
 
-*"Our job as educators is not to prepare you for the real world. You already live in the real world."*
+*"Our job as educators is not to prepare you for the real world. You already live in the real world. Our job is to empower you to change it."*
 — Dr. B
 
 # What Course Materials Will I Need?
 
+**TL;DR:** Chemfolio + your lab manual (Clark Bookstore) + ALEKS (set up automatically in Canvas).
+
 | Item | Details |
 |---|---|
-| **Texts/Other learning materials** | **Chemfolio** (lecture workbook) — required, drives our 3-2-1 discussion format. *[edition/ISBN/price TBD]* / **CHEM&121 Lab Manual** (lab manual) — required. *[edition/ISBN/price TBD]* / **ALEKS** — required online homework platform, includes access to the Smith textbook. Paid through your course registration. |
+| **Texts/Other learning materials** | **Chemfolio** (lecture workbook) — required, drives our 3-2-1 discussion format. *[edition/ISBN/price TBD]*<br><br>**CHEM&121 Lab Manual** (lab manual) — required. *[edition/ISBN/price TBD]*<br><br>**ALEKS** — required online homework platform, includes access to the Smith textbook. Paid through your course registration. |
 | **Companion Web Site** | ALEKS (aleks.com), accessed through Canvas |
 | **Software** | Microsoft Office (primarily Word and Excel) — accessible right inside Canvas through the Microsoft Education integration, using your free Clark student Office 365 account. |
-| **Electronic Resources** | Canvas Learning Management System, with Microsoft OneDrive linked directly through Canvas's built-in Microsoft Education integration (no separate office.com setup needed). A heads up: this embedded Office/OneDrive connection tripped up a number of students last term. Module 0 has a step-by-step setup guide — work through it in week one, and if you hit an error, contact Tech Hub (techhub@clark.edu · 360-992-2010) rather than troubleshooting alone. |
+| **Electronic Resources** | Canvas Learning Management System, with Microsoft OneDrive linked directly through Canvas's built-in Microsoft Education integration (no separate office.com setup needed).<br><br>A heads up: this embedded Office/OneDrive connection tripped up a number of students last term. Module 0 has a step-by-step setup guide — work through it in week one, and if you hit an error, contact Tech Hub (techhub@clark.edu · 360-992-2010) rather than troubleshooting alone. |
 | **Privacy related to course tools and materials** | See Clark's eLearning accessibility and privacy policies page (clark.edu/academics/eLearning) for Canvas, ALEKS, and other tools used in this course. |
 | **Accessibility related to course tools and materials** | See Clark's eLearning accessibility and privacy policies page (clark.edu/academics/eLearning) for accessibility statements on Canvas, ALEKS, and other course tools. |
-| **Where to find necessary materials** | Chemfolio and your lab manual: Clark College Bookstore, *[bookstore link pending]*. ALEKS: access is set up automatically in Canvas once your registration is processed. |
+| **Where to find necessary materials** | Chemfolio and your lab manual: Clark College Bookstore, *[bookstore link pending]*.<br><br>ALEKS: access is set up automatically in Canvas once your registration is processed. |
 
 # What Are the Course Agreements?
+
+**TL;DR:** Message me in Canvas Inbox, cite anything that isn't yours, never let AI write your discussion posts, and show up ready to work.
 
 ## Communication
 
@@ -143,34 +153,35 @@ Canvas Inbox is our channel — for everything. I don't use email during the ter
 
 ## Citing Your Sources
 
-A citation is when you give credit to another source of information that you are using in your work. This course has specific expectations about how you cite your sources when you are referring to work that is not your own. To avoid plagiarism (when you intentionally or unintentionally present someone else's work as your own), you will need to signal that you are referencing outside material and give credit. Clark College Libraries' plagiarism guide is a handy resource for learning about what plagiarism is and how to avoid it. I am here if you have questions about how to correctly cite outside information in your work.
+Use a citation to credit ANY source of information used in your work, be it a website, image, or content that YOU did not come up with. Yes, it's a pain, but it helps when posting content for others who need to trust and rely on it. To avoid plagiarism (when you intentionally or unintentionally present someone else's work as your own), you will need to signal that you are referencing outside material and give credit. Clark College Libraries' plagiarism guide is a handy resource for learning about what plagiarism is and how to avoid it. I am here if you have questions about how to correctly cite outside information in your work.
 
 ## AI (Artificial Intelligence) Guidelines — Community AI Agreement
 
+**TL;DR:** Never use AI to write anything you submit in discussions — no exceptions. AI can help you double-check your own lab/ALEKS work if you declare it. Quizzes and the Final Project: no AI, period.
+
 This agreement is a community commitment built on honesty, growth, and professionalism. AI is a more powerful tool than simply an advanced Google search. Learn to leverage it wisely, use it responsibly, and declare it when submitting your work. By enrolling in this course you are agreeing to abide by this agreement.
 
-**AI-generated discussion posts and replies do not demonstrate your learning and will not receive credit.** The 3-2-1 format requires your specific workbook attempts, your reasoning, and your questions — none of which AI can provide on your behalf.
+**For discussions specifically: no AI-generated content is ever allowed in anything you submit — no exceptions, and declaring it doesn't change that.** The 3-2-1 format, OOL posts, and Team Lead summaries all require your own reasoning, in your own words. AI-generated discussion content will not receive credit, whether declared or not.
 
 ### Four Principles
 
 - **Caution** — AI can be wrong. Double-check with class notes, labs, and trusted sources.
 - **Trust** — Honesty builds our learning community. Declaring AI use has no penalty. Hiding it does.
 - **Relevance** — Use AI to support learning, not to skip actually doing the work.
-- **Transparency** — Just declare it. Add "This submission used AI." at the end of your post, reply, or lab answer.
+- **Transparency** — Just declare it. Add "This submission used AI." at the end of your lab answer or ALEKS work.
 
 ### By Assignment
 
-- **Discussions** — Declare any AI use in posts (context, clarification, or examples only). Your 3-2-1 post must reflect your own engagement with the assigned Activity and video keys. AI cannot watch a video for you, work through an Activity's objectives for you, or learn for you. Team Leads may use AI to draft the AI Summary portion of the LEADER CHECK IN reply — the MY READ section must be written by the student, with AI use declared. AI is never permitted, declared or not, to generate your THREE/TWO/ONE content by feeding course materials into an AI tool.
+- **Discussions** — No AI-generated content anywhere in your posts, replies, and includes the LEADER CHECK IN reply. All posts and replies must be written by the student, with no exception. AI cannot watch a video for you, work through an activity's objectives, or learn for you. AI cannot produce reflective thoughts for a human being.
 - **Labs** — OK to help interpret or reflect on your own data and results. Never make up, falsify, or use data that is not your own. Attribute AI use in all lab submissions.
 - **ALEKS Homework** — OK to support learning. Don't just grab answers — this is exactly the category where leaning on AI defeats the purpose, which is why it's weighted lowest in your grade.
 - **Quizzes & Final TYC Project** — No AI allowed, at any level.
 
 ### Follow-Up
 
-- First time in discussions — friendly reminder to declare. AI in replies without declaration = zero credit.
-- Repeated or pattern-based — zero points on affected posts. Systematic AI-generated content across multiple submissions constitutes academic dishonesty and an academic integrity referral.
-- Labs — fake data = zero for the lab. AI answer without declaration = zero for the question. No regrades.
-- Quizzes/Final Project — suspected use = zero points and academic integrity referral.
+- **Discussions** — AI-generated content in any post, reply, or Team Lead summary = zero credit for that submission, regardless of declaration. Repeated instances = academic integrity referral.
+- **Labs** — fake data = zero for the lab. AI answer without declaration = zero for the question. No regrades.
+- **Quizzes/Final Project** — suspected use = zero points and academic integrity referral.
 
 REMINDER: Posting course materials online anywhere — including uploading Canvas pages, Activity content, or video keys to AI tools — is academic dishonesty under the Clark College student code of conduct. Course materials are provided for your learning, not to train or prompt AI on your behalf.
 
@@ -188,6 +199,8 @@ REMINDER: Posting course materials online anywhere — including uploading Canva
 
 # What Are the Learning Goals in This Course?
 
+**TL;DR:** By the end, you can apply chemistry reasoning to real health-career problems — not just recall facts.
+
 Student learning outcomes are the skills and abilities that you are working to acquire, practice, and apply in class. They represent the learning goals for the term.
 
 **Upon successful completion of this course, students will be able to:**
@@ -200,7 +213,9 @@ These outcomes are measured through your weekly 3-2-1 Team Discussions, lab repo
 
 # How Will I Be Graded, and Why?
 
-These weights aren't arbitrary. Labs and Discussions carry the most weight because that's where the real learning happens — applying what you know, not just recognizing it. ALEKS is weighted lightly because it's practice, not proof of understanding. The Final TYC Project replaces a comprehensive exam because teaching a concept to someone else is a better test of whether you actually understand it than a timed exam is.
+**TL;DR:** Discussions 30% · Labs 30% · Quizzes 20% · ALEKS 10% · Final TYC Project 10%. Here's why those weights, and the full breakdown.
+
+These weights aren't arbitrary. Labs and Discussions carry the most weight because that's where the real demonstration of your learning happens — applying what you know, not just recognizing it. ALEKS is weighted lightly because it's practice, not proof of understanding. The Final TYC Project replaces a comprehensive exam because teaching a concept to someone else is a better test of whether you actually understand it than a timed exam is (e.g. “Learn on, do one, teach on.”)
 
 ## Assignment Categories and Their Percentage of the Final Grade
 
@@ -229,7 +244,7 @@ Note: Clark does not award C-, D+, or D- in this course — a C- does not transf
 | Percent | Grade | Percent | Grade | Percent | Grade |
 |---|---|---|---|---|---|
 | 93 up to 100 | A | 83 up to 86 | B | 72 up to 76 | C |
-| 90 up to 92 | A- | 80 up to 82 | B- | 63 up to 70 | D |
+| 90 up to 92 | A- | 80 up to 82 | B- | 63 up to 71 | D |
 | 87 up to 89 | B+ | 77 up to 79 | C+ | 0 up to 62 | F |
 
 ## Late Work
@@ -250,6 +265,8 @@ Discussions and other work are graded within 48 hours of each due date.
 There is no separate revision or regrade policy at this time — the late-work window above functions as the built-in opportunity to catch up before work is scored.
 
 # What Resources and Support Services Are Available to Me?
+
+**TL;DR:** Tech Hub for Canvas/software problems, Tutoring or Librarians for coursework help, Basic Needs Hub if life is making this term hard.
 
 ## Technical Support
 

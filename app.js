@@ -55,11 +55,13 @@ function render(courseKey) {
   const main = document.getElementById("main");
   main.innerHTML = SECTIONS.map(s => `<section class="block" id="${s.id}">${data.html[s.id] || ""}</section>`).join("");
 
-  document.getElementById("copyBtns").innerHTML = `
+  const copyHtml = `
     <a href="${meta.downloads.pdf}">Full PDF</a>
     <a href="${meta.downloads.word}">Word doc</a>
     <a href="${meta.downloads.dayone}">Day One handout</a>
   `;
+  document.getElementById("headerCopyBtns").innerHTML = copyHtml;
+  document.getElementById("copyBtns").innerHTML = copyHtml;
 
   buildTOC();
   document.getElementById("updatedLine").textContent = `Last updated ${LAST_UPDATED}`;
