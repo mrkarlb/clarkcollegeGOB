@@ -9,9 +9,9 @@ instructor: "Dr. Karl Bailey (Dr. B)"
 
 # Why This Course, Why You
 
-This course builds directly on CHEM&121, moving from general chemistry into the organic and biochemistry that explains how the human body actually works at a molecular level. This is the chemistry behind metabolism, drug action, and the major biomolecules you'll encounter constantly in a health career — the layer beneath the clinical knowledge you'll build in your program.
+This course builds directly on CHEM&121, moving from general chemistry into the organic and biochemistry that explains how the human body actually works at a molecular level. This is the chemistry behind metabolism, drug action, and the major biomolecules you'll encounter constantly in a health career — the layer beneath the clinical knowledge you'll build in your program. Chemistry is also the foundation of the human body itself — the foods you eat and the environment around you determine physiological impacts and outcomes at a chemical level.
 
-Chemistry also puts a spotlight on how comfortable you are with learning itself. This isn't easy for anyone, because it's more than recalling facts and getting things right — it's being comfortable in the space between what you know and what you don't yet. Real understanding comes with time and repetition, and there are no shortcuts. Everything in this syllabus is built around getting you through that process, not around catching you out.
+This term will ask more from you than the last. Organic chemistry is much more abstract, no math and no formulas. This term structure is function, so time on task and repetition is how we get more comfortable recognizing structures to better predict their function. This term more than the last, there are no shortcuts. It is the same for everyone, and everyone makes it through successfully. Use the first three modules to invest and build a solid foundation for the rest of the term. Everything in this syllabus is built around getting you through that process, not around catching you out.
 
 # Start Here
 

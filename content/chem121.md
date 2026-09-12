@@ -9,7 +9,7 @@ instructor: "Dr. Karl Bailey (Dr. B)"
 
 # Why This Course, Why You
 
-You're here because chemistry is a required step toward a health career — Nursing, Dental Hygiene, or another health-occupations path. This course exists to build the specific chemistry reasoning health professionals actually use: dosage calculations, molecular behavior, and the math-conversion fluency that shows up constantly in clinical work. This isn't chemistry for its own sake — it's the foundation the rest of your health career gets built on.
+You're here because chemistry is a required step toward a health career — Nursing, Dental Hygiene, or another health-occupations path. This course exists to build the specific chemistry reasoning health professionals actually use: dosage calculations, molecular behavior, and the math-conversion fluency that shows up constantly in clinical work. This isn't chemistry for its own sake — it's the foundation the rest of your health career gets built on. Chemistry is also the foundation of the human body itself — the foods you eat and the environment around you determine physiological impacts and outcomes at a chemical level.
 
 Chemistry also puts a spotlight on how comfortable you are with learning itself. This isn't easy for anyone, because it's more than recalling facts and getting things right — it's being comfortable in the space between what you know and what you don't yet. Real understanding comes with time and repetition, and there are no shortcuts. Everything in this syllabus is built around getting you through that process, not around catching you out.
 

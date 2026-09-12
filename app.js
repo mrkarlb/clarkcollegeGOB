@@ -61,7 +61,6 @@ function render(courseKey) {
     <a href="${meta.downloads.dayone}">Day One handout</a>
   `;
   document.getElementById("headerCopyBtns").innerHTML = copyHtml;
-  document.getElementById("copyBtns").innerHTML = copyHtml;
 
   buildTOC();
   document.getElementById("updatedLine").textContent = `Last updated ${LAST_UPDATED}`;

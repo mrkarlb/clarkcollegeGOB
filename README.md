@@ -9,7 +9,7 @@ Live site source for: `https://mrkarlb.github.io/clarkcollegeGOB/`
   1. `generated-content.js` — feeds the web page
   2. `downloads/CHEM121_Syllabus_Fall2026.docx` / `CHEM131_...docx` — via Pandoc, straight from the Markdown
   3. `downloads/CHEM121_Syllabus_Fall2026.pdf` / `CHEM131_...pdf` — via Pandoc + a styled print pass
-- `downloads/*_DayOne_Fall2026.pdf` — the condensed one-pagers. Not yet part of the automated build (still a manual step) — see "Still to do" below.
+  4. `downloads/CHEM121_DayOne_Fall2026.pdf` / `CHEM131_...pdf` — the one-page condensed version, extracted automatically from the Start Here + Weekly Flow sections of the same Markdown. Nothing here is separately authored, so it cannot drift out of sync with the full syllabus.
 
 ## Other files
 - `index.html` — page shell (header, layout, CSS)
@@ -28,5 +28,4 @@ Live site source for: `https://mrkarlb.github.io/clarkcollegeGOB/`
 
 ## Still to do
 - The Word doc styling from Pandoc is plainer than a hand-built version (no table borders/shading). Fixable with a Pandoc reference template if you want the fancier look back.
-- Day One handouts aren't part of `build.js` yet — still generated separately.
 - Requires Pandoc and Node.js (with the `marked` and `playwright` packages) to run the build — this isn't something GitHub does for you automatically; it has to be run locally (or via Claude Code) before uploading.

@@ -124,14 +124,42 @@ async function mdToStyledHtml(mdPath, title) {
   </style></head><body><h1 style="border:none;font-size:26px;">${title}</h1>${content}</body></html>`;
 }
 
+async function dayOneHtml(courseData, title) {
+  const s = courseData.html;
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Source Sans 3', sans-serif; color: #17211E; font-size: 11.5px; line-height: 1.45; }
+    h1 { font-family: 'Source Serif 4', serif; color: #143F49; font-size: 22px; margin: 0 0 2px; }
+    h2 { font-family: 'Source Serif 4', serif; color: #143F49; font-size: 15px; margin-top: 14px; border-bottom: 2px solid #1D5C6B; padding-bottom: 3px; }
+    .band { background: #143F49; color: #fff; padding: 3px 10px; font-weight: 700; font-size: 10.5px; border-radius: 3px; display: inline-block; margin-bottom: 8px; }
+    .sub { color: #445048; font-size: 11.5px; margin-bottom: 10px; }
+    table { width: 100%; border-collapse: collapse; margin: 6px 0 10px; font-size: 10.8px; }
+    td, th { border: 1px solid #D8DDD9; padding: 5px 7px; text-align: left; vertical-align: top; }
+    th { background: #1D5C6B; color: #fff; }
+    table.def td:first-child { background: #E4EEEC; font-weight: 700; width: 24%; }
+    .foot { margin-top: 12px; font-size: 9.5px; color: #445048; border-top: 1px solid #D8DDD9; padding-top: 6px; }
+    .placeholder { color: #B54747; font-style: italic; }
+  </style></head><body>
+  <div class="band">DAY ONE — READ THIS FIRST</div>
+  <h1>${title}</h1>
+  <div class="sub">Dr. Karl Bailey (Dr. B) · Fall 2026 · September 21 – December 10, 2026 · Canvas Inbox only</div>
+  ${s.starthere.replace("<h1>Start Here</h1>", "").replace(/<table>/, '<table class="def">')}
+  ${s.weeklyflow}
+  <div class="foot">This is the condensed version, generated automatically from the same source as the full syllabus — so it can never drift out of sync. The full syllabus (with grading detail, the AI agreement, lab requirements, and all college policies) is linked from the top of the living syllabus page. If anything here and the full syllabus disagree, the full syllabus online is correct.</div>
+  </body></html>`;
+}
+
 async function main() {
   fs.mkdirSync("downloads", { recursive: true });
 
   const courses = [
     { md: "content/chem121.md", key: "chem121", pdfTitle: "CHEM&121: Introduction to Chemistry",
-      docx: "downloads/CHEM121_Syllabus_Fall2026.docx", pdf: "downloads/CHEM121_Syllabus_Fall2026.pdf" },
+      docx: "downloads/CHEM121_Syllabus_Fall2026.docx", pdf: "downloads/CHEM121_Syllabus_Fall2026.pdf",
+      dayone: "downloads/CHEM121_DayOne_Fall2026.pdf" },
     { md: "content/chem131.md", key: "chem131", pdfTitle: "CHEM&131: Introduction to Organic and Biochemistry",
-      docx: "downloads/CHEM131_Syllabus_Fall2026.docx", pdf: "downloads/CHEM131_Syllabus_Fall2026.pdf" },
+      docx: "downloads/CHEM131_Syllabus_Fall2026.docx", pdf: "downloads/CHEM131_Syllabus_Fall2026.pdf",
+      dayone: "downloads/CHEM131_DayOne_Fall2026.pdf" },
   ];
 
   const generated = {};
@@ -151,6 +179,14 @@ async function main() {
     await page.pdf({ path: c.pdf, format: "Letter", printBackground: true, margin: { top: "0.6in", bottom: "0.6in", left: "0.6in", right: "0.6in" } });
     await page.close();
     console.log("built", c.pdf);
+
+    // Day One handout: extracted from the same parsed sections, not separately authored
+    const dayOneContent = await dayOneHtml(generated[c.key], c.pdfTitle);
+    const dayPage = await browser.newPage();
+    await dayPage.setContent(dayOneContent, { waitUntil: "networkidle" });
+    await dayPage.pdf({ path: c.dayone, format: "Letter", printBackground: true, margin: { top: "0.5in", bottom: "0.5in", left: "0.5in", right: "0.5in" } });
+    await dayPage.close();
+    console.log("built", c.dayone);
   }
   await browser.close();
 
