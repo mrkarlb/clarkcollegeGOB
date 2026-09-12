@@ -61,7 +61,7 @@ A few abbreviations come up constantly in this course. Here's what they mean, so
 | **Course Nbr/Sec** | 18411/18412 |
 | **Quarter/Year** | Fall 2026 (September 21 – December 10, 2026) |
 | **Location/Time** | Lab: STEM Building 209, Tu/Th 2:00–3:50 PM (18411). Lecture/discussion: online, asynchronous. |
-| **Course Site** | Canvas Learning Management System (clarkcollege.instructure.com) |
+| **Course Site** | [Canvas Learning Management System](https://clarkcollege.instructure.com) |
 | **Course Modality** | Hybrid — asynchronous online lecture/discussion + biweekly on-campus lab |
 | **Credit Hours** | 5 credits (3.0 hours lecture-equivalent / 4.0 hours lab) |
 | **Prerequisites** | CHEM&121 (grade of "C" or higher). |
@@ -87,7 +87,7 @@ Like CHEM&121, this course is entirely discussion-based online — no traditiona
 
 ## What if I need an accommodation?
 
-Clark College and the Disability Access Center (DAC) office assist students with disabilities in pursuing their educational goals. DAC can provide classroom accommodations, as well as serve as a resource to the campus community in striving to make Clark College both an accessible and hospitable place for students with disabilities. Interested in getting accommodations? Begin with viewing the steps for requesting accommodations at clark.edu/dac.
+Clark College and the Disability Access Center (DAC) office assist students with disabilities in pursuing their educational goals. DAC can provide classroom accommodations, as well as serve as a resource to the campus community in striving to make Clark College both an accessible and hospitable place for students with disabilities. Interested in getting accommodations? Begin with [viewing the steps for requesting accommodations](https://www.clark.edu/campus-life/student-support/disability_support/access_procedure.php).
 
 ## Weekly Flow
 
@@ -139,9 +139,9 @@ I've spent more than 25 years building and refining active-learning chemistry co
 | **Companion Web Site** | ALEKS (aleks.com), accessed through Canvas |
 | **Software** | Microsoft Office (primarily Word and Excel) — accessible right inside Canvas through the Microsoft Education integration, using your free Clark student Office 365 account. |
 | **Electronic Resources** | Canvas Learning Management System, with Microsoft OneDrive linked directly through Canvas's built-in Microsoft Education integration (no separate office.com setup needed).<br><br>A heads up: this embedded Office/OneDrive connection tripped up a number of students last term. Module 0 has a step-by-step setup guide — work through it in week one, and if you hit an error, contact Tech Hub (techhub@clark.edu · 360-992-2010) rather than troubleshooting alone. |
-| **Privacy related to course tools and materials** | See Clark's eLearning accessibility and privacy policies page (clark.edu/academics/eLearning) for Canvas, ALEKS, and other tools used in this course. |
-| **Accessibility related to course tools and materials** | See Clark's eLearning accessibility and privacy policies page (clark.edu/academics/eLearning) for accessibility statements on Canvas, ALEKS, and other course tools. |
-| **Where to find necessary materials** | Chemfolio and your lab manual: Clark College Bookstore, *[bookstore link pending]*.<br><br>ALEKS: access is set up automatically in Canvas once your registration is processed. |
+| **Privacy related to course tools and materials** | See Clark's [eLearning accessibility and privacy policies page](https://www.clark.edu/academics/eLearning/policies-standards/accessibility-statements.php) for Canvas, ALEKS, and other tools used in this course. |
+| **Accessibility related to course tools and materials** | See Clark's [eLearning accessibility and privacy policies page](https://www.clark.edu/academics/eLearning/policies-standards/accessibility-statements.php) for accessibility statements on Canvas, ALEKS, and other course tools. |
+| **Where to find necessary materials** | Chemfolio and your lab manual: [Clark College Bookstore](https://www.clarkbookstore.com/buy_textbooks.asp).<br><br>ALEKS: access is set up automatically in Canvas once your registration is processed. |
 
 # What Are the Course Agreements?
 
@@ -272,31 +272,31 @@ There is no separate revision or regrade policy at this time — the late-work w
 
 | Item | Details |
 |---|---|
-| **Tech Hub** | Canvas, software, or account trouble — Scarpelli Hall 135 · techhub@clark.edu · 360-992-2010 |
-| **To report a Canvas problem** | The Help button in Canvas → "Report a Problem" (replies come to your Clark Gmail) |
+| **[Tech Hub](https://www.clark.edu/its/documentation-and-resources/students/techhub/index.php)** | Canvas, software, or account trouble — Scarpelli Hall 135 · [techhub@clark.edu](mailto:techhub@clark.edu) · 360-992-2010 |
+| **To report a Canvas problem** | The Help button in Canvas → "Report a Problem" (replies come to your Clark Gmail) · [Canvas Student Guide](https://community.canvaslms.com/t5/Student-Guide/tkb-p/student) |
 | **Setup help** | Module 0 has the Office/OneDrive setup guide — this step trips people up, so budget real time and reach out to Tech Hub if you hit an error |
 
 ## Academic Support
 
 | Item | Details |
 |---|---|
-| **Student Success Coaches** | One-on-one coaching for study/organization skills, emotional and personal support, and connections to college resources. PUB 002 or Zoom. |
-| **Clark College Tutoring Services** | In-person and virtual tutoring via Zoom; eTutoringOnline.org for additional online writing lab support. |
-| **Clark College Librarians** | One-on-one help with research projects and source citations, in person or by chat. |
+| **[Student Success Coaches](https://www.clark.edu/campus-life/student-support/success-coaches/)** | One-on-one coaching for study/organization skills, emotional and personal support, and connections to college resources. PUB 002 or Zoom. |
+| **[Clark College Tutoring Services](https://www.clark.edu/campus-life/student-support/tutoring/index.php)** | In-person and virtual tutoring via Zoom; [eTutoringOnline.org](https://etutoringonline.org/) for additional online writing lab support. |
+| **[Clark College Librarians](https://library.clark.edu/)** | One-on-one help with research projects and source citations, in person or by [chat](https://library.clark.edu/content/ask-librarian). |
 
 ## Student Support
 
 | Item | Details |
 |---|---|
-| **Counseling and Health Center** | Physical and mental health services to support student wellness and academic success. |
-| **Office of People and Culture (OPC)** | Supports systemically non-dominant groups navigating Clark College; the Diversity Center is a great place to visit between classes. |
-| **Penguin Pantry** | Monthly pre-packaged food boxes. Contact Cath Busha, Dean of Student Engagement (cbusha@clark.edu). |
-| **Basic Needs Hub** | Help with food, housing, and financial challenges. basicneeds@clark.edu · 360-992-2766 · Gaiser Hall (GHL) 216. |
-| **Advising Services** | Co-create academic plans aligned with your career and personal goals. |
-| **Career Services** | Resources and strategies for career and employment goals. 360-992-2902 · careerservices@clark.edu |
-| **Veterans Center of Excellence** | Resources, community, and support for U.S. military service members. PUB 015 · 360-992-2073 · Vetresources@clark.edu |
+| **[Counseling and Health Center](https://www.clark.edu/campus-life/student-support/counseling/index.php)** | Physical and mental health services to support student wellness and academic success. |
+| **[Office of People and Culture (OPC)](https://www.clark.edu/campus-life/student-support/diversity-and-equity/index.php)** | Supports systemically non-dominant groups navigating Clark College; the [Diversity Center](https://www.clark.edu/campus-life/student-support/diversity-and-equity/diversity_center.php) is a great place to visit between classes. |
+| **[Penguin Pantry](https://www.clark.edu/campus-life/student-support/penguinpantry/index.php)** | Monthly pre-packaged food boxes. Contact Cath Busha, Dean of Student Engagement ([cbusha@clark.edu](mailto:cbusha@clark.edu)). |
+| **[Basic Needs Hub](https://www.clark.edu/campus-life/student-support/basic-needs/)** | Help with food, housing, and financial challenges — [intake form](https://forms.office.com/r/QYMvHDdhxF). basicneeds@clark.edu · 360-992-2766 · Gaiser Hall (GHL) 216. |
+| **[Advising Services](https://www.clark.edu/enroll/advising-services/)** | Co-create academic plans aligned with your career and personal goals — [schedule an appointment](https://www.clark.edu/enroll/advising-services/schedule.php). |
+| **[Career Services](https://www.clark.edu/enroll/careers/index.php)** | Resources and strategies for career and employment goals. 360-992-2902 · [careerservices@clark.edu](mailto:careerservices@clark.edu) |
+| **[Veterans Center of Excellence](https://www.clark.edu/campus-life/student-support/vrc/index.php)** | Resources, community, and support for U.S. military service members. PUB 015 · 360-992-2073 · [Vetresources@clark.edu](mailto:Vetresources@clark.edu) |
 
-You can find all these resources as well as links to the Clark bookstore, C-Tran, campus maps, and campus life and activities at the Clark Students website.
+You can find all these resources as well as links to the [Clark bookstore](https://www.clarkbookstore.com/buy_textbooks.asp), [C-Tran](https://www.c-tran.com/), [campus maps](https://www.clark.edu/advisory/ba/campus-map.pdf), and campus life and activities at the [Clark Students website](https://www.clark.edu/current/index.php).
 
 # How Should I Get Started in Class?
 
@@ -310,13 +310,13 @@ Everything below is required Clark College policy language, included in full bec
 
 **TL;DR:** If a disability or temporary health condition affects your coursework, DAC can set up accommodations for this class — contact them as early as you can.
 
-Clark College and Disability Access Center (DAC) assist students with disabilities in pursuing their educational goals. Clark College is committed to assuring that its services are accessible to individuals with disabilities. Disability Access Center (DAC) coordinates accommodations for students with disabilities and/or temporary health conditions (could include a temporary injury or pregnancy). DAC approves and provides student disability accommodations for classes in partnership with faculty. Students with disabilities who believe that they may need accommodations in this class are encouraged to contact DAC as soon as possible to better ensure that accommodations are implemented in a timely manner. All accommodations must first be approved through Disability Access Center. Interested in getting accommodations? You can request accommodations by following steps on the DAC website www.clark.edu/dac. Or contact DAC one of these ways:
+Clark College and Disability Access Center (DAC) assist students with disabilities in pursuing their educational goals. Clark College is committed to assuring that its services are accessible to individuals with disabilities. Disability Access Center (DAC) coordinates accommodations for students with disabilities and/or temporary health conditions (could include a temporary injury or pregnancy). DAC approves and provides student disability accommodations for classes in partnership with faculty. Students with disabilities who believe that they may need accommodations in this class are encouraged to contact DAC as soon as possible to better ensure that accommodations are implemented in a timely manner. All accommodations must first be approved through Disability Access Center. Interested in getting accommodations? You can request accommodations by following the [steps on the DAC website](https://www.clark.edu/campus-life/student-support/disability_support/access_procedure.php). Or contact DAC one of these ways:
 
 - DAC Main Phone: 360-992-2314. Video Phone for ASL: 360-991-0901.
-- Email: dac@clark.edu. Fax: (360) 992-2879.
+- Email: [dac@clark.edu](mailto:dac@clark.edu). Fax: (360) 992-2879.
 - Physical Location: Penguin Union Building (PUB) 002.
 
-If you have already been approved for accommodations, don't forget to request them every term in myAccess. Students who need to test at DAC also need to schedule their own exams in myAccess or by contacting DAC. Exams should be scheduled with DAC with at least 5 business days' notice. Please reach out to DACtesting@clark.edu if you have any questions about your testing accommodations.
+If you have already been approved for accommodations, don't forget to [request them every term in myAccess](https://www.clark.edu/dac/myaccess.php). Students who need to test at DAC also need to [schedule their own exams in myAccess](https://www.clark.edu/dac/myaccess.php) or by contacting DAC. Exams should be scheduled with DAC with at least 5 business days' notice. Please reach out to [DACtesting@clark.edu](mailto:dactesting@clark.edu) if you have any questions about your testing accommodations.
 
 Once you have established accommodations with Disability Access Center, please contact me as your instructor to discuss your needs in this course.
 
@@ -326,7 +326,7 @@ Once you have established accommodations with Disability Access Center, please c
 
 The college affirms a commitment to freedom from discrimination for all members of the college community. The responsibility for, and the protection of, this commitment extends to students, faculty, administration, staff, contractors, and those who develop or participate in college programs. It encompasses every aspect of employment and every student and community activity. The college expressly prohibits discrimination on the basis of race, color, national origin, age, perceived or actual physical or mental disability, pregnancy, genetic information, sex, sexual orientation, gender identity, marital status, creed, religion, honorably discharged veteran or military status, citizenship, immigration status, or use of a trained guide dog or service animal. Harassment is a form of discrimination. Any person who believes they have been discriminated against or harassed by Clark College or its employees may file a formal grievance to:
 
-Human Resources Department — 1933 Fort Vancouver Way, Baird Hall 133 — Phone: (360) 992-2105 — Email: hr@clark.edu
+Human Resources Department — 1933 Fort Vancouver Way, Baird Hall 133 — Phone: (360) 992-2105 — Email: [hr@clark.edu](mailto:hr@clark.edu)
 
 ## Title IX and Sexual Misconduct
 
@@ -334,10 +334,10 @@ Human Resources Department — 1933 Fort Vancouver Way, Baird Hall 133 — Phone
 
 Clark College is committed to helping individuals achieve their educational and professional goals and to providing a community that is supportive of students who may have experienced sexual misconduct. The Clark community wants survivors of sexual misconduct, in any form, to know that they are not alone — we are here to help.
 
-If you, or someone you care about, have been impacted by sexual misconduct, the most important thing to know is that you are not alone — there are people who can and want to help. People are available to listen, offer support, provide options, and take actions to help ensure that you and our community are safe. Survivors of sexual misconduct respond to their experiences in different ways. There is no 'right way' to feel or 'right thing' to do. Learn more about campus and community resources, reporting options, Title IX, personal safety, and how to help a friend who may have experienced sexual misconduct at clark.edu/title-IX. You can also contact the Counseling and Health Center if you would like to pursue counseling.
+If you, or someone you care about, have been impacted by sexual misconduct, the most important thing to know is that you are not alone — there are people who can and want to help. People are available to listen, offer support, provide options, and take actions to help ensure that you and our community are safe. Survivors of sexual misconduct respond to their experiences in different ways. There is no 'right way' to feel or 'right thing' to do. Learn more about [campus and community resources](https://www.clark.edu/about/governance/policies-procedures/title-IX/resources.php), [reporting options](https://www.clark.edu/about/governance/policies-procedures/title-IX/reporting.php), [Title IX](https://www.clark.edu/about/governance/policies-procedures/title-IX/), [personal safety](https://www.clark.edu/about/governance/policies-procedures/title-IX/safety-and-help.php), and how to help a friend who may have experienced sexual misconduct. You can also contact the [Counseling and Health Center](https://www.clark.edu/campus-life/student-support/counseling/index.php) if you would like to pursue counseling.
 
 ## Student Rights and Responsibilities
 
 **TL;DR:** This covers things like FERPA, absences for reasons of faith, and your general rights as a student — reach out if any of it applies to you.
 
-On Clark's Student Rights and Responsibilities page, you can find information about freedom of access to education, student absence for reasons of faith or conscience, FERPA, emergency and health information, etc. Please get in touch if you would like to discuss absences for reasons of faith. I am here to support you.
+On Clark's [Student Rights and Responsibilities page](https://www.clark.edu/about/governance/public-disclosure-and-records/adminProcedures/700/710/index.php), you can find information about freedom of access to education, student absence for reasons of faith or conscience, FERPA, emergency and health information, etc. Please get in touch if you would like to discuss absences for reasons of faith. I am here to support you.
