@@ -65,7 +65,7 @@ A few abbreviations come up constantly in this course. Here's what they mean, so
 | **Course Modality** | Hybrid — asynchronous online lecture/discussion + biweekly on-campus lab |
 | **Credit Hours** | 5 credits (3.0 hours lecture-equivalent / 4.0 hours lab) |
 | **Prerequisites** | MATH 96 (grade of "C" or higher), or placement into Math level 45. |
-| **Course Description** | **What the catalog says:** Topics in general chemistry applicable to students seeking a 2-year degree in the health-occupations fields. Unit-factor method is applied to problem solving. Topics covered include units of measurement, atomic structure, chemical bonding, energy, the mole concept, nomenclature of inorganic compounds, writing and balancing equations, properties of gases, solutions and colloids, reaction rates and equilibrium, acids, bases and salts, radiation and health.<br><br>**What that means in practice:** You'll learn to think like a health professional needs to think about chemistry — using math and unit conversions to solve real clinical-style problems, not just memorizing facts. Expect this course to feel like a math class and a foreign-language class rolled together: we use conversions from day one, every week, in both discussion and lab. |
+| **Course Description** | **What [Clark's Course Catalog](https://catalog.clark.edu/course-descriptions/) says:** Topics in general chemistry applicable to students seeking a 2-year degree in the health-occupations fields. Unit-factor method is applied to problem solving. Topics covered include units of measurement, atomic structure, chemical bonding, energy, the mole concept, nomenclature of inorganic compounds, writing and balancing equations, properties of gases, solutions and colloids, reaction rates and equilibrium, acids, bases and salts, radiation and health.<br><br>**What that means in practice:** You'll learn to think like a health professional needs to think about chemistry — using math and unit conversions to solve real clinical-style problems, not just memorizing facts. Expect this course to feel like a math class and a foreign-language class rolled together: we use conversions from day one, every week, in both discussion and lab. |
 
 # Welcome to Class!
 
@@ -153,7 +153,7 @@ Canvas Inbox is our channel — for everything. I don't use email during the ter
 
 ## Citing Your Sources
 
-Use a citation to credit ANY source of information used in your work, be it a website, image, or content that YOU did not come up with. Yes, it's a pain, but it helps when posting content for others who need to trust and rely on it. To avoid plagiarism (when you intentionally or unintentionally present someone else's work as your own), you will need to signal that you are referencing outside material and give credit. Clark College Libraries' plagiarism guide is a handy resource for learning about what plagiarism is and how to avoid it. I am here if you have questions about how to correctly cite outside information in your work.
+Use a citation to credit ANY source of information used in your work, be it a website, image, or content that YOU did not come up with. Yes, it's a pain, but it helps when posting content for others who need to trust and rely on it. To avoid plagiarism (when you intentionally or unintentionally present someone else's work as your own), you will need to signal that you are referencing outside material and give credit. [Clark College Libraries' plagiarism guide](https://clark.libguides.com/c.php?g=1005438&p=7291798) is a handy resource for learning about what plagiarism is and how to avoid it. I am here if you have questions about how to correctly cite outside information in your work.
 
 ## AI (Artificial Intelligence) Guidelines — Community AI Agreement
 
@@ -272,8 +272,8 @@ There is no separate revision or regrade policy at this time — the late-work w
 
 | Item | Details |
 |---|---|
-| **[Tech Hub](https://www.clark.edu/its/documentation-and-resources/students/techhub/index.php)** | Canvas, software, or account trouble — Scarpelli Hall 135 · [techhub@clark.edu](mailto:techhub@clark.edu) · 360-992-2010 |
-| **To report a Canvas problem** | The Help button in Canvas → "Report a Problem" (replies come to your Clark Gmail) · [Canvas Student Guide](https://community.canvaslms.com/t5/Student-Guide/tkb-p/student) |
+| **[Tech Hub](https://www.clark.edu/its/documentation-and-resources/students/techhub/index.php)** | Canvas, software, or account trouble — [Scarpelli Hall 135](https://www.clark.edu/advisory/ba/campus-map.pdf) · [techhub@clark.edu](mailto:techhub@clark.edu) · 360-992-2010 |
+| **To report a Canvas problem** | The Help button in Canvas → "Report a Problem" (replies come to your Clark Gmail) · [Canvas Guides](https://community.canvaslms.com/t5/Canvas-Student/ct-p/canvas_student) · [Student Guide](https://community.canvaslms.com/t5/Student-Guide/tkb-p/student) |
 | **Setup help** | Module 0 has the Office/OneDrive setup guide — this step trips people up, so budget real time and reach out to Tech Hub if you hit an error |
 
 ## Academic Support
@@ -281,7 +281,7 @@ There is no separate revision or regrade policy at this time — the late-work w
 | Item | Details |
 |---|---|
 | **[Student Success Coaches](https://www.clark.edu/campus-life/student-support/success-coaches/)** | One-on-one coaching for study/organization skills, emotional and personal support, and connections to college resources. PUB 002 or Zoom. |
-| **[Clark College Tutoring Services](https://www.clark.edu/campus-life/student-support/tutoring/index.php)** | In-person and virtual tutoring via Zoom; [eTutoringOnline.org](https://etutoringonline.org/) for additional online writing lab support. |
+| **[Clark College Tutoring Services](https://www.clark.edu/campus-life/student-support/tutoring/index.php)** | In-person and virtual tutoring via Zoom; see the [Virtual Tutoring Center](https://clarkcollege.instructure.com/courses/2008261) Canvas course; [eTutoringOnline.org](https://etutoringonline.org/) for additional online writing lab support. |
 | **[Clark College Librarians](https://library.clark.edu/)** | One-on-one help with research projects and source citations, in person or by [chat](https://library.clark.edu/content/ask-librarian). |
 
 ## Student Support
@@ -294,9 +294,9 @@ There is no separate revision or regrade policy at this time — the late-work w
 | **[Basic Needs Hub](https://www.clark.edu/campus-life/student-support/basic-needs/)** | Help with food, housing, and financial challenges — [intake form](https://forms.office.com/r/QYMvHDdhxF). basicneeds@clark.edu · 360-992-2766 · Gaiser Hall (GHL) 216. |
 | **[Advising Services](https://www.clark.edu/enroll/advising-services/)** | Co-create academic plans aligned with your career and personal goals — [schedule an appointment](https://www.clark.edu/enroll/advising-services/schedule.php). |
 | **[Career Services](https://www.clark.edu/enroll/careers/index.php)** | Resources and strategies for career and employment goals. 360-992-2902 · [careerservices@clark.edu](mailto:careerservices@clark.edu) |
-| **[Veterans Center of Excellence](https://www.clark.edu/campus-life/student-support/vrc/index.php)** | Resources, community, and support for U.S. military service members. PUB 015 · 360-992-2073 · [Vetresources@clark.edu](mailto:Vetresources@clark.edu) |
+| **[Veterans Center of Excellence](https://www.clark.edu/campus-life/student-support/vrc/index.php)** | Resources, community, and support for U.S. military service members. [PUB 015](https://www.clark.edu/about/visitors-guide/getting-to-clark/maps/floor_plans/Gaiser-PUB_map.pdf) · 360-992-2073 · [Vetresources@clark.edu](mailto:Vetresources@clark.edu) |
 
-You can find all these resources as well as links to the [Clark bookstore](https://www.clarkbookstore.com/buy_textbooks.asp), [C-Tran](https://www.c-tran.com/), [campus maps](https://www.clark.edu/advisory/ba/campus-map.pdf), and campus life and activities at the [Clark Students website](https://www.clark.edu/current/index.php).
+You can find all these resources as well as links to the [Clark bookstore](https://www.clarkbookstore.com/buy_textbooks.asp), [C-Tran](https://www.c-tran.com/), [campus maps](https://www.clark.edu/about/visitors-guide/getting-to-clark/index.php), and campus life and activities at the [Clark Students website](https://www.clark.edu/current/index.php).
 
 # How Should I Get Started in Class?
 
