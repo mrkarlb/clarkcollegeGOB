@@ -98,6 +98,8 @@
     background: #fff;
     color: var(--header-tab-text);
   }
+  .page-toggle { margin-left: 10px; }
+  .page-toggle button[aria-pressed="true"] { background: var(--accent); color: #fff; }
   .header-copy {
     display: flex;
     align-items: center;
@@ -290,6 +292,10 @@
     <div class="course-toggle" role="group" aria-label="Choose a course">
       <button id="btn121" aria-pressed="true" onclick="setCourse('chem121')">CHEM&amp;121</button>
       <button id="btn131" aria-pressed="false" onclick="setCourse('chem131')">CHEM&amp;131</button>
+    </div>
+    <div class="course-toggle page-toggle" role="group" aria-label="Choose a page">
+      <button id="pageBtnSyllabus" aria-pressed="true" onclick="setPage('syllabus')">Syllabus</button>
+      <button id="pageBtnCovered" aria-pressed="false" onclick="setPage('whatscovered')">What's Covered</button>
     </div>
     <div class="header-copy">
       <span class="header-copy-label">Get a copy:</span>

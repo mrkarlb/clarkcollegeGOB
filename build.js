@@ -104,24 +104,84 @@ function buildCourseData(mdPath) {
   return { meta, html };
 }
 
+// Parses a "What's Covered" file (content/<course>-whatscovered.md) into an
+// intro block plus an ordered array of module cards. Separate from
+// buildCourseData/SECTION_ORDER because this content is module-shaped, not
+// syllabus-section-shaped, and is term-agnostic (no Weekly Flow dates here).
+function buildWhatsCoveredData(mdPath) {
+  const raw = fs.readFileSync(mdPath, "utf8");
+  const { meta, body } = parseFrontmatter(raw);
+  const lines = body.split("\n");
+  const modules = [];
+  const introLines = [];
+  let current = null;
+  for (const line of lines) {
+    const h2mod = line.match(/^## Module (\d+): (.+)$/);
+    if (h2mod) {
+      if (current) modules.push(current);
+      current = { num: h2mod[1], title: h2mod[2].trim(), id: `module-${h2mod[1]}`, lines: [line] };
+      continue;
+    }
+    if (current) current.lines.push(line);
+    else introLines.push(line);
+  }
+  if (current) modules.push(current);
+
+  const introHtml = marked.parse(introLines.join("\n"));
+  const moduleData = modules.map((m) => ({
+    id: m.id,
+    num: m.num,
+    title: m.title,
+    html: marked.parse(m.lines.join("\n")),
+  }));
+  return { meta, introHtml, modules: moduleData };
+}
+
+const PRINT_FONTS = `<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">`;
+const PRINT_BASE_CSS = `
+  body { font-family: 'Source Sans 3', sans-serif; color: #17211E; font-size: 12.5px; line-height: 1.5; max-width: 100%; }
+  h1 { font-family: 'Source Serif 4', serif; color: #143F49; font-size: 22px; border-bottom: 2px solid #1D5C6B; padding-bottom: 4px; margin-top: 22px; }
+  h2 { font-family: 'Source Serif 4', serif; color: #143F49; font-size: 16px; margin-top: 16px; }
+  h3 { font-size: 13.5px; margin-top: 12px; }
+  table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 11.5px; }
+  td, th { border: 1px solid #D8DDD9; padding: 6px 8px; text-align: left; vertical-align: top; }
+  tr td:first-child { background: #E4EEEC; font-weight: 700; width: 26%; }
+  blockquote { border-left: 3px solid #1D5C6B; background: #E4EEEC; margin: 10px 0; padding: 8px 12px; font-size: 11.5px; }
+  ul, ol { padding-left: 20px; }
+  li { margin-bottom: 4px; }
+`;
+
 async function mdToStyledHtml(mdPath, title) {
   const raw = fs.readFileSync(mdPath, "utf8");
   const { body } = parseFrontmatter(raw);
   const content = marked.parse(body);
   return `<!DOCTYPE html><html><head><meta charset="UTF-8">
-  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  ${PRINT_FONTS}
+  <style>${PRINT_BASE_CSS}</style></head><body><h1 style="border:none;font-size:26px;">${title}</h1>${content}</body></html>`;
+}
+
+// Evaluator-facing "What's Covered" PDF: same brand styling as the full
+// syllabus PDF, but every <details> logistics block is forced open, since a
+// printed page can't be expanded by clicking. Deliberately excludes the
+// syllabus's policy/grading/AI-agreement content — modules and labs only.
+async function whatsCoveredPdfHtml(mdPath, title, termLine) {
+  const raw = fs.readFileSync(mdPath, "utf8");
+  const { body } = parseFrontmatter(raw);
+  let content = marked.parse(body).replace(/<details>/g, "<details open>");
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8">
+  ${PRINT_FONTS}
   <style>
-    body { font-family: 'Source Sans 3', sans-serif; color: #17211E; font-size: 12.5px; line-height: 1.5; max-width: 100%; }
-    h1 { font-family: 'Source Serif 4', serif; color: #143F49; font-size: 22px; border-bottom: 2px solid #1D5C6B; padding-bottom: 4px; margin-top: 22px; }
-    h2 { font-family: 'Source Serif 4', serif; color: #143F49; font-size: 16px; margin-top: 16px; }
-    h3 { font-size: 13.5px; margin-top: 12px; }
-    table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 11.5px; }
-    td, th { border: 1px solid #D8DDD9; padding: 6px 8px; text-align: left; vertical-align: top; }
-    tr td:first-child { background: #E4EEEC; font-weight: 700; width: 26%; }
-    blockquote { border-left: 3px solid #1D5C6B; background: #E4EEEC; margin: 10px 0; padding: 8px 12px; font-size: 11.5px; }
-    ul, ol { padding-left: 20px; }
-    li { margin-bottom: 4px; }
-  </style></head><body><h1 style="border:none;font-size:26px;">${title}</h1>${content}</body></html>`;
+    ${PRINT_BASE_CSS}
+    .band { background: #143F49; color: #fff; padding: 3px 10px; font-weight: 700; font-size: 10.5px; border-radius: 3px; display: inline-block; margin-bottom: 8px; }
+    .sub { color: #445048; font-size: 11.5px; margin-bottom: 10px; }
+    details { margin: 8px 0 14px; }
+    details summary { font-weight: 700; color: #1D5C6B; cursor: default; margin-bottom: 4px; }
+  </style></head><body>
+  <div class="band">COURSE CONTENT SUMMARY — FOR TRANSFER EVALUATION</div>
+  <h1 style="border:none;font-size:26px;">${title}</h1>
+  <div class="sub">${termLine}</div>
+  ${content}
+  </body></html>`;
 }
 
 async function dayOneHtml(courseData, title) {
@@ -156,15 +216,20 @@ async function main() {
   const courses = [
     { md: "content/chem121.md", key: "chem121", pdfTitle: "CHEM&121: Introduction to Chemistry",
       docx: "downloads/CHEM121_Syllabus_Fall2026.docx", pdf: "downloads/CHEM121_Syllabus_Fall2026.pdf",
-      dayone: "downloads/CHEM121_DayOne_Fall2026.pdf" },
+      dayone: "downloads/CHEM121_DayOne_Fall2026.pdf",
+      whatsCoveredMd: "content/chem121-whatscovered.md", whatsCoveredPdfTitle: "CHEM&121: Introduction to Chemistry",
+      whatsCoveredPdf: "downloads/CHEM121_WhatsCovered_Fall2026.pdf" },
     { md: "content/chem131.md", key: "chem131", pdfTitle: "CHEM&131: Introduction to Organic and Biochemistry",
       docx: "downloads/CHEM131_Syllabus_Fall2026.docx", pdf: "downloads/CHEM131_Syllabus_Fall2026.pdf",
-      dayone: "downloads/CHEM131_DayOne_Fall2026.pdf" },
+      dayone: "downloads/CHEM131_DayOne_Fall2026.pdf",
+      whatsCoveredMd: "content/chem131-whatscovered.md", whatsCoveredPdfTitle: "CHEM&131: Introduction to Organic and Biochemistry",
+      whatsCoveredPdf: "downloads/CHEM131_WhatsCovered_Fall2026.pdf" },
   ];
 
   const generated = {};
   for (const c of courses) {
     generated[c.key] = buildCourseData(c.md);
+    generated[c.key].whatsCovered = buildWhatsCoveredData(c.whatsCoveredMd);
     // DOCX via pandoc, straight from markdown
     execSync(`pandoc "${c.md}" -o "${c.docx}" --standalone`);
     console.log("built", c.docx);
@@ -187,6 +252,14 @@ async function main() {
     await dayPage.pdf({ path: c.dayone, format: "Letter", printBackground: true, margin: { top: "0.5in", bottom: "0.5in", left: "0.5in", right: "0.5in" } });
     await dayPage.close();
     console.log("built", c.dayone);
+
+    // Evaluator-facing "What's Covered" PDF — separate from the syllabus PDF/Word/Day One
+    const wcHtml = await whatsCoveredPdfHtml(c.whatsCoveredMd, c.whatsCoveredPdfTitle, generated[c.key].meta.term || "");
+    const wcPage = await browser.newPage();
+    await wcPage.setContent(wcHtml, { waitUntil: "networkidle" });
+    await wcPage.pdf({ path: c.whatsCoveredPdf, format: "Letter", printBackground: true, margin: { top: "0.6in", bottom: "0.6in", left: "0.6in", right: "0.6in" } });
+    await wcPage.close();
+    console.log("built", c.whatsCoveredPdf);
   }
   await browser.close();
 
