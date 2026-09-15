@@ -65,6 +65,13 @@
     outline: 3px solid var(--accent);
     outline-offset: 2px;
   }
+  button {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    touch-action: manipulation;
+  }
 
   /* ---------- Header ---------- */
   header.top {
@@ -72,12 +79,14 @@
     color: #fff;
     padding: 28px 24px 24px;
   }
-  .top-inner { max-width: 1180px; margin: 0 auto; }
+  .top-inner { max-width: 1180px; margin: 0 auto; overflow-x: hidden; }
   .top-meta { font-size: 14px; color: #C9E4E4; margin-bottom: 6px; }
   .top-title { font-size: clamp(28px, 4vw, 40px); margin: 0 0 10px; color: #fff; }
   .top-sub { font-size: 15px; color: #D9EDEC; margin-bottom: 18px; }
   .course-toggle {
     display: inline-flex;
+    flex-wrap: wrap;
+    max-width: 100%;
     background: rgba(255,255,255,0.12);
     border-radius: 8px;
     padding: 4px;
@@ -98,8 +107,7 @@
     background: #fff;
     color: var(--header-tab-text);
   }
-  .page-toggle { margin-left: 10px; }
-  .page-toggle button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+  .page-toggle { margin-top: 10px; }
   .header-copy {
     display: flex;
     align-items: center;

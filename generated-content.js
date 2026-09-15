@@ -37,67 +37,77 @@ const GENERATED = {
         "term": "Fall 2026 (September 21 – December 10, 2026)",
         "instructor": "Dr. Karl Bailey (Dr. B)"
       },
-      "introHtml": "<h1>What&#39;s Covered</h1>\n<p>Everything covered in this course, organized by topic and module — useful for comparing against an equivalent course at another institution, and for previewing what&#39;s ahead before the term starts.</p>\n<p><em>Activity numbers below are provisional (carried over from the prior workbook) pending the Fall 2026 Chemfolio update — topics, labs, and objectives are current.</em></p>\n",
+      "introHtml": "<h1>What&#39;s Covered</h1>\n<p>Everything covered in this course, organized by topic and week — useful for comparing against an equivalent course at another institution, and for previewing what&#39;s ahead before the term starts.</p>\n<p><em>Built from the Fall 2026 Chemfolio schedule — first term using this material, so some groupings may shift slightly as the term settles in.</em></p>\n",
       "modules": [
         {
-          "id": "module-1",
+          "id": "week-1",
           "num": "1",
-          "title": "Math and Measurement, Introduction to the Atom",
-          "html": "<h2>Module 1: Math and Measurement, Introduction to the Atom</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>States of matter; classifying matter as pure substance, mixture, element, or compound</li>\n<li>Metric measurement of length, mass, and volume</li>\n<li>Significant figures and scientific notation</li>\n<li>Unit conversion and temperature conversion</li>\n<li>Density and specific gravity, including mass/volume calculations</li>\n<li>Lab: Lab Safety Orientation and Scavenger Hunt</li>\n<li>Required Reading: Smith Ch. 1 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA2, CA3, CA4, CA5, CA6</li>\n<li>OOL1 Discussion</li>\n<li>ALEKS Problem Set: Ch. 1</li>\n<li>CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)</li>\n<li>Calendar note: Friday — last day to drop online / 100% refund</li>\n</ul>\n</details>\n"
+          "label": "Week 1",
+          "title": "Atoms, Isotopes, and Electron Configuration",
+          "html": "<h2>Week 1: Atoms, Isotopes, and Electron Configuration</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Elements, atomic structure, and isotopes (protons/neutrons)</li>\n<li>The periodic table; electronic structure and configuration (electrons)</li>\n<li>Valence electrons and periodic trends</li>\n<li>Lab: Safety orientation; significant figures applied to measurement\nand calculation; density of an unknown; dimensional analysis</li>\n<li>Required Reading: Smith Ch. 2 (2.1–2.8)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A01 (2.1–2.3)</li>\n<li>Sunday activity: A02 (2.4–2.8)</li>\n<li>Lab 1</li>\n</ul>\n</details>\n"
         },
         {
-          "id": "module-2",
+          "id": "week-2",
           "num": "2",
-          "title": "Density, Atomic Number, Ionization Energy",
-          "html": "<h2>Module 2: Density, Atomic Number, Ionization Energy</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Identifying elements by symbol; classifying as metal, nonmetal, or metalloid</li>\n<li>Basic parts of the atom; isotopes</li>\n<li>Basic features of the periodic table (PTOE)</li>\n<li>Electronic structure of the atom; valence electrons</li>\n<li>Using the PTOE to predict relative atomic size and ionization energy</li>\n<li>Lab: Density and Sea Water</li>\n<li>Required Reading: Smith Ch. 2 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA7, CA9, CA10A, CA10B, Periodic properties (handout)</li>\n<li>OOL2 Discussion</li>\n<li>ALEKS Problem Set: Ch. 2</li>\n<li>CLOs addressed: 1 (full text on the Course Learning Outcomes page)</li>\n<li>Calendar note: Friday — last day to add/drop without a &quot;W&quot;</li>\n</ul>\n</details>\n"
+          "label": "Week 2",
+          "title": "Ionic and Covalent Bonding",
+          "html": "<h2>Week 2: Ionic and Covalent Bonding</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Introduction to bonding; ions; ionic compounds and their naming</li>\n<li>Physical properties of ionic compounds; polyatomic ions</li>\n<li>Covalent bonding; Lewis structures; naming covalent compounds</li>\n<li>Lab: Density, Seawater, and Thermohaline Circulation</li>\n<li>Required Reading: Smith Ch. 3 (3.1–3.9)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A03 (3.1–3.6)</li>\n<li>Sunday activity: A04 (3.7–3.9)</li>\n<li>Lab 2</li>\n<li>Also this week: Unit Quiz 1 (Ch. 1 + Ch. 2, no dimensional analysis); Writing Workshop 1</li>\n</ul>\n</details>\n"
         },
         {
-          "id": "module-3",
+          "id": "week-3",
           "num": "3",
-          "title": "Covalent Molecules, Shapes, Polarity and IMF",
-          "html": "<h2>Module 3: Covalent Molecules, Shapes, Polarity and IMF</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Predicting molecular shape; polar vs. nonpolar bonds and molecules</li>\n<li>Energy and units of energy; states of matter</li>\n<li>Intermolecular forces (IMF) and their effect on boiling/melting point</li>\n<li>Energy changes during a change of state; heating/cooling curves</li>\n<li>Lab: Molecular Shapes and GHGs</li>\n<li>Required Reading: Smith Ch. 3 (3.7–3.12), Ch. 4 (all, skip 4.5)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA13, CA16, CA17, CA27</li>\n<li>OOL3 Discussion</li>\n<li>ALEKS Problem Set: Ch. 4</li>\n<li>CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)</li>\n<li>Calendar note: Friday — last day to withdraw for the quarter</li>\n<li>Also this module: Quiz 1 (Modules 1 and 2)</li>\n</ul>\n</details>\n"
+          "label": "Week 3",
+          "title": "Molecular Shape, Polarity, and Intermolecular Forces",
+          "html": "<h2>Week 3: Molecular Shape, Polarity, and Intermolecular Forces</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Molecular shape; electronegativity and bond polarity; polarity of molecules</li>\n<li>Energy; the three states of matter; intermolecular forces; boiling and melting point</li>\n<li>Lab: Molecular Shapes and GHGs</li>\n<li>Library Visit 1</li>\n<li>Required Reading: Smith Ch. 3 (3.10–3.12), Ch. 4 (4.1–4.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A05 (3.10–3.12)</li>\n<li>Sunday activity: A06 (4.1–4.4)</li>\n<li>Lab 3 (continued into simulations alongside Library Visit 1)</li>\n</ul>\n</details>\n"
         },
         {
-          "id": "module-4",
+          "id": "week-4",
           "num": "4",
-          "title": "Electrons, Bonding, and Naming Compounds",
-          "html": "<h2>Module 4: Electrons, Bonding, and Naming Compounds</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Electron configuration (Periods 1–3); electron-dot symbols</li>\n<li>Ionic vs. covalent bonds; the octet rule</li>\n<li>Writing and naming ionic compounds, including common polyatomic ions</li>\n<li>Lewis structures and naming for covalent compounds</li>\n<li>Lab: Copper Cycle and AMD</li>\n<li>Required Reading: Smith Ch. 3 (3.1–3.6)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA11, CA12, CA15, CA19</li>\n<li>OOL4 Discussion</li>\n<li>ALEKS Problem Set: Ch. 3</li>\n<li>CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)</li>\n<li>Calendar note: Friday — last day for 50% refund</li>\n</ul>\n</details>\n"
+          "label": "Week 4",
+          "title": "Heat, Phase Changes, and the Mole",
+          "html": "<h2>Week 4: Heat, Phase Changes, and the Mole</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Specific heat; energy and phase changes; heating and cooling curves</li>\n<li>Mass balance; introduction to reactions, balancing equations, reaction\ntypes, and oxidation/reduction</li>\n<li>Lab: Copper Cycle and AMD</li>\n<li>Library Visit 2</li>\n<li>Required Reading: Smith Ch. 4 (4.5–4.7), Ch. 5 (5.1–5.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A07 (4.5–4.7)</li>\n<li>Sunday activity: A08 (5.1–5.4)</li>\n<li>Lab 4 (continued — weighing copper — alongside Library Visit 2)</li>\n</ul>\n</details>\n"
         },
         {
-          "id": "module-5",
+          "id": "week-5",
           "num": "5",
-          "title": "The Mole and Stoichiometry",
-          "html": "<h2>Module 5: The Mole and Stoichiometry</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Writing and balancing chemical equations</li>\n<li>Classifying reactions (combination, decomposition, single/double replacement)</li>\n<li>Oxidation, reduction, and redox reactions</li>\n<li>The mole, Avogadro&#39;s number, and molar mass</li>\n<li>Mole/mass calculations in chemical equations</li>\n<li>Lab: Soap and Soil Quality (Part 1)</li>\n<li>Required Reading: Smith Ch. 5 (5.1–5.8)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA18, CA20A, CA20B, CA22</li>\n<li>OOL5 Discussion</li>\n<li>ALEKS Problem Set: Ch. 5</li>\n<li>CLOs addressed: 2 (full text on the Course Learning Outcomes page)</li>\n<li>Also this module: Quiz 2 (Modules 3 and 4)</li>\n</ul>\n</details>\n"
+          "label": "Week 5",
+          "title": "Stoichiometry and Reaction Energy",
+          "html": "<h2>Week 5: Stoichiometry and Reaction Energy</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>The mole and Avogadro&#39;s number; mass-to-mole conversions; mole and\nmass calculations in chemical equations</li>\n<li>Energy changes in reactions; reaction rates</li>\n<li>Lab: Urban Gardens (soil sampling)</li>\n<li>Required Reading: Smith Ch. 5 (5.5–5.10)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A09 (5.5–5.8)</li>\n<li>Sunday activity: A10 (5.9–5.10)</li>\n<li>Lab 5 (finished with a Graphing Workshop)</li>\n<li>Also this week: Unit Quiz 2 (Ch. 3 + Ch. 4)</li>\n</ul>\n</details>\n"
         },
         {
-          "id": "module-6",
+          "id": "week-6",
           "num": "6",
-          "title": "Chemical Reactions: Energy, Rates, and Equilibrium",
-          "html": "<h2>Module 6: Chemical Reactions: Energy, Rates, and Equilibrium</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Endothermic vs. exothermic reactions; energy changes in reactions</li>\n<li>Factors affecting reaction rate</li>\n<li>Chemical equilibrium and Le Châtelier&#39;s principle</li>\n<li>How temperature is regulated in the body</li>\n<li>Lab: Soil Quality (Part 2)</li>\n<li>Required Reading: Smith Ch. 5 (5.9–5.12)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: Energy in Chemical Reactions Parts 1–3</li>\n<li>OOL6 Discussion</li>\n<li>ALEKS Problem Set: Ch. 5</li>\n<li>CLOs addressed: 3 (full text on the Course Learning Outcomes page)</li>\n</ul>\n</details>\n"
+          "label": "Week 6",
+          "title": "Equilibrium, Pressure, and Kinetic Molecular Theory",
+          "html": "<h2>Week 6: Equilibrium, Pressure, and Kinetic Molecular Theory</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Equilibrium; Le Châtelier&#39;s principle; body temperature regulation</li>\n<li>Gases and pressure; Boyle&#39;s, Charles&#39;s, and Gay-Lussac&#39;s laws</li>\n<li>Lab: Soil Quality Analysis (Day 1) and Water Quality Analysis (Day 2)</li>\n<li>Required Reading: Smith Ch. 5 (5.11–5.12), Ch. 6 (6.1–6.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A11 (5.11–5.12)</li>\n<li>Sunday activity: A12 (6.1–6.4)</li>\n<li>Lab 6 (two-day lab: NOx tube deployment Day 1, soil testing completed Day 2)</li>\n</ul>\n</details>\n"
         },
         {
-          "id": "module-7",
+          "id": "week-7",
           "num": "7",
-          "title": "Gases",
-          "html": "<h2>Module 7: Gases</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Measuring pressure and converting between pressure units</li>\n<li>Relationship between pressure, volume, and temperature (gas laws)</li>\n<li>Relationship between gas volume and moles; the ideal gas law</li>\n<li>Dalton&#39;s law and partial pressures</li>\n<li>Ozone and carbon dioxide as atmospheric components</li>\n<li>Lab: Air Pollution and Pollinators</li>\n<li>Required Reading: Smith Ch. 6 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: EOGL</li>\n<li>OOL7 Discussion</li>\n<li>ALEKS Problem Set: Ch. 6</li>\n<li>CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)</li>\n</ul>\n</details>\n"
+          "label": "Week 7",
+          "title": "Gas Laws and Air Quality",
+          "html": "<h2>Week 7: Gas Laws and Air Quality</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>The combined gas law; Avogadro&#39;s law; the ideal gas law; Dalton&#39;s\nlaw and partial pressures; ozone and CO2 in the atmosphere</li>\n<li>Solubility fundamentals; electrolytes and nonelectrolytes</li>\n<li>Lab: Air Pollution and Pollinators</li>\n<li>Required Reading: Smith Ch. 6 (6.5–6.9), Ch. 7 (7.1–7.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A13 (6.5–6.9)</li>\n<li>Sunday activity: A14 (7.1–7.4)</li>\n<li>Lab 7 (NOx tube collection, ozone strip placement; finished with a\nGraphing Workshop for air-quality results)</li>\n<li>Also this week: Unit Quiz 3 (Ch. 5)</li>\n</ul>\n</details>\n"
         },
         {
-          "id": "module-8",
+          "id": "week-8",
           "num": "8",
-          "title": "Solutions, Concentration, Osmosis, and Acids",
-          "html": "<h2>Module 8: Solutions, Concentration, Osmosis, and Acids</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Fundamental properties of solutions; solution vs. colloid vs. suspension</li>\n<li>Electrolytes vs. nonelectrolytes</li>\n<li>Solubility prediction; effects of temperature and pressure on solubility</li>\n<li>Solution concentration calculations; preparing dilutions</li>\n<li>Osmosis and its relationship to biological membranes and dialysis</li>\n<li>Lab: Drinking Water</li>\n<li>Required Reading: Smith Ch. 7 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA28, CA29A, CA14, CA30A</li>\n<li>OOL8 Discussion</li>\n<li>ALEKS Problem Set: Ch. 7</li>\n<li>CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)</li>\n<li>Also this module: Quiz 3 (Modules 5 and 6)</li>\n</ul>\n</details>\n"
+          "label": "Week 8",
+          "title": "Concentration, Acids, and Bases",
+          "html": "<h2>Week 8: Concentration, Acids, and Bases</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Percent concentration; molarity; dilution; osmosis and dialysis</li>\n<li>Introduction to acids and bases; Brønsted–Lowry reactions; acid/base strength</li>\n<li>Lab: Drinking Water</li>\n<li>Required Reading: Smith Ch. 7 (7.5–7.8), Ch. 8 (8.1–8.3)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A15 (7.5–7.8)</li>\n<li>Sunday activity: A16 (8.1–8.3)</li>\n<li>Lab 8 (Analysis — &quot;My Waterway Report&quot;)</li>\n<li>Calendar note: 11/11 campus holiday — lecture and lab still held this week</li>\n</ul>\n</details>\n"
         },
         {
-          "id": "module-9",
+          "id": "week-9",
           "num": "9",
-          "title": "Acids, Bases, and Buffers",
-          "html": "<h2>Module 9: Acids, Bases, and Buffers</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Identifying acids and bases; their characteristics</li>\n<li>Writing acid-base reaction equations; strong vs. weak acids/bases</li>\n<li>The ion product of water; calculating hydronium/hydroxide concentration</li>\n<li>Calculating pH; drawing products of common acid-base reactions</li>\n<li>Buffers and their role in maintaining pH in the body</li>\n<li>Lab: Surface and Ground Water</li>\n<li>Required Reading: Smith Ch. 8 (8.1–8.6, 8.8–8.9)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA30B, CA30C, CA31A, CA31B</li>\n<li>OOL9 Discussion</li>\n<li>ALEKS Problem Set: Ch. 8</li>\n<li>CLOs addressed: 1, 2, 3 (full text on the Course Learning Outcomes page)</li>\n<li>Also this module: Quiz 4 (Modules 7 and 8)</li>\n</ul>\n</details>\n"
+          "label": "Week 9",
+          "title": "pH, pOH, and Buffers",
+          "html": "<h2>Week 9: pH, pOH, and Buffers</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Dissociation of water; the pH scale; common acid-base reactions</li>\n<li>Buffers; buffers in the blood</li>\n<li>Lab: Surface and Ground Water</li>\n<li>Required Reading: Smith Ch. 8 (8.4–8.6, 8.8–8.9)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A17 (8.4–8.6)</li>\n<li>Sunday activity: A18 (8.8–8.9)</li>\n<li>Lab 9 (finished with Water Quality Index calculations)</li>\n<li>Also this week: Unit Quiz 4 (Ch. 6 + Ch. 7)</li>\n</ul>\n</details>\n"
         },
         {
-          "id": "module-10",
+          "id": "week-10",
           "num": "10",
-          "title": "Nuclear Chemistry",
-          "html": "<h2>Module 10: Nuclear Chemistry</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Types of radiation emitted by a radioactive nucleus</li>\n<li>Writing nuclear reaction equations; half-life</li>\n<li>Units used for measuring radioactivity</li>\n<li>Common radioisotopes used in medical diagnosis and treatment</li>\n<li>Nuclear fission and fusion; medical imaging without radioactivity</li>\n<li>Lab: Radiation and Alginate Beads</li>\n<li>Required Reading: Smith Ch. 9 (all)</li>\n<li>Final Project: Teach Your Community (TYC) due</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA8</li>\n<li>OOL10 Discussion</li>\n<li>ALEKS: Module 10</li>\n<li>CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)</li>\n</ul>\n</details>\n"
+          "label": "Week 10",
+          "title": "Nuclear Energy, Medical Applications, and Final Project",
+          "html": "<h2>Week 10: Nuclear Energy, Medical Applications, and Final Project</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Isotopes and radioactivity; nuclear reactions; half-life</li>\n<li>Detecting and measuring radioactivity; medical uses of radioisotopes</li>\n<li>Nuclear fission and fusion; medical imaging without radioactivity</li>\n<li>Lab: UV Radiation and Alginate Beads</li>\n<li>Final Project: Teach Your Community (TYC) — final exam assessment,\n10% of course grade, due Friday, 12/11</li>\n<li>Required Reading: Smith Ch. 9 (9.1–9.7)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Activity: A19 (9.1–9.3)</li>\n<li>Activity: A20 (9.4–9.7)</li>\n<li>Lab 10</li>\n<li>Field trip / TYC Outline work sessions</li>\n<li>Finals week: Unit Quiz 5 (Ch. 8 + Ch. 9); course potluck</li>\n<li>Calendar note: campus closed 11/25–11/26 during this content window</li>\n</ul>\n</details>\n"
         }
       ]
     }
@@ -142,54 +152,63 @@ const GENERATED = {
         {
           "id": "module-1",
           "num": "1",
+          "label": "Module 1",
           "title": "Properties of Organic Molecules: Structure, IMF, and Naming",
           "html": "<h2>Module 1: Properties of Organic Molecules: Structure, IMF, and Naming</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Distinguishing organic compounds from ionic inorganic compounds</li>\n<li>Common functional groups; shorthand structural drawing</li>\n<li>Acyclic alkanes, cycloalkanes, and constitutional isomers</li>\n<li>IUPAC naming of alkanes; predicting physical properties</li>\n<li>Complete and incomplete combustion of alkanes</li>\n<li>Lab: Lab Safety Orientation and Scavenger Hunt</li>\n<li>Required Reading: Smith Ch. 10 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: OM, CA33, CA34, CA35</li>\n<li>OOL1 Discussion</li>\n<li>ALEKS Problem Set: Ch. 10</li>\n<li>CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)</li>\n<li>Calendar note: Friday — last day to drop online / 100% refund</li>\n</ul>\n</details>\n"
         },
         {
           "id": "module-2",
           "num": "2",
+          "label": "Module 2",
           "title": "Properties of Organic Molecules: Functional Groups and Isomers",
           "html": "<h2>Module 2: Properties of Organic Molecules: Functional Groups and Isomers</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Unsaturated hydrocarbons: alkenes, alkynes, aromatic compounds; naming</li>\n<li>Constitutional isomers vs. stereoisomers; cis/trans isomers</li>\n<li>Saturated vs. unsaturated fatty acids and relative melting points</li>\n<li>Addition reactions of alkenes; hydrogenation; alkene-based polymers</li>\n<li>Alcohols, ethers, alkyl halides, thiols, aldehydes, ketones — naming and properties</li>\n<li>Alcohol dehydration/oxidation; thiol-to-disulfide conversion; aldehyde oxidation</li>\n<li>Chirality centers; Fischer projections</li>\n<li>Lab: Solubility</li>\n<li>Required Reading: Smith Ch. 11 (all), Ch. 12 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA36, CA37, CA38, CA39</li>\n<li>OOL2 Discussion</li>\n<li>ALEKS Problem Set: Ch. 11 and Ch. 12</li>\n<li>CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)</li>\n<li>Calendar note: Friday — last day to add/drop without a &quot;W&quot;</li>\n</ul>\n</details>\n"
         },
         {
           "id": "module-3",
           "num": "3",
+          "label": "Module 3",
           "title": "Properties of Organic Molecules: Functional Group Reactions",
           "html": "<h2>Module 3: Properties of Organic Molecules: Functional Group Reactions</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Characteristics and naming of carboxylic acids, esters, amines, amides</li>\n<li>Acid-base reactions of carboxylic acids; how soap cleans</li>\n<li>Condensation/hydrolysis reactions of carboxylic acids, esters, amides</li>\n<li>Acid-base reactions of amines; naming ammonium salts</li>\n<li>How penicillin works</li>\n<li>Lab: Consumer Plastics</li>\n<li>Required Reading: Smith Ch. 13 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA40, CA41, CA42, CA43</li>\n<li>OOL3 Discussion</li>\n<li>ALEKS Problem Set: Ch. 13</li>\n<li>CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)</li>\n<li>Calendar note: Friday — last day for 50% refund</li>\n<li>Also this module: Quiz 1 (Smith Ch. 10 and 11)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "module-4",
           "num": "4",
+          "label": "Module 4",
           "title": "Proteins and Enzymes",
           "html": "<h2>Module 4: Proteins and Enzymes</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Amino acid structure and acid-base properties</li>\n<li>N- and C-terminal labeling of peptides</li>\n<li>Primary, secondary, tertiary, quaternary protein structure</li>\n<li>Fibrous proteins (keratin, collagen); globular proteins (hemoglobin, myoglobin)</li>\n<li>Protein hydrolysis and denaturation</li>\n<li>Enzyme categories; diagnostic and therapeutic use of enzymes</li>\n<li>Lab: Chirality</li>\n<li>Required Reading: Smith Ch. 16 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA46B, CA46C, CA47A, CA47B</li>\n<li>OOL4 Discussion</li>\n<li>ALEKS Problem Set: Ch. 16</li>\n<li>CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)</li>\n<li>Calendar note: Friday — last day to withdraw for the quarter</li>\n<li>Also this module: Quiz 2 (Smith Ch. 12 and 13)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "module-5",
           "num": "5",
+          "label": "Module 5",
           "title": "Carbohydrates",
           "html": "<h2>Module 5: Carbohydrates</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Three major carbohydrate types; monosaccharide structure</li>\n<li>Cyclic forms of monosaccharides; α/β classification</li>\n<li>Oxidation/reduction products of monosaccharides</li>\n<li>Cellulose, starch, and glycogen; carbohydrates and blood type</li>\n<li>Lab: Reactions</li>\n<li>Required Reading: Smith Ch. 14 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA44B, CA44C, CA50, CA53</li>\n<li>OOL5 Discussion</li>\n<li>ALEKS Problem Set: Ch. 14</li>\n<li>CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "module-6",
           "num": "6",
+          "label": "Module 6",
           "title": "Lipids",
           "html": "<h2>Module 6: Lipids</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>General characteristics of lipids</li>\n<li>Fatty acid classification and melting point relationships</li>\n<li>Wax, triacylglycerol, and phospholipid structure; fat vs. oil; hydrolysis products</li>\n<li>Cell membrane structure and transport mechanisms</li>\n<li>Steroid structure (cholesterol) and steroid hormones</li>\n<li>Fat-soluble vitamins</li>\n<li>Lab: Proteins</li>\n<li>Required Reading: Smith Ch. 15 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA45B, CA45C, CA45D, CA54A</li>\n<li>OOL6 Discussion</li>\n<li>ALEKS Problem Set: Ch. 15</li>\n<li>CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "module-7",
           "num": "7",
+          "label": "Module 7",
           "title": "Nucleic Acids",
           "html": "<h2>Module 7: Nucleic Acids</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Nucleoside and nucleotide structure; drawing DNA/RNA segments</li>\n<li>DNA double helix; steps of replication</li>\n<li>RNA types and functions; transcription and translation</li>\n<li>Genetic code; mutation and genetic disease</li>\n<li>DNA fingerprinting; characteristics of viruses</li>\n<li>Lab: Sugar Spill</li>\n<li>Required Reading: Smith Ch. 17 (all)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA48A, CA48B, CA48C</li>\n<li>OOL7 Discussion</li>\n<li>ALEKS Problem Set: Ch. 17</li>\n<li>CLOs addressed: 1, 2, 3 (full text on the Course Learning Outcomes page)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "module-8",
           "num": "8",
+          "label": "Module 8",
           "title": "Metabolism — Part 1",
           "html": "<h2>Module 8: Metabolism — Part 1</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Definition of metabolism; four stages of catabolism</li>\n<li>Role of ATP in energy production</li>\n<li>Main coenzymes used in metabolism</li>\n<li>Required Reading: Smith Ch. 18 (part 1 of 2 — continues into Module 9)</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA49A, CA49B, CA49C</li>\n<li>OOL8 Discussion</li>\n<li>CLOs addressed: 1, 2, 3 (full text on the Course Learning Outcomes page)</li>\n<li>Also this module: Quiz 4 (Smith Ch. 16 and 17)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "module-9",
           "num": "9",
+          "label": "Module 9",
           "title": "Metabolism — Part 2",
           "html": "<h2>Module 9: Metabolism — Part 2</h2>\n<p><strong>What this module covers:</strong></p>\n<ul>\n<li>Glycolysis; pathways for pyruvate metabolism</li>\n<li>Citric acid cycle</li>\n<li>Electron transport chain and oxidative phosphorylation</li>\n<li>Energy yield from glucose metabolism</li>\n<li>β-oxidation of fatty acids; ketone body structure and role</li>\n<li>Lab: Seed Toxicology</li>\n<li>Required Reading: Smith Ch. 18 (part 2 of 2)</li>\n<li>Final Project: Teach Your Community (TYC) due</li>\n</ul>\n<details>\n<summary>Course outcomes & weekly logistics</summary><ul>\n<li>3-2-1 TEAM Activities: CA51, CA52, CA55, CA56</li>\n<li>OOL9 + OOL10 Discussions</li>\n<li>ALEKS Problem Set: Ch. 18</li>\n<li>CLOs addressed: 1, 2, 3 (full text on the Course Learning Outcomes page)</li>\n<li>Also this module: Quiz 5 (Smith Ch. 18)</li>\n</ul>\n</details>\n"
         }

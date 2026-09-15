@@ -97,7 +97,7 @@ function renderWhatsCovered(courseKey) {
   `;
 
   const toc = document.getElementById("toc");
-  toc.innerHTML = data.modules.map(m => `<a href="#${m.id}" data-target="${m.id}">Module ${m.num}: ${m.title}</a>`).join("");
+  toc.innerHTML = data.modules.map(m => `<a href="#${m.id}" data-target="${m.id}">${m.label}: ${m.title}</a>`).join("");
   observeSections();
 }
 

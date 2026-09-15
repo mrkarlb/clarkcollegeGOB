@@ -9,222 +9,196 @@ instructor: "Dr. Karl Bailey (Dr. B)"
 
 # What's Covered
 
-Everything covered in this course, organized by topic and module — useful for comparing against an equivalent course at another institution, and for previewing what's ahead before the term starts.
+Everything covered in this course, organized by topic and week — useful for comparing against an equivalent course at another institution, and for previewing what's ahead before the term starts.
 
-*Activity numbers below are provisional (carried over from the prior workbook) pending the Fall 2026 Chemfolio update — topics, labs, and objectives are current.*
+*Built from the Fall 2026 Chemfolio schedule — first term using this material, so some groupings may shift slightly as the term settles in.*
 
-## Module 1: Math and Measurement, Introduction to the Atom
+## Week 1: Atoms, Isotopes, and Electron Configuration
 
-**What this module covers:**
-- States of matter; classifying matter as pure substance, mixture, element, or compound
-- Metric measurement of length, mass, and volume
-- Significant figures and scientific notation
-- Unit conversion and temperature conversion
-- Density and specific gravity, including mass/volume calculations
-- Lab: Lab Safety Orientation and Scavenger Hunt
-- Required Reading: Smith Ch. 1 (all)
+**What this week covers:**
+- Elements, atomic structure, and isotopes (protons/neutrons)
+- The periodic table; electronic structure and configuration (electrons)
+- Valence electrons and periodic trends
+- Lab: Safety orientation; significant figures applied to measurement
+  and calculation; density of an unknown; dimensional analysis
+- Required Reading: Smith Ch. 2 (2.1–2.8)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA2, CA3, CA4, CA5, CA6
-- OOL1 Discussion
-- ALEKS Problem Set: Ch. 1
-- CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)
-- Calendar note: Friday — last day to drop online / 100% refund
+- Wednesday activity: A01 (2.1–2.3)
+- Sunday activity: A02 (2.4–2.8)
+- Lab 1
 
 </details>
 
-## Module 2: Density, Atomic Number, Ionization Energy
+## Week 2: Ionic and Covalent Bonding
 
-**What this module covers:**
-- Identifying elements by symbol; classifying as metal, nonmetal, or metalloid
-- Basic parts of the atom; isotopes
-- Basic features of the periodic table (PTOE)
-- Electronic structure of the atom; valence electrons
-- Using the PTOE to predict relative atomic size and ionization energy
-- Lab: Density and Sea Water
-- Required Reading: Smith Ch. 2 (all)
+**What this week covers:**
+- Introduction to bonding; ions; ionic compounds and their naming
+- Physical properties of ionic compounds; polyatomic ions
+- Covalent bonding; Lewis structures; naming covalent compounds
+- Lab: Density, Seawater, and Thermohaline Circulation
+- Required Reading: Smith Ch. 3 (3.1–3.9)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA7, CA9, CA10A, CA10B, Periodic properties (handout)
-- OOL2 Discussion
-- ALEKS Problem Set: Ch. 2
-- CLOs addressed: 1 (full text on the Course Learning Outcomes page)
-- Calendar note: Friday — last day to add/drop without a "W"
+- Wednesday activity: A03 (3.1–3.6)
+- Sunday activity: A04 (3.7–3.9)
+- Lab 2
+- Also this week: Unit Quiz 1 (Ch. 1 + Ch. 2, no dimensional analysis); Writing Workshop 1
 
 </details>
 
-## Module 3: Covalent Molecules, Shapes, Polarity and IMF
+## Week 3: Molecular Shape, Polarity, and Intermolecular Forces
 
-**What this module covers:**
-- Predicting molecular shape; polar vs. nonpolar bonds and molecules
-- Energy and units of energy; states of matter
-- Intermolecular forces (IMF) and their effect on boiling/melting point
-- Energy changes during a change of state; heating/cooling curves
+**What this week covers:**
+- Molecular shape; electronegativity and bond polarity; polarity of molecules
+- Energy; the three states of matter; intermolecular forces; boiling and melting point
 - Lab: Molecular Shapes and GHGs
-- Required Reading: Smith Ch. 3 (3.7–3.12), Ch. 4 (all, skip 4.5)
+- Library Visit 1
+- Required Reading: Smith Ch. 3 (3.10–3.12), Ch. 4 (4.1–4.4)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA13, CA16, CA17, CA27
-- OOL3 Discussion
-- ALEKS Problem Set: Ch. 4
-- CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)
-- Calendar note: Friday — last day to withdraw for the quarter
-- Also this module: Quiz 1 (Modules 1 and 2)
+- Wednesday activity: A05 (3.10–3.12)
+- Sunday activity: A06 (4.1–4.4)
+- Lab 3 (continued into simulations alongside Library Visit 1)
 
 </details>
 
-## Module 4: Electrons, Bonding, and Naming Compounds
+## Week 4: Heat, Phase Changes, and the Mole
 
-**What this module covers:**
-- Electron configuration (Periods 1–3); electron-dot symbols
-- Ionic vs. covalent bonds; the octet rule
-- Writing and naming ionic compounds, including common polyatomic ions
-- Lewis structures and naming for covalent compounds
+**What this week covers:**
+- Specific heat; energy and phase changes; heating and cooling curves
+- Mass balance; introduction to reactions, balancing equations, reaction
+  types, and oxidation/reduction
 - Lab: Copper Cycle and AMD
-- Required Reading: Smith Ch. 3 (3.1–3.6)
+- Library Visit 2
+- Required Reading: Smith Ch. 4 (4.5–4.7), Ch. 5 (5.1–5.4)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA11, CA12, CA15, CA19
-- OOL4 Discussion
-- ALEKS Problem Set: Ch. 3
-- CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)
-- Calendar note: Friday — last day for 50% refund
+- Wednesday activity: A07 (4.5–4.7)
+- Sunday activity: A08 (5.1–5.4)
+- Lab 4 (continued — weighing copper — alongside Library Visit 2)
 
 </details>
 
-## Module 5: The Mole and Stoichiometry
+## Week 5: Stoichiometry and Reaction Energy
 
-**What this module covers:**
-- Writing and balancing chemical equations
-- Classifying reactions (combination, decomposition, single/double replacement)
-- Oxidation, reduction, and redox reactions
-- The mole, Avogadro's number, and molar mass
-- Mole/mass calculations in chemical equations
-- Lab: Soap and Soil Quality (Part 1)
-- Required Reading: Smith Ch. 5 (5.1–5.8)
+**What this week covers:**
+- The mole and Avogadro's number; mass-to-mole conversions; mole and
+  mass calculations in chemical equations
+- Energy changes in reactions; reaction rates
+- Lab: Urban Gardens (soil sampling)
+- Required Reading: Smith Ch. 5 (5.5–5.10)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA18, CA20A, CA20B, CA22
-- OOL5 Discussion
-- ALEKS Problem Set: Ch. 5
-- CLOs addressed: 2 (full text on the Course Learning Outcomes page)
-- Also this module: Quiz 2 (Modules 3 and 4)
+- Wednesday activity: A09 (5.5–5.8)
+- Sunday activity: A10 (5.9–5.10)
+- Lab 5 (finished with a Graphing Workshop)
+- Also this week: Unit Quiz 2 (Ch. 3 + Ch. 4)
 
 </details>
 
-## Module 6: Chemical Reactions: Energy, Rates, and Equilibrium
+## Week 6: Equilibrium, Pressure, and Kinetic Molecular Theory
 
-**What this module covers:**
-- Endothermic vs. exothermic reactions; energy changes in reactions
-- Factors affecting reaction rate
-- Chemical equilibrium and Le Châtelier's principle
-- How temperature is regulated in the body
-- Lab: Soil Quality (Part 2)
-- Required Reading: Smith Ch. 5 (5.9–5.12)
+**What this week covers:**
+- Equilibrium; Le Châtelier's principle; body temperature regulation
+- Gases and pressure; Boyle's, Charles's, and Gay-Lussac's laws
+- Lab: Soil Quality Analysis (Day 1) and Water Quality Analysis (Day 2)
+- Required Reading: Smith Ch. 5 (5.11–5.12), Ch. 6 (6.1–6.4)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: Energy in Chemical Reactions Parts 1–3
-- OOL6 Discussion
-- ALEKS Problem Set: Ch. 5
-- CLOs addressed: 3 (full text on the Course Learning Outcomes page)
+- Wednesday activity: A11 (5.11–5.12)
+- Sunday activity: A12 (6.1–6.4)
+- Lab 6 (two-day lab: NOx tube deployment Day 1, soil testing completed Day 2)
 
 </details>
 
-## Module 7: Gases
+## Week 7: Gas Laws and Air Quality
 
-**What this module covers:**
-- Measuring pressure and converting between pressure units
-- Relationship between pressure, volume, and temperature (gas laws)
-- Relationship between gas volume and moles; the ideal gas law
-- Dalton's law and partial pressures
-- Ozone and carbon dioxide as atmospheric components
+**What this week covers:**
+- The combined gas law; Avogadro's law; the ideal gas law; Dalton's
+  law and partial pressures; ozone and CO2 in the atmosphere
+- Solubility fundamentals; electrolytes and nonelectrolytes
 - Lab: Air Pollution and Pollinators
-- Required Reading: Smith Ch. 6 (all)
+- Required Reading: Smith Ch. 6 (6.5–6.9), Ch. 7 (7.1–7.4)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: EOGL
-- OOL7 Discussion
-- ALEKS Problem Set: Ch. 6
-- CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)
+- Wednesday activity: A13 (6.5–6.9)
+- Sunday activity: A14 (7.1–7.4)
+- Lab 7 (NOx tube collection, ozone strip placement; finished with a
+  Graphing Workshop for air-quality results)
+- Also this week: Unit Quiz 3 (Ch. 5)
 
 </details>
 
-## Module 8: Solutions, Concentration, Osmosis, and Acids
+## Week 8: Concentration, Acids, and Bases
 
-**What this module covers:**
-- Fundamental properties of solutions; solution vs. colloid vs. suspension
-- Electrolytes vs. nonelectrolytes
-- Solubility prediction; effects of temperature and pressure on solubility
-- Solution concentration calculations; preparing dilutions
-- Osmosis and its relationship to biological membranes and dialysis
+**What this week covers:**
+- Percent concentration; molarity; dilution; osmosis and dialysis
+- Introduction to acids and bases; Brønsted–Lowry reactions; acid/base strength
 - Lab: Drinking Water
-- Required Reading: Smith Ch. 7 (all)
+- Required Reading: Smith Ch. 7 (7.5–7.8), Ch. 8 (8.1–8.3)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA28, CA29A, CA14, CA30A
-- OOL8 Discussion
-- ALEKS Problem Set: Ch. 7
-- CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)
-- Also this module: Quiz 3 (Modules 5 and 6)
+- Wednesday activity: A15 (7.5–7.8)
+- Sunday activity: A16 (8.1–8.3)
+- Lab 8 (Analysis — "My Waterway Report")
+- Calendar note: 11/11 campus holiday — lecture and lab still held this week
 
 </details>
 
-## Module 9: Acids, Bases, and Buffers
+## Week 9: pH, pOH, and Buffers
 
-**What this module covers:**
-- Identifying acids and bases; their characteristics
-- Writing acid-base reaction equations; strong vs. weak acids/bases
-- The ion product of water; calculating hydronium/hydroxide concentration
-- Calculating pH; drawing products of common acid-base reactions
-- Buffers and their role in maintaining pH in the body
+**What this week covers:**
+- Dissociation of water; the pH scale; common acid-base reactions
+- Buffers; buffers in the blood
 - Lab: Surface and Ground Water
-- Required Reading: Smith Ch. 8 (8.1–8.6, 8.8–8.9)
+- Required Reading: Smith Ch. 8 (8.4–8.6, 8.8–8.9)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA30B, CA30C, CA31A, CA31B
-- OOL9 Discussion
-- ALEKS Problem Set: Ch. 8
-- CLOs addressed: 1, 2, 3 (full text on the Course Learning Outcomes page)
-- Also this module: Quiz 4 (Modules 7 and 8)
+- Wednesday activity: A17 (8.4–8.6)
+- Sunday activity: A18 (8.8–8.9)
+- Lab 9 (finished with Water Quality Index calculations)
+- Also this week: Unit Quiz 4 (Ch. 6 + Ch. 7)
 
 </details>
 
-## Module 10: Nuclear Chemistry
+## Week 10: Nuclear Energy, Medical Applications, and Final Project
 
-**What this module covers:**
-- Types of radiation emitted by a radioactive nucleus
-- Writing nuclear reaction equations; half-life
-- Units used for measuring radioactivity
-- Common radioisotopes used in medical diagnosis and treatment
+**What this week covers:**
+- Isotopes and radioactivity; nuclear reactions; half-life
+- Detecting and measuring radioactivity; medical uses of radioisotopes
 - Nuclear fission and fusion; medical imaging without radioactivity
-- Lab: Radiation and Alginate Beads
-- Required Reading: Smith Ch. 9 (all)
-- Final Project: Teach Your Community (TYC) due
+- Lab: UV Radiation and Alginate Beads
+- Final Project: Teach Your Community (TYC) — final exam assessment,
+  10% of course grade, due Friday, 12/11
+- Required Reading: Smith Ch. 9 (9.1–9.7)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA8
-- OOL10 Discussion
-- ALEKS: Module 10
-- CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)
+- Activity: A19 (9.1–9.3)
+- Activity: A20 (9.4–9.7)
+- Lab 10
+- Field trip / TYC Outline work sessions
+- Finals week: Unit Quiz 5 (Ch. 8 + Ch. 9); course potluck
+- Calendar note: campus closed 11/25–11/26 during this content window
 
 </details>

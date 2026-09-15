@@ -116,10 +116,13 @@ function buildWhatsCoveredData(mdPath) {
   const introLines = [];
   let current = null;
   for (const line of lines) {
-    const h2mod = line.match(/^## Module (\d+): (.+)$/);
-    if (h2mod) {
+    // Accepts either "## Module N: Title" (GOB-era, module-based) or
+    // "## Week N: Title" (Fall Chemfolio schedule, week-based) — the unit
+    // label varies by term/curriculum, the parser doesn't care which.
+    const h2unit = line.match(/^## (Module|Week) (\d+): (.+)$/);
+    if (h2unit) {
       if (current) modules.push(current);
-      current = { num: h2mod[1], title: h2mod[2].trim(), id: `module-${h2mod[1]}`, lines: [line] };
+      current = { num: h2unit[2], label: `${h2unit[1]} ${h2unit[2]}`, title: h2unit[3].trim(), id: `${h2unit[1].toLowerCase()}-${h2unit[2]}`, lines: [line] };
       continue;
     }
     if (current) current.lines.push(line);
@@ -131,6 +134,7 @@ function buildWhatsCoveredData(mdPath) {
   const moduleData = modules.map((m) => ({
     id: m.id,
     num: m.num,
+    label: m.label,
     title: m.title,
     html: marked.parse(m.lines.join("\n")),
   }));
