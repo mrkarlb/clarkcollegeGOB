@@ -175,6 +175,7 @@ Everything covered in this course, organized by topic and week — useful for co
 
 </details>
 
+<!-- Week 10 merges what are, on the real Fall calendar, two separate weeks (holiday-shortened Week 10 + Week 11) — Fall is the only term with an 11th week (Thanksgiving). In 10-week Winter/Spring terms, this same final content unit IS Week 10, no merge needed. Keep this card as "Week 10" across all terms so the template doesn't have to change term to term. -->
 ## Week 10: Catabolism, Energy Expenditure, and Final Project
 
 **What this week covers:**

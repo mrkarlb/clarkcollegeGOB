@@ -91,22 +91,21 @@ Clark College and the Disability Access Center (DAC) office assist students with
 
 ## Weekly Flow
 
-**TL;DR:** Something is due nearly every day, Tuesday through Sunday — same pattern every week once you learn it.
+**TL;DR:** Something is due nearly every day, Wednesday through Sunday — same pattern every week once you learn it.
 
 Canvas Modules are your home base. This rhythm repeats every module — once you know this table, you know the whole term.
 
 | Day | What's due |
 |---|---|
 | Monday | New module opens |
-| Tuesday | OOL (Outside Of Lecture) discussion post due |
-| Wednesday | First 3-2-1 Team discussion post due |
-| Thursday | OOL replies due |
-| Friday | Lab Intro upload due |
-| Sunday | Second 3-2-1 Team post + replies to all 3 teammates, ALEKS homework, OOL template upload, Lab Results & Analysis, and Lab Discussion & Conclusions template upload — all due |
+| Wednesday | 3-2-1 Team post + upload due; OOL discussion post due |
+| Thursday | 3-2-1 Team Lead post due |
+| Friday | OOL replies due; Lab Results (20 pts), Findings (10 pts), and Conclusions (20 pts) due |
+| Sunday | 3-2-1 Team post + replies to all 3 teammates + upload due; ALEKS homework due; Lab Background (10 pts) and Methods (40 pts) due |
 
 Attend lab both days assigned in your schedule.
 
-Quizzes are the one exception to this weekly pattern — they're in-person during lab, tentatively Weeks 3, 5, 6, 9, and 11 only.
+Quizzes are the one exception to this weekly pattern — they're in-person during lab, in Weeks 4, 6, 8, and 10 (Week 10 carries both Quiz 4 and Quiz 5, since it's the merged final content week).
 
 > **Dr. B's Note:** *Prioritize content learning in your Chemfolio with your team first. Labs are based on the assigned content from the module.*
 

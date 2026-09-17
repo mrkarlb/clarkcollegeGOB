@@ -20,7 +20,7 @@ If you read one part of this syllabus, read this one.
 | Item | Details |
 |---|---|
 | **What it costs** | **Chemfolio** *[price TBD]* + **CHEM&121 Lab Manual** *[price TBD]* (Clark Bookstore) + ALEKS (paid through your course registration). |
-| **When things are due** | Tuesday through Sunday each carry something — see Weekly Flow below for the exact rhythm. Once you learn it, it repeats every module. |
+| **When things are due** | Wednesday through Sunday each carry something — see Weekly Flow below for the exact rhythm. Once you learn it, it repeats every module. |
 | **Time to budget** | About 10–12 hours a week — most of it on Canvas, plus your 4-hour on-campus lab. |
 | **How to reach me** | Canvas Inbox only — I don't use email during the term. I reply within 24 hours on weekdays. |
 | **The two big ones** | Weekly lab attendance (required every week, no exceptions) and the Final TYC (Teach Your Community) Project — 10% of your grade, in place of a final exam. |
@@ -91,22 +91,21 @@ Clark College and the Disability Access Center (DAC) office assist students with
 
 ## Weekly Flow
 
-**TL;DR:** Something is due nearly every day, Tuesday through Sunday — same pattern every week once you learn it.
+**TL;DR:** Something is due nearly every day, Wednesday through Sunday — same pattern every week once you learn it.
 
 Canvas Modules are your home base. This rhythm repeats every module — once you know this table, you know the whole term.
 
 | Day | What's due |
 |---|---|
 | Monday | New module opens |
-| Tuesday | OOL (Outside Of Lecture) discussion post due |
-| Wednesday | First 3-2-1 Team discussion post due |
-| Thursday | OOL replies due |
-| Friday | Lab Intro upload due |
-| Sunday | Second 3-2-1 Team post + replies to all 3 teammates, ALEKS homework, OOL template upload, Lab Results & Analysis, and Lab Discussion & Conclusions template upload — all due |
+| Wednesday | 3-2-1 Team post + upload due; OOL discussion post due |
+| Thursday | 3-2-1 Team Lead post due |
+| Friday | OOL replies due; Lab Results (20 pts), Findings (10 pts), and Conclusions (20 pts) due |
+| Sunday | 3-2-1 Team post + replies to all 3 teammates + upload due; ALEKS homework due; Lab Background (10 pts) and Methods (40 pts) due |
 
 Attend lab both days assigned in your schedule.
 
-Quizzes are the one exception to this weekly pattern — they're in-person during lab, tentatively Weeks 3, 5, 6, 9, and 11 only.
+Quizzes are the one exception to this weekly pattern — they're in-person during lab, in Weeks 2, 5, 7, 9, and 11.
 
 > **Dr. B's Note:** *Prioritize content learning in your Chemfolio with your team first. Labs are based on the assigned content from the module.*
 
