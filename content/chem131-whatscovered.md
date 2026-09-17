@@ -9,203 +9,190 @@ instructor: "Dr. Karl Bailey (Dr. B)"
 
 # What's Covered
 
-Everything covered in this course, organized by topic and module — useful for comparing against an equivalent course at another institution, and for previewing what's ahead before the term starts.
+Everything covered in this course, organized by topic and week — useful for comparing against an equivalent course at another institution, and for previewing what's ahead before the term starts.
 
-*Activity numbers below are provisional (carried over from the Summer 2026 term) pending the Fall 2026 Chemfolio update — topics, labs, and objectives are current.*
+*Built from the Fall 2026 Chemfolio schedule — first term using this material, so some groupings may shift slightly as the term settles in.*
 
-## Module 1: Properties of Organic Molecules: Structure, IMF, and Naming
+## Week 1: Introduction to Organic Molecules and Alkanes
 
-**What this module covers:**
-- Distinguishing organic compounds from ionic inorganic compounds
-- Common functional groups; shorthand structural drawing
-- Acyclic alkanes, cycloalkanes, and constitutional isomers
-- IUPAC naming of alkanes; predicting physical properties
-- Complete and incomplete combustion of alkanes
-- Lab: Lab Safety Orientation and Scavenger Hunt
-- Required Reading: Smith Ch. 10 (all)
+**What this week covers:**
+- Characteristic features of organic compounds; drawing organic molecules
+- Functional groups; alkanes and alkane nomenclature; cycloalkanes
+- Fossil fuels, physical properties, and combustion of hydrocarbons
+- Lab: Safety orientation; scavenger hunt covering compounds, shapes, and IMFs
+- Required Reading: Smith Ch. 10 (10.1–10.10)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: OM, CA33, CA34, CA35
-- OOL1 Discussion
-- ALEKS Problem Set: Ch. 10
-- CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)
-- Calendar note: Friday — last day to drop online / 100% refund
+- Activity: A21 (10.1–10.6)
+- Activity: A22 (10.4–10.10)
 
 </details>
 
-## Module 2: Properties of Organic Molecules: Functional Groups and Isomers
+## Week 2: Isomers and Organic Naming
 
-**What this module covers:**
-- Unsaturated hydrocarbons: alkenes, alkynes, aromatic compounds; naming
-- Constitutional isomers vs. stereoisomers; cis/trans isomers
-- Saturated vs. unsaturated fatty acids and relative melting points
-- Addition reactions of alkenes; hydrogenation; alkene-based polymers
-- Alcohols, ethers, alkyl halides, thiols, aldehydes, ketones — naming and properties
-- Alcohol dehydration/oxidation; thiol-to-disulfide conversion; aldehyde oxidation
-- Chirality centers; Fischer projections
-- Lab: Solubility
-- Required Reading: Smith Ch. 11 (all), Ch. 12 (all)
+**What this week covers:**
+- Organic structure and naming across functional groups (integrative,
+  spanning Ch. 10–13)
+- Constitutional and cis-trans (geometric) isomers; alkane/cycloalkane
+  naming revisited
+- Lab: Solubility and Oil Spills
+- Required Reading: Smith Ch. 10 (10.5–10.8), Ch. 11 (11.1–11.4)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA36, CA37, CA38, CA39
-- OOL2 Discussion
-- ALEKS Problem Set: Ch. 11 and Ch. 12
-- CLOs addressed: 1, 3 (full text on the Course Learning Outcomes page)
-- Calendar note: Friday — last day to add/drop without a "W"
+- Activity: A23 (integrative — Ch. 10–13)
+- Activity: A24 (10.5–10.8, 11.3–11.4)
+- Writing Workshop 1
 
 </details>
 
-## Module 3: Properties of Organic Molecules: Functional Group Reactions
+## Week 3: Alkene Reactions, Polymers, and Alcohols
 
-**What this module covers:**
-- Characteristics and naming of carboxylic acids, esters, amines, amides
-- Acid-base reactions of carboxylic acids; how soap cleans
-- Condensation/hydrolysis reactions of carboxylic acids, esters, amides
-- Acid-base reactions of amines; naming ammonium salts
-- How penicillin works
-- Lab: Consumer Plastics
-- Required Reading: Smith Ch. 13 (all)
+**What this week covers:**
+- Reactions of alkenes; polymers; margarine vs. butter
+- Alcohols and ethers — structure, properties, and reactions; alkyl
+  halides; thiols
+- Lab: Plastics and Nurdles
+- Library Visit 1
+- Required Reading: Smith Ch. 11 (11.5–11.7), Ch. 12 (12.1–12.7)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA40, CA41, CA42, CA43
-- OOL3 Discussion
-- ALEKS Problem Set: Ch. 13
-- CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)
-- Calendar note: Friday — last day for 50% refund
-- Also this module: Quiz 1 (Smith Ch. 10 and 11)
+- Activity: A25 (11.5–11.7)
+- Activity: A26 (12.1–12.7)
 
 </details>
 
-## Module 4: Proteins and Enzymes
+## Week 4: Oxygenated Compounds and Carboxylic Acids
 
-**What this module covers:**
-- Amino acid structure and acid-base properties
-- N- and C-terminal labeling of peptides
-- Primary, secondary, tertiary, quaternary protein structure
-- Fibrous proteins (keratin, collagen); globular proteins (hemoglobin, myoglobin)
-- Protein hydrolysis and denaturation
-- Enzyme categories; diagnostic and therapeutic use of enzymes
+**What this week covers:**
+- Aldehydes and ketones; oxidation of aldehydes; chirality (Looking
+  Glass Chemistry); chiral drugs
+- Carboxylic acids and esters — naming, properties, acidity, and reactions
 - Lab: Chirality
-- Required Reading: Smith Ch. 16 (all)
+- Required Reading: Smith Ch. 12 (12.8–12.12), Ch. 13 (13.1–13.6)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA46B, CA46C, CA47A, CA47B
-- OOL4 Discussion
-- ALEKS Problem Set: Ch. 16
-- CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)
-- Calendar note: Friday — last day to withdraw for the quarter
-- Also this module: Quiz 2 (Smith Ch. 12 and 13)
+- Activity: A27 (12.8–12.12)
+- Activity: A28 (13.1–13.6)
+- Also this week: Unit Quiz 1 (Ch. 10 + Ch. 11)
 
 </details>
 
-## Module 5: Carbohydrates
+## Week 5: Amines, Amides, and Protein Structure
 
-**What this module covers:**
-- Three major carbohydrate types; monosaccharide structure
-- Cyclic forms of monosaccharides; α/β classification
-- Oxidation/reduction products of monosaccharides
-- Cellulose, starch, and glycogen; carbohydrates and blood type
-- Lab: Reactions
-- Required Reading: Smith Ch. 14 (all)
+**What this week covers:**
+- Amines and amides — structure, basicity, naming
+- Amino acids, acid-base behavior of amino acids, and peptides
+- Lab: Reactions of Functional Groups
+- Library Visit 2
+- Required Reading: Smith Ch. 13 (13.7–13.10), Ch. 16 (16.1–16.6)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA44B, CA44C, CA50, CA53
-- OOL5 Discussion
-- ALEKS Problem Set: Ch. 14
-- CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)
+- Activity: A29 (13.7–13.10)
+- Activity: A30 (16.1–16.6)
+- Writing Workshop 2
 
 </details>
 
-## Module 6: Lipids
+## Week 6: Proteins, Enzymes, and Carbohydrates
 
-**What this module covers:**
-- General characteristics of lipids
-- Fatty acid classification and melting point relationships
-- Wax, triacylglycerol, and phospholipid structure; fat vs. oil; hydrolysis products
-- Cell membrane structure and transport mechanisms
-- Steroid structure (cholesterol) and steroid hormones
-- Fat-soluble vitamins
-- Lab: Proteins
-- Required Reading: Smith Ch. 15 (all)
+**What this week covers:**
+- Common proteins; protein hydrolysis and denaturation; enzymes and
+  how they work; using enzymes to diagnose and treat disease
+- Monosaccharides and their cyclic forms
+- Lab: Protein Light
+- Required Reading: Smith Ch. 16 (16.7–16.11), Ch. 14 (14.1–14.3)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA45B, CA45C, CA45D, CA54A
-- OOL6 Discussion
-- ALEKS Problem Set: Ch. 15
-- CLOs addressed: 1, 2 (full text on the Course Learning Outcomes page)
+- Activity: A31 (16.7–16.11)
+- Activity: A32 (14.1–14.3)
+- Also this week: Unit Quiz 2 (organic reactions and functional groups);
+  Archer Gallery Visit in place of a lab
 
 </details>
 
-## Module 7: Nucleic Acids
+## Week 7: Carbohydrates and Lipids
 
-**What this module covers:**
-- Nucleoside and nucleotide structure; drawing DNA/RNA segments
-- DNA double helix; steps of replication
-- RNA types and functions; transcription and translation
-- Genetic code; mutation and genetic disease
-- DNA fingerprinting; characteristics of viruses
-- Lab: Sugar Spill
-- Required Reading: Smith Ch. 17 (all)
+**What this week covers:**
+- Reactions of monosaccharides; disaccharides; polysaccharides; blood type
+- Lipids — fatty acids, waxes, triacylglycerols, and their hydrolysis
+- Lab: Sugar Spill (Day 1); Bioremediation (Day 2)
+- Required Reading: Smith Ch. 14 (14.4–14.7), Ch. 15 (15.1–15.5)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA48A, CA48B, CA48C
-- OOL7 Discussion
-- ALEKS Problem Set: Ch. 17
-- CLOs addressed: 1, 2, 3 (full text on the Course Learning Outcomes page)
+- Activity: A33 (14.4–14.7)
+- Activity: A34 (15.1–15.5)
+- Bioremediation lab finishes with a Graphing Workshop
 
 </details>
 
-## Module 8: Metabolism — Part 1
+## Week 8: Cell Membranes and Nucleic Acids
 
-**What this module covers:**
-- Definition of metabolism; four stages of catabolism
-- Role of ATP in energy production
-- Main coenzymes used in metabolism
-- Required Reading: Smith Ch. 18 (part 1 of 2 — continues into Module 9)
+**What this week covers:**
+- Phospholipids and cell membranes; cholesterol; steroid hormones;
+  fat-soluble vitamins
+- Nucleosides, nucleotides, and nucleic acids; the DNA double helix; replication; RNA
+- Lab: Bioplastics (Design Challenge)
+- Required Reading: Smith Ch. 15 (15.6–15.10), Ch. 17 (17.1–17.5)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA49A, CA49B, CA49C
-- OOL8 Discussion
-- CLOs addressed: 1, 2, 3 (full text on the Course Learning Outcomes page)
-- Also this module: Quiz 4 (Smith Ch. 16 and 17)
+- Activity: A35 (15.6–15.10)
+- Activity: A36 (17.1–17.5)
+- Also this week: Unit Quiz 3 (proteins and sugars)
 
 </details>
 
-## Module 9: Metabolism — Part 2
+## Week 9: Protein Synthesis and Metabolism Overview
 
-**What this module covers:**
-- Glycolysis; pathways for pyruvate metabolism
-- Citric acid cycle
-- Electron transport chain and oxidative phosphorylation
-- Energy yield from glucose metabolism
-- β-oxidation of fatty acids; ketone body structure and role
+**What this week covers:**
+- Transcription; the genetic code; translation; mutations and genetic
+  disease; modern DNA technology; viruses
+- Overview of metabolism; ATP and energy production; coenzymes in metabolism
+- Lab: DNA Extraction
+- Required Reading: Smith Ch. 17 (17.6–17.11), Ch. 18 (18.1–18.3)
+
+<details>
+<summary>Weekly logistics</summary>
+
+- Activity: A37 (17.6–17.11)
+- Activity: A38 (18.1–18.3)
+- Seed-toxicology lab prep begins this week (advance germination time)
+
+</details>
+
+## Week 10: Catabolism, Energy Expenditure, and Final Project
+
+**What this week covers:**
+- Glycolysis; the fate of pyruvate; the citric acid cycle; electron
+  transport chain and oxidative phosphorylation; ATP yield from glucose
+- Catabolism of triacylglycerols; ketone bodies; amino acid metabolism
 - Lab: Seed Toxicology
-- Required Reading: Smith Ch. 18 (part 2 of 2)
-- Final Project: Teach Your Community (TYC) due
+- Final Project: Teach Your Community (TYC) — final exam assessment,
+  10% of course grade, due Friday, 12/11
+- Required Reading: Smith Ch. 18 (18.4–18.11)
 
 <details>
-<summary>Course outcomes & weekly logistics</summary>
+<summary>Weekly logistics</summary>
 
-- 3-2-1 TEAM Activities: CA51, CA52, CA55, CA56
-- OOL9 + OOL10 Discussions
-- ALEKS Problem Set: Ch. 18
-- CLOs addressed: 1, 2, 3 (full text on the Course Learning Outcomes page)
-- Also this module: Quiz 5 (Smith Ch. 18)
+- Activity: A39 (18.4–18.8)
+- Activity: A40 (18.9–18.11)
+- Also this week: Unit Quiz 4 (lipids and nucleic acids); Unit Quiz 5
+  (metabolism); TYC Outline work continues
+- Finals week: course potluck
 
 </details>

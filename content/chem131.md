@@ -69,15 +69,15 @@ A few abbreviations come up constantly in this course. Here's what they mean, so
 
 # Welcome to Class!
 
-**TL;DR:** No lectures — everything happens through weekly team discussions and hands-on labs. Show up, stay engaged, and ask for help before you're stuck.
+**TL;DR:** Hybrid means lectures online, labs on campus. Weekly TEAM discussions and lab two days per week. Show up, stay engaged, and ask for help before you're stuck.
 
-Welcome, welcome, welcome! I'm Dr. B (Dr. Karl Bailey, he/him), and I'm glad to have you in CHEM&131. You've already proven you can handle the pace and the math — let's get into how this course runs, week to week.
+Welcome, welcome, welcome! I'm Dr. B (Dr. Karl Bailey, he/him), and I'm glad to have you in CHEM&131 this term. Wherever your last CHEM class was, I'm glad you're here. Let's get into how this class will work for you!
 
-> **Dr. B's Note:** *You already know the rhythm of this course from CHEM&121. Trust the process, stay engaged weekly, and you'll find your footing quickly.*
+> **Dr. B's Note:** *Most students who stick with the weekly rhythm and stay engaged do well. The difference this term specifically is showing up consistently every day. This is level two CHEM – it will ask more from you than last time.*
 
 ## What preparation/skills do I need for this class?
 
-This course assumes the math and chemistry foundation you built in CHEM&121. We move quickly into organic structures and biochemical pathways, so a comfort with unit conversions and basic chemical reasoning will serve you well from week one.
+This course moves beyond the math and chemistry foundation you built in CHEM&121. We move quickly into organic molecules and biochemical pathways, (structure = function). So while it will be all new right away, your basic chemical reasoning skills from CHEM&121 will serve you well.
 
 ## What can I expect in class?
 
@@ -139,8 +139,7 @@ I've spent more than 25 years building and refining active-learning chemistry co
 | **Companion Web Site** | ALEKS (aleks.com), accessed through Canvas |
 | **Software** | Microsoft Office (primarily Word and Excel) — accessible right inside Canvas through the Microsoft Education integration, using your free Clark student Office 365 account. |
 | **Electronic Resources** | Canvas Learning Management System, with Microsoft OneDrive linked directly through Canvas's built-in Microsoft Education integration (no separate office.com setup needed).<br><br>A heads up: this embedded Office/OneDrive connection tripped up a number of students last term. Module 0 has a step-by-step setup guide — work through it in week one, and if you hit an error, contact Tech Hub (techhub@clark.edu · 360-992-2010) rather than troubleshooting alone. |
-| **Privacy related to course tools and materials** | See Clark's [eLearning accessibility and privacy policies page](https://www.clark.edu/academics/eLearning/policies-standards/accessibility-statements.php) for Canvas, ALEKS, and other tools used in this course. |
-| **Accessibility related to course tools and materials** | See Clark's [eLearning accessibility and privacy policies page](https://www.clark.edu/academics/eLearning/policies-standards/accessibility-statements.php) for accessibility statements on Canvas, ALEKS, and other course tools. |
+| **Privacy & accessibility for course tools and materials** | See Clark's [eLearning accessibility and privacy policies page](https://www.clark.edu/academics/eLearning/policies-standards/accessibility-statements.php) for Canvas, ALEKS, and other tools used in this course. |
 | **Where to find necessary materials** | Chemfolio and your lab manual: [Clark College Bookstore](https://www.clarkbookstore.com/buy_textbooks.asp).<br><br>ALEKS: access is set up automatically in Canvas once your registration is processed. |
 
 # What Are the Course Agreements?
@@ -316,7 +315,7 @@ Clark College and Disability Access Center (DAC) assist students with disabiliti
 - Email: [dac@clark.edu](mailto:dac@clark.edu). Fax: (360) 992-2879.
 - Physical Location: Penguin Union Building (PUB) 002.
 
-If you have already been approved for accommodations, don't forget to [request them every term in myAccess](https://www.clark.edu/dac/myaccess.php). Students who need to test at DAC also need to [schedule their own exams in myAccess](https://www.clark.edu/dac/myaccess.php) or by contacting DAC. Exams should be scheduled with DAC with at least 5 business days' notice. Please reach out to [DACtesting@clark.edu](mailto:dactesting@clark.edu) if you have any questions about your testing accommodations.
+If you have already been approved for accommodations, don't forget to [request them every term and schedule your own exams in myAccess](https://www.clark.edu/dac/myaccess.php) — or by contacting DAC. Exams should be scheduled with DAC with at least 5 business days' notice. Please reach out to [DACtesting@clark.edu](mailto:dactesting@clark.edu) if you have any questions about your testing accommodations.
 
 Once you have established accommodations with Disability Access Center, please contact me as your instructor to discuss your needs in this course.
 

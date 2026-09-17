@@ -139,8 +139,7 @@ I've spent more than 25 years building and refining active-learning chemistry co
 | **Companion Web Site** | ALEKS (aleks.com), accessed through Canvas |
 | **Software** | Microsoft Office (primarily Word and Excel) — accessible right inside Canvas through the Microsoft Education integration, using your free Clark student Office 365 account. |
 | **Electronic Resources** | Canvas Learning Management System, with Microsoft OneDrive linked directly through Canvas's built-in Microsoft Education integration (no separate office.com setup needed).<br><br>A heads up: this embedded Office/OneDrive connection tripped up a number of students last term. Module 0 has a step-by-step setup guide — work through it in week one, and if you hit an error, contact Tech Hub (techhub@clark.edu · 360-992-2010) rather than troubleshooting alone. |
-| **Privacy related to course tools and materials** | See Clark's [eLearning accessibility and privacy policies page](https://www.clark.edu/academics/eLearning/policies-standards/accessibility-statements.php) for Canvas, ALEKS, and other tools used in this course. |
-| **Accessibility related to course tools and materials** | See Clark's [eLearning accessibility and privacy policies page](https://www.clark.edu/academics/eLearning/policies-standards/accessibility-statements.php) for accessibility statements on Canvas, ALEKS, and other course tools. |
+| **Privacy & accessibility for course tools and materials** | See Clark's [eLearning accessibility and privacy policies page](https://www.clark.edu/academics/eLearning/policies-standards/accessibility-statements.php) for Canvas, ALEKS, and other tools used in this course. |
 | **Where to find necessary materials** | Chemfolio and your lab manual: [Clark College Bookstore](https://www.clarkbookstore.com/buy_textbooks.asp).<br><br>ALEKS: access is set up automatically in Canvas once your registration is processed. |
 
 # What Are the Course Agreements?
@@ -316,7 +315,7 @@ Clark College and Disability Access Center (DAC) assist students with disabiliti
 - Email: [dac@clark.edu](mailto:dac@clark.edu). Fax: (360) 992-2879.
 - Physical Location: Penguin Union Building (PUB) 002.
 
-If you have already been approved for accommodations, don't forget to [request them every term in myAccess](https://www.clark.edu/dac/myaccess.php). Students who need to test at DAC also need to [schedule their own exams in myAccess](https://www.clark.edu/dac/myaccess.php) or by contacting DAC. Exams should be scheduled with DAC with at least 5 business days' notice. Please reach out to [DACtesting@clark.edu](mailto:dactesting@clark.edu) if you have any questions about your testing accommodations.
+If you have already been approved for accommodations, don't forget to [request them every term and schedule your own exams in myAccess](https://www.clark.edu/dac/myaccess.php) — or by contacting DAC. Exams should be scheduled with DAC with at least 5 business days' notice. Please reach out to [DACtesting@clark.edu](mailto:dactesting@clark.edu) if you have any questions about your testing accommodations.
 
 Once you have established accommodations with Disability Access Center, please contact me as your instructor to discuss your needs in this course.
 
