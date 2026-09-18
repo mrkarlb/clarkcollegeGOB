@@ -30,6 +30,8 @@ const COURSE_META = {
       word: "downloads/CHEM121_Syllabus_Fall2026.docx",
       dayone: "downloads/CHEM121_DayOne_Fall2026.pdf",
       whatsCovered: "downloads/CHEM121_WhatsCovered_Fall2026.pdf",
+      scheduleMW: "downloads/CHEM121_Schedule_Fall2026_MW.ics",
+      scheduleTTh: "downloads/CHEM121_Schedule_Fall2026_TTh.ics",
     },
   },
   chem131: {
@@ -42,6 +44,7 @@ const COURSE_META = {
       word: "downloads/CHEM131_Syllabus_Fall2026.docx",
       dayone: "downloads/CHEM131_DayOne_Fall2026.pdf",
       whatsCovered: "downloads/CHEM131_WhatsCovered_Fall2026.pdf",
+      scheduleTTh: "downloads/CHEM131_Schedule_Fall2026_TTh.ics",
     },
   },
 };
@@ -75,6 +78,8 @@ function renderSyllabus(courseKey) {
     <a href="${meta.downloads.pdf}">Full PDF</a>
     <a href="${meta.downloads.word}">Word doc</a>
     <a href="${meta.downloads.dayone}">Day One handout</a>
+    ${meta.downloads.scheduleMW ? `<a href="${meta.downloads.scheduleMW}">Add to Calendar (MW)</a>` : ""}
+    ${meta.downloads.scheduleTTh ? `<a href="${meta.downloads.scheduleTTh}">Add to Calendar (TTh)</a>` : ""}
   `;
 
   const toc = document.getElementById("toc");

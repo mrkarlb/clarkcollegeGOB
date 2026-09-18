@@ -58,14 +58,14 @@ const GENERATED = {
           "num": "3",
           "label": "Week 3",
           "title": "Molecular Shape, Polarity, and Intermolecular Forces",
-          "html": "<h2>Week 3: Molecular Shape, Polarity, and Intermolecular Forces</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Molecular shape; electronegativity and bond polarity; polarity of molecules</li>\n<li>Energy; the three states of matter; intermolecular forces; boiling and melting point</li>\n<li>Lab: Molecular Shapes and GHGs</li>\n<li>Library Visit 1</li>\n<li>Required Reading: Smith Ch. 3 (3.10–3.12), Ch. 4 (4.1–4.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A05 (3.10–3.12)</li>\n<li>Sunday activity: A06 (4.1–4.4)</li>\n<li>Lab 3 (continued into simulations alongside Library Visit 1)</li>\n</ul>\n</details>\n"
+          "html": "<h2>Week 3: Molecular Shape, Polarity, and Intermolecular Forces</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Molecular shape; electronegativity and bond polarity; polarity of molecules</li>\n<li>Energy; the three states of matter; intermolecular forces; boiling and melting point</li>\n<li>Lab: Molecular Shapes and GHGs</li>\n<li>Writing Workshop 2</li>\n<li>Required Reading: Smith Ch. 3 (3.10–3.12), Ch. 4 (4.1–4.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A05 (3.10–3.12)</li>\n<li>Sunday activity: A06 (4.1–4.4)</li>\n<li>Lab 3 (continued into simulations alongside Writing Workshop 2)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "week-4",
           "num": "4",
           "label": "Week 4",
           "title": "Heat, Phase Changes, and the Mole",
-          "html": "<h2>Week 4: Heat, Phase Changes, and the Mole</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Specific heat; energy and phase changes; heating and cooling curves</li>\n<li>Mass balance; introduction to reactions, balancing equations, reaction\ntypes, and oxidation/reduction</li>\n<li>Lab: Copper Cycle and AMD</li>\n<li>Library Visit 2</li>\n<li>Required Reading: Smith Ch. 4 (4.5–4.7), Ch. 5 (5.1–5.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A07 (4.5–4.7)</li>\n<li>Sunday activity: A08 (5.1–5.4)</li>\n<li>Lab 4 (continued — weighing copper — alongside Library Visit 2)</li>\n</ul>\n</details>\n"
+          "html": "<h2>Week 4: Heat, Phase Changes, and the Mole</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Specific heat; energy and phase changes; heating and cooling curves</li>\n<li>Mass balance; introduction to reactions, balancing equations, reaction\ntypes, and oxidation/reduction</li>\n<li>Lab: Copper Cycle and AMD</li>\n<li>Library Visit 1</li>\n<li>Required Reading: Smith Ch. 4 (4.5–4.7), Ch. 5 (5.1–5.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A07 (4.5–4.7)</li>\n<li>Sunday activity: A08 (5.1–5.4)</li>\n<li>Lab 4 (continued — weighing copper — alongside Library Visit 1)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "week-5",
@@ -79,7 +79,7 @@ const GENERATED = {
           "num": "6",
           "label": "Week 6",
           "title": "Equilibrium, Pressure, and Kinetic Molecular Theory",
-          "html": "<h2>Week 6: Equilibrium, Pressure, and Kinetic Molecular Theory</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Equilibrium; Le Châtelier&#39;s principle; body temperature regulation</li>\n<li>Gases and pressure; Boyle&#39;s, Charles&#39;s, and Gay-Lussac&#39;s laws</li>\n<li>Lab: Soil Quality Analysis (Day 1) and Water Quality Analysis (Day 2)</li>\n<li>Required Reading: Smith Ch. 5 (5.11–5.12), Ch. 6 (6.1–6.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A11 (5.11–5.12)</li>\n<li>Sunday activity: A12 (6.1–6.4)</li>\n<li>Lab 6 (two-day lab: NOx tube deployment Day 1, soil testing completed Day 2)</li>\n</ul>\n</details>\n"
+          "html": "<h2>Week 6: Equilibrium, Pressure, and Kinetic Molecular Theory</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Equilibrium; Le Châtelier&#39;s principle; body temperature regulation</li>\n<li>Gases and pressure; Boyle&#39;s, Charles&#39;s, and Gay-Lussac&#39;s laws</li>\n<li>Lab: Soil Quality Analysis (Day 1) and Water Quality Analysis (Day 2)</li>\n<li>Library Visit 2</li>\n<li>Required Reading: Smith Ch. 5 (5.11–5.12), Ch. 6 (6.1–6.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Wednesday activity: A11 (5.11–5.12)</li>\n<li>Sunday activity: A12 (6.1–6.4)</li>\n<li>Lab 6 (two-day lab: NOx tube deployment Day 1, soil testing completed\nDay 2 alongside Library Visit 2)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "week-7",
@@ -160,8 +160,8 @@ const GENERATED = {
           "id": "week-2",
           "num": "2",
           "label": "Week 2",
-          "title": "Isomers and Organic Naming",
-          "html": "<h2>Week 2: Isomers and Organic Naming</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Organic structure and naming across functional groups (integrative,\nspanning Ch. 10–13)</li>\n<li>Constitutional and cis-trans (geometric) isomers; alkane/cycloalkane\nnaming revisited</li>\n<li>Lab: Solubility and Oil Spills</li>\n<li>Required Reading: Smith Ch. 10 (10.5–10.8), Ch. 11 (11.1–11.4)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Activity: A23 (integrative — Ch. 10–13)</li>\n<li>Activity: A24 (10.5–10.8, 11.3–11.4)</li>\n<li>Writing Workshop 1</li>\n</ul>\n</details>\n"
+          "title": "Alkenes, Alkynes, Aromatics, and Isomers",
+          "html": "<h2>Week 2: Alkenes, Alkynes, Aromatics, and Isomers</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Alkenes and alkynes; their nomenclature</li>\n<li>Aromatic compounds; nomenclature of benzene derivatives; sunscreens and antioxidants</li>\n<li>Constitutional and cis-trans (geometric) isomers; alkane/cycloalkane\nnaming revisited</li>\n<li>Lab: Solubility and Oil Spills</li>\n<li>Required Reading: Smith Ch. 11 (11.1–11.2, 11.3–11.4, 11.8–11.10), Ch. 10 (10.5–10.8)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Activity: A23 (11.1–11.2, 11.8–11.10)</li>\n<li>Activity: A24 (10.5–10.8, 11.3–11.4)</li>\n<li>Writing Workshop 1</li>\n</ul>\n</details>\n"
         },
         {
           "id": "week-3",
@@ -196,14 +196,14 @@ const GENERATED = {
           "num": "7",
           "label": "Week 7",
           "title": "Carbohydrates and Lipids",
-          "html": "<h2>Week 7: Carbohydrates and Lipids</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Reactions of monosaccharides; disaccharides; polysaccharides; blood type</li>\n<li>Lipids — fatty acids, waxes, triacylglycerols, and their hydrolysis</li>\n<li>Lab: Sugar Spill (Day 1); Bioremediation (Day 2)</li>\n<li>Required Reading: Smith Ch. 14 (14.4–14.7), Ch. 15 (15.1–15.5)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Activity: A33 (14.4–14.7)</li>\n<li>Activity: A34 (15.1–15.5)</li>\n<li>Bioremediation lab finishes with a Graphing Workshop</li>\n</ul>\n</details>\n"
+          "html": "<h2>Week 7: Carbohydrates and Lipids</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Reactions of monosaccharides; disaccharides; polysaccharides; blood type</li>\n<li>Lipids — fatty acids, waxes, triacylglycerols, and their hydrolysis</li>\n<li>Lab: Sugar Spill and Enzymes (Day 1); Bioremediation (Day 2)</li>\n<li>Required Reading: Smith Ch. 14 (14.4–14.7), Ch. 15 (15.1–15.5)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Activity: A33 (14.4–14.7)</li>\n<li>Activity: A34 (15.1–15.5)</li>\n<li>Bioremediation lab finishes with a Graphing Workshop</li>\n</ul>\n</details>\n"
         },
         {
           "id": "week-8",
           "num": "8",
           "label": "Week 8",
           "title": "Cell Membranes and Nucleic Acids",
-          "html": "<h2>Week 8: Cell Membranes and Nucleic Acids</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Phospholipids and cell membranes; cholesterol; steroid hormones;\nfat-soluble vitamins</li>\n<li>Nucleosides, nucleotides, and nucleic acids; the DNA double helix; replication; RNA</li>\n<li>Lab: Bioplastics (Design Challenge)</li>\n<li>Required Reading: Smith Ch. 15 (15.6–15.10), Ch. 17 (17.1–17.5)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Activity: A35 (15.6–15.10)</li>\n<li>Activity: A36 (17.1–17.5)</li>\n<li>Also this week: Unit Quiz 3 (proteins and sugars)</li>\n</ul>\n</details>\n"
+          "html": "<h2>Week 8: Cell Membranes and Nucleic Acids</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Phospholipids and cell membranes; cholesterol; steroid hormones;\nfat-soluble vitamins</li>\n<li>Nucleosides, nucleotides, and nucleic acids; the DNA double helix; replication; RNA</li>\n<li>Lab: Bioplastics (Design Challenge)</li>\n<li>Required Reading: Smith Ch. 15 (15.6–15.10), Ch. 17 (17.1–17.5)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Activity: A35 (15.6–15.10)</li>\n<li>Activity: A36 (17.1–17.5)</li>\n<li>Also this week: Unit Quiz 3 (Ch. 16 + Ch. 14)</li>\n</ul>\n</details>\n"
         },
         {
           "id": "week-9",
@@ -217,7 +217,7 @@ const GENERATED = {
           "num": "10",
           "label": "Week 10",
           "title": "Catabolism, Energy Expenditure, and Final Project",
-          "html": "<h2>Week 10: Catabolism, Energy Expenditure, and Final Project</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Glycolysis; the fate of pyruvate; the citric acid cycle; electron\ntransport chain and oxidative phosphorylation; ATP yield from glucose</li>\n<li>Catabolism of triacylglycerols; ketone bodies; amino acid metabolism</li>\n<li>Lab: Seed Toxicology</li>\n<li>Final Project: Teach Your Community (TYC) — final exam assessment,\n10% of course grade, due Friday, 12/11</li>\n<li>Required Reading: Smith Ch. 18 (18.4–18.11)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Activity: A39 (18.4–18.8)</li>\n<li>Activity: A40 (18.9–18.11)</li>\n<li>Also this week: Unit Quiz 4 (lipids and nucleic acids); Unit Quiz 5\n(metabolism); TYC Outline work continues</li>\n<li>Finals week: course potluck</li>\n</ul>\n</details>\n"
+          "html": "<h2>Week 10: Catabolism, Energy Expenditure, and Final Project</h2>\n<p><strong>What this week covers:</strong></p>\n<ul>\n<li>Glycolysis; the fate of pyruvate; the citric acid cycle; electron\ntransport chain and oxidative phosphorylation; ATP yield from glucose</li>\n<li>Catabolism of triacylglycerols; ketone bodies; amino acid metabolism</li>\n<li>Lab: Seed Toxicology</li>\n<li>Final Project: Teach Your Community (TYC) — final exam assessment,\n10% of course grade, due Friday, 12/11</li>\n<li>Required Reading: Smith Ch. 18 (18.4–18.11)</li>\n</ul>\n<details>\n<summary>Weekly logistics</summary><ul>\n<li>Activity: A39 (18.4–18.8)</li>\n<li>Activity: A40 (18.9–18.11)</li>\n<li>Also this week: Unit Quiz 4 (Ch. 15 + Ch. 17); Unit Quiz 5\n(Ch. 18); TYC Outline work continues</li>\n<li>Finals week: course potluck</li>\n</ul>\n</details>\n"
         }
       ]
     }

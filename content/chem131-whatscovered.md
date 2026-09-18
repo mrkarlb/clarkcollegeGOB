@@ -30,20 +30,20 @@ Everything covered in this course, organized by topic and week — useful for co
 
 </details>
 
-## Week 2: Isomers and Organic Naming
+## Week 2: Alkenes, Alkynes, Aromatics, and Isomers
 
 **What this week covers:**
-- Organic structure and naming across functional groups (integrative,
-  spanning Ch. 10–13)
+- Alkenes and alkynes; their nomenclature
+- Aromatic compounds; nomenclature of benzene derivatives; sunscreens and antioxidants
 - Constitutional and cis-trans (geometric) isomers; alkane/cycloalkane
   naming revisited
 - Lab: Solubility and Oil Spills
-- Required Reading: Smith Ch. 10 (10.5–10.8), Ch. 11 (11.1–11.4)
+- Required Reading: Smith Ch. 11 (11.1–11.2, 11.3–11.4, 11.8–11.10), Ch. 10 (10.5–10.8)
 
 <details>
 <summary>Weekly logistics</summary>
 
-- Activity: A23 (integrative — Ch. 10–13)
+- Activity: A23 (11.1–11.2, 11.8–11.10)
 - Activity: A24 (10.5–10.8, 11.3–11.4)
 - Writing Workshop 1
 
@@ -127,7 +127,7 @@ Everything covered in this course, organized by topic and week — useful for co
 **What this week covers:**
 - Reactions of monosaccharides; disaccharides; polysaccharides; blood type
 - Lipids — fatty acids, waxes, triacylglycerols, and their hydrolysis
-- Lab: Sugar Spill (Day 1); Bioremediation (Day 2)
+- Lab: Sugar Spill and Enzymes (Day 1); Bioremediation (Day 2)
 - Required Reading: Smith Ch. 14 (14.4–14.7), Ch. 15 (15.1–15.5)
 
 <details>
@@ -153,7 +153,7 @@ Everything covered in this course, organized by topic and week — useful for co
 
 - Activity: A35 (15.6–15.10)
 - Activity: A36 (17.1–17.5)
-- Also this week: Unit Quiz 3 (proteins and sugars)
+- Also this week: Unit Quiz 3 (Ch. 16 + Ch. 14)
 
 </details>
 
@@ -192,8 +192,8 @@ Everything covered in this course, organized by topic and week — useful for co
 
 - Activity: A39 (18.4–18.8)
 - Activity: A40 (18.9–18.11)
-- Also this week: Unit Quiz 4 (lipids and nucleic acids); Unit Quiz 5
-  (metabolism); TYC Outline work continues
+- Also this week: Unit Quiz 4 (Ch. 15 + Ch. 17); Unit Quiz 5
+  (Ch. 18); TYC Outline work continues
 - Finals week: course potluck
 
 </details>

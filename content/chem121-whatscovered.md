@@ -57,7 +57,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Molecular shape; electronegativity and bond polarity; polarity of molecules
 - Energy; the three states of matter; intermolecular forces; boiling and melting point
 - Lab: Molecular Shapes and GHGs
-- Library Visit 1
+- Writing Workshop 2
 - Required Reading: Smith Ch. 3 (3.10–3.12), Ch. 4 (4.1–4.4)
 
 <details>
@@ -65,7 +65,7 @@ Everything covered in this course, organized by topic and week — useful for co
 
 - Wednesday activity: A05 (3.10–3.12)
 - Sunday activity: A06 (4.1–4.4)
-- Lab 3 (continued into simulations alongside Library Visit 1)
+- Lab 3 (continued into simulations alongside Writing Workshop 2)
 
 </details>
 
@@ -76,7 +76,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Mass balance; introduction to reactions, balancing equations, reaction
   types, and oxidation/reduction
 - Lab: Copper Cycle and AMD
-- Library Visit 2
+- Library Visit 1
 - Required Reading: Smith Ch. 4 (4.5–4.7), Ch. 5 (5.1–5.4)
 
 <details>
@@ -84,7 +84,7 @@ Everything covered in this course, organized by topic and week — useful for co
 
 - Wednesday activity: A07 (4.5–4.7)
 - Sunday activity: A08 (5.1–5.4)
-- Lab 4 (continued — weighing copper — alongside Library Visit 2)
+- Lab 4 (continued — weighing copper — alongside Library Visit 1)
 
 </details>
 
@@ -113,6 +113,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Equilibrium; Le Châtelier's principle; body temperature regulation
 - Gases and pressure; Boyle's, Charles's, and Gay-Lussac's laws
 - Lab: Soil Quality Analysis (Day 1) and Water Quality Analysis (Day 2)
+- Library Visit 2
 - Required Reading: Smith Ch. 5 (5.11–5.12), Ch. 6 (6.1–6.4)
 
 <details>
@@ -120,7 +121,8 @@ Everything covered in this course, organized by topic and week — useful for co
 
 - Wednesday activity: A11 (5.11–5.12)
 - Sunday activity: A12 (6.1–6.4)
-- Lab 6 (two-day lab: NOx tube deployment Day 1, soil testing completed Day 2)
+- Lab 6 (two-day lab: NOx tube deployment Day 1, soil testing completed
+  Day 2 alongside Library Visit 2)
 
 </details>
 
