@@ -9,9 +9,9 @@ instructor: "Dr. Karl Bailey (Dr. B)"
 
 # Why This Course, Why You
 
-This course builds directly on CHEM&121, moving from general chemistry into the organic and biochemistry that explains how the human body actually works at a molecular level. This is the chemistry behind metabolism, drug action, and the major biomolecules you'll encounter constantly in a health career — the layer beneath the clinical knowledge you'll build in your program. Chemistry is also the foundation of the human body itself — the foods you eat and the environment around you determine physiological impacts and outcomes at a chemical level.
+This course builds directly on CHEM&121, moving from gases and solutions into organic and biochemistry — how the human body actually works at a molecular level. This is the science behind metabolism, enzyme and drug action, and the major biomolecules (like ATP) you'll encounter constantly in a health career, all connected back to how the foods you eat and the world around you shape your body at a biochemical level.
 
-This term will ask more from you than the last. Organic chemistry is much more abstract, no math and no formulas. This term structure is function, so time on task and repetition is how we get more comfortable recognizing structures to better predict their function. This term more than the last, there are no shortcuts. It is the same for everyone, and everyone makes it through successfully. Use the first three modules to invest and build a solid foundation for the rest of the term. Everything in this syllabus is built around getting you through that process, not around catching you out.
+This course will ask more of you than your last chemistry class. Organic chemistry is about structure and function — abstract, with no math or formulas — so recognizing chemical structures is your first big task. Like in A&P, repetition is how you get comfortable enough with molecules to predict what they'll do. There are no shortcuts, and everyone starts in the same place. Use the first three modules to build that foundation — this term is about putting in the time, not walking in already knowing it. You've got this.
 
 # Start Here
 
@@ -19,17 +19,15 @@ If you read one part of this syllabus, read this one.
 
 | Item | Details |
 |---|---|
-| **What it costs** | **Chemfolio** *[price TBD]* + **CHEM&131 Lab Manual** *[price TBD]* (Clark Bookstore) + ALEKS (paid through your course registration). |
-| **When things are due** | Tuesday through Sunday each carry something — see Weekly Flow below for the exact rhythm. Once you learn it, it repeats every module. |
+| **What it costs** | **Chemfolio** *($19.50)* + **CHEM&131 Lab Manual** *(~$16.70)* (Clark Bookstore) + ALEKS (paid through your course registration). |
+| **When things are due** | Wednesday through Sunday each carry something — see Weekly Flow below for the exact rhythm. Once you learn it, it repeats every module. |
 | **Time to budget** | About 10–12 hours a week — most of it on Canvas, plus your 4-hour on-campus lab. |
 | **How to reach me** | Canvas Inbox only — I don't use email during the term. I reply within 24 hours on weekdays. |
 | **The two big ones** | Weekly lab attendance (required every week, no exceptions) and the Final TYC (Teach Your Community) Project — 10% of your grade, in place of a final exam. |
-| **The AI rule** | AI can support your learning — don't let it do the learning for you. See the AI Agreement below for exactly where the lines are. |
+| **The AI rule** | No AI-generated content in anything you submit — ever, no exceptions. See the AI Agreement below for the full policy. |
 | **If you fall behind** | No explanation needed. Late work loses 1% per hour after the due date, down to zero after about 5 days — then it can still be submitted for zero credit. See Late Work below for the full policy. |
 
-**Your grade in one line:** Discussions 30% · Labs 30% · Quizzes 20% · ALEKS Homework 10% · Final TYC Project 10%.
-
-*(Working draft — the teaching team will confirm final category weights before the term begins.)*
+**Your grade in one line:** 3-2-1 Team Posts 15% · OOL Discussions 15% · Lab Experiments 25% · Quizzes 20% · ALEKS Problem Sets 15% · Final TYC Project 10%.
 
 ## Course Terms You'll See
 
@@ -69,7 +67,7 @@ A few abbreviations come up constantly in this course. Here's what they mean, so
 
 # Welcome to Class!
 
-**TL;DR:** Hybrid means lectures online, labs on campus. Weekly TEAM discussions and lab two days per week. Show up, stay engaged, and ask for help before you're stuck.
+*TL;DR: Hybrid means lectures online, labs on campus. Weekly TEAM discussions and lab two days per week. Show up, stay engaged, and ask for help before you're stuck.*
 
 Welcome, welcome, welcome! I'm Dr. B (Dr. Karl Bailey, he/him), and I'm glad to have you in CHEM&131 this term. Wherever your last CHEM class was, I'm glad you're here. Let's get into how this class will work for you!
 
@@ -91,16 +89,16 @@ Clark College and the Disability Access Center (DAC) office assist students with
 
 ## Weekly Flow
 
-**TL;DR:** Something is due nearly every day, Wednesday through Sunday — same pattern every week once you learn it.
+*TL;DR: Something is due nearly every day, Wednesday through Sunday — same pattern every week once you learn it.*
 
 Canvas Modules are your home base. This rhythm repeats every module — once you know this table, you know the whole term.
 
 | Day | What's due |
 |---|---|
 | Monday | New module opens |
-| Wednesday | 3-2-1 Team post + upload due; OOL discussion post due |
-| Thursday | 3-2-1 Team Lead post due |
-| Friday | OOL replies due; Lab Results (20 pts), Findings (10 pts), and Conclusions (20 pts) due |
+| Wednesday | 3-2-1 Team post + upload due; OOL discussion post due; Lab Results (20 pts) due |
+| Thursday | 3-2-1 Team Lead Summary post due (Team Lead only, that week) |
+| Friday | OOL replies due; Lab Findings (10 pts) and Conclusions (20 pts) due |
 | Sunday | 3-2-1 Team post + replies to all 3 teammates + upload due; ALEKS homework due; Lab Background (10 pts) and Methods (40 pts) due |
 
 Attend lab both days assigned in your schedule.
@@ -111,14 +109,14 @@ Quizzes are the one exception to this weekly pattern — they're in-person durin
 
 # About Your Instructor
 
-**TL;DR:** Canvas Inbox only, no email — I reply within 24 hours on weekdays.
+*TL;DR: Canvas Inbox only, no email — I reply within 24 hours on weekdays.*
 
 | Item | Details |
 |---|---|
 | **Instructor Name and pronouns** | Dr. Karl Bailey, Ph.D. (he/him) |
 | **How I like to be addressed** | Dr. B |
 | **Communication** | Canvas Inbox only — I do not use email during the term.<br><br>Not a current student? Reach me at kbailey@clark.edu or 360-992-2313. |
-| **Student Hours** | Tuesday & Thursday, 12:00–2:00 PM (2 hours before the 2:00 PM lab section) |
+| **Help Hours** | Tuesday & Thursday, 12:00–2:00 PM (2 hours before the 2:00 PM lab section) |
 | **Preferred Mode of Communication** | Canvas Inbox — I reply within 24 hours on weekdays. |
 
 ## What can you expect from me?
@@ -130,20 +128,20 @@ I've spent more than 25 years building and refining active-learning chemistry co
 
 # What Course Materials Will I Need?
 
-**TL;DR:** Chemfolio + your lab manual (Clark Bookstore) + ALEKS (set up automatically in Canvas).
+*TL;DR: Chemfolio + your lab manual (Clark Bookstore) + ALEKS (set up automatically in Canvas).*
 
 | Item | Details |
 |---|---|
-| **Texts/Other learning materials** | **Chemfolio** (lecture workbook) — required, drives our 3-2-1 discussion format. *[edition/ISBN/price TBD]*<br><br>**CHEM&131 Lab Manual** (lab manual) — required. *[edition/ISBN/price TBD]*<br><br>**ALEKS** — required online homework platform, includes access to the Smith textbook. Paid through your course registration. |
+| **Texts/Other learning materials** | **Chemfolio** (lecture workbook) — required, drives our 3-2-1 discussion format. *($19.50, edition/ISBN TBD)*<br><br>**CHEM&131 Lab Manual** (lab manual) — required. *(~$16.70, edition/ISBN TBD)*<br><br>**Composition Notebook**, college ruled, 7.5 x 10 in — required.<br><br>**Scientific or Graphing Calculator** — required physical calculator, no alternative electronic devices. If you'll be taking Math 146 Statistics, we recommend a graphing calculator (Ti-84 or Ti-Nspire); otherwise any scientific calculator (Ti-34 Multiview, Ti-36 Pro, or Ti-30Xs Multiview) works. Available for purchase at the Clark Bookstore or rent at the Library.<br><br>**ALEKS** — required online homework platform, includes access to the Smith textbook. Paid through your course registration. |
 | **Companion Web Site** | ALEKS (aleks.com), accessed through Canvas |
 | **Software** | Microsoft Office (primarily Word and Excel) — accessible right inside Canvas through the Microsoft Education integration, using your free Clark student Office 365 account. |
-| **Electronic Resources** | Canvas Learning Management System, with Microsoft OneDrive linked directly through Canvas's built-in Microsoft Education integration (no separate office.com setup needed).<br><br>A heads up: this embedded Office/OneDrive connection tripped up a number of students last term. Module 0 has a step-by-step setup guide — work through it in week one, and if you hit an error, contact Tech Hub (techhub@clark.edu · 360-992-2010) rather than troubleshooting alone. |
+| **Electronic Resources** | Canvas Learning Management System. You'll need to scan and upload multi-page PDF files to Canvas — Microsoft OneDrive or Adobe Scan are recommended.<br><br>Follow the directions in the Module 0 Getting Started guide, which include enabling your Clark student email and Clark Labs account to activate your free Microsoft Office 365 account. |
 | **Privacy & accessibility for course tools and materials** | See Clark's [eLearning accessibility and privacy policies page](https://www.clark.edu/academics/eLearning/policies-standards/accessibility-statements.php) for Canvas, ALEKS, and other tools used in this course. |
-| **Where to find necessary materials** | Chemfolio and your lab manual: [Clark College Bookstore](https://www.clarkbookstore.com/buy_textbooks.asp).<br><br>ALEKS: access is set up automatically in Canvas once your registration is processed. |
+| **Where to find necessary materials** | Chemfolio and your lab manual: [Clark College Bookstore](https://www.clarkbookstore.com/textbook_express.asp?mode=2&step=2).<br><br>ALEKS: access is set up automatically in Canvas once your registration is processed. |
 
 # What Are the Course Agreements?
 
-**TL;DR:** Message me in Canvas Inbox, cite anything that isn't yours, never let AI write your discussion posts, and show up ready to work.
+*TL;DR: Message me in Canvas Inbox, cite anything that isn't yours, never let AI write your discussion posts, and show up ready to work.*
 
 ## Communication
 
@@ -151,53 +149,67 @@ Canvas Inbox is our channel — for everything. I don't use email during the ter
 
 ## Citing Your Sources
 
-Use a citation to credit ANY source of information used in your work, be it a website, image, or content that YOU did not come up with. Yes, it's a pain, but it helps when posting content for others who need to trust and rely on it. To avoid plagiarism (when you intentionally or unintentionally present someone else's work as your own), you will need to signal that you are referencing outside material and give credit. [Clark College Libraries' plagiarism guide](https://clark.libguides.com/c.php?g=1005438&p=7291798) is a handy resource for learning about what plagiarism is and how to avoid it. I am here if you have questions about how to correctly cite outside information in your work.
+It is expected that you are submitting your own work regardless of format. Citations in this class can be in APA 7, ACS, CSE, or if you must MLA Style. Written assignments in this course serve as tools to facilitate your growth as well as assessments to demonstrate achievement of course competencies. Your ideas and knowledge are important and cannot be replicated by others or by artificial intelligence (AI). There are resources available to support you including your professors, Clark College Librarians, and writing tutors. They want to help!
+
+Academic dishonesty often happens when students are stressed and feeling under pressure or when cultural differences lead to miscommunication around local customs. There are two main types of academic dishonesty. Plagiarism is when a student doesn't credit or properly cite the sources for their academic work. Cheating refers to a student getting or giving help on assignments that isn't allowed by the professor. Use of AI tools submitted as your own work will be considered both plagiarism and cheating.
+
+A citation is when you give credit to another source of information that you are using in your work. This course has specific expectations about how you cite sources when you are referring to work that is not your own (for example, if you use an outside quote in a discussion post, etc.). To avoid plagiarism (when you intentionally or unintentionally present someone else's work as your own), you will need to signal that you are referencing outside material and give credit. Read the [plagiarism information from Clark College Libraries](https://clark.libguides.com/c.php?g=1005438&p=7291798) to learn about what plagiarism is and how to avoid it. It has a tutorial, tips, and style guides for citations. Ask us for help on this - it's freely given!
 
 ## AI (Artificial Intelligence) Guidelines — Community AI Agreement
 
-**TL;DR:** Never use AI to write anything you submit in discussions — no exceptions. AI can help you double-check your own lab/ALEKS work if you declare it. Quizzes and the Final Project: no AI, period.
+*TL;DR: No AI-generated content anywhere, in anything you submit — discussions, labs, ALEKS, quizzes, the Final Project. No exceptions, no declaring your way around it. Any AI use in a submission gets an F on that assignment.*
 
-This agreement is a community commitment built on honesty, growth, and professionalism. AI is a more powerful tool than simply an advanced Google search. Learn to leverage it wisely, use it responsibly, and declare it when submitting your work. By enrolling in this course you are agreeing to abide by this agreement.
+**Writing is integral to thinking. It is also hard.** In this class, I look forward to and am excited to see your original work and perspectives written in your own voice. You are not graded on grammar. Natural language processing (NLP) applications like ChatGPT, OpenAI, xAI, LLMs like DeepSeek, should be used with caution and only if you are documenting your work in Microsoft Word or Google Docs. You should note that the material generated by these programs may be inaccurate, incomplete, biased, or otherwise really crappy. Beware that use WILL stifle your own independent thinking and creativity. You cannot submit any work or even one sentence generated by an AI tool as your own. Even "brainstormed" material or ideas generated by AI should be credited instead of you, just like any other reference material. **Assignments with AI will get an F.**
 
-**For discussions specifically: no AI-generated content is ever allowed in anything you submit — no exceptions, and declaring it doesn't change that.** The 3-2-1 format, OOL posts, and Team Lead summaries all require your own reasoning, in your own words. AI-generated discussion content will not receive credit, whether declared or not.
+Think of the help you get from NLP apps as a much less sophisticated version of the assistance you can receive (for free!) from the Clark College Librarians or Writing Center tutors. A librarian or tutor might legitimately ask you a question to jump-start your imagination, or identify a poorly organized paragraph, but should never do the writing for you. A major difference here is that an NLP app is not a person. It's a machine which is adept at recognizing patterns and reflecting those patterns back at us. It cannot think for itself. It cannot think for you. It is getting worse at writing for you.
 
-### Four Principles
+**We need honest folks in healthcare occupations. Here's how to avoid cheating:**
 
-- **Caution** — AI can be wrong. Double-check with class notes, labs, and trusted sources.
-- **Trust** — Honesty builds our learning community. Declaring AI use has no penalty. Hiding it does.
-- **Relevance** — Use AI to support learning, not to skip actually doing the work.
-- **Transparency** — Just declare it. Add "This submission used AI." at the end of your lab answer or ALEKS work.
+- **Document ALL your work offline in Microsoft Word in your OneDrive (see Canvas).**
+- **Appropriate use of AI for any assignment in this class:**
+  - You are free to use spell check, grammar check, and synonym identification tools in applications (e.g., those in Microsoft Word, Google Docs, Pages, or Canvas).
+  - You are free to use in-app recommendations when it comes to spelling and grammar of only sentences you have written entirely yourself first.
+  - You are free to use in-app recommendations when it comes to tweaking outlines you have written entirely yourself first.
+- **Inappropriate use of AI for any assignment in this class:**
+  - You cannot have an app write a draft (either rough or final) or brainstorm any assignment.
+  - You cannot use any content generated from prompts given to you in assignments.
+  - You cannot use entire sentences or paragraphs suggested by an app without providing quotation marks and a citation, just as you would any other source (see Citing Your Sources above).
+  - You cannot have an app reply to your classmates or provide their words to an AI tool. **This is a violation of your classmates' privacy as a student at Clark.**
+  - You cannot give any AI tool the learning materials and assignments from this class. **This is a violation of my privacy, as these materials were made by us.**
+- **Evidence of inappropriate AI use will be grounds for submission of an Academic Dishonesty report to the College, along with course sanctions at my discretion.**
 
-### By Assignment
-
-- **Discussions** — No AI-generated content anywhere in your posts, replies, and includes the LEADER CHECK IN reply. All posts and replies must be written by the student, with no exception. AI cannot watch a video for you, work through an activity's objectives, or learn for you. AI cannot produce reflective thoughts for a human being.
-- **Labs** — OK to help interpret or reflect on your own data and results. Never make up, falsify, or use data that is not your own. Attribute AI use in all lab submissions.
-- **ALEKS Homework** — OK to support learning. Don't just grab answers — this is exactly the category where leaning on AI defeats the purpose, which is why it's weighted lowest in your grade.
-- **Quizzes & Final TYC Project** — No AI allowed, at any level.
-
-### Follow-Up
-
-- **Discussions** — AI-generated content in any post, reply, or Team Lead summary = zero credit for that submission, regardless of declaration. Repeated instances = academic integrity referral.
-- **Labs** — fake data = zero for the lab. AI answer without declaration = zero for the question. No regrades.
-- **Quizzes/Final Project** — suspected use = zero points and academic integrity referral.
-
-REMINDER: Posting course materials online anywhere — including uploading Canvas pages, Activity content, or video keys to AI tools — is academic dishonesty under the Clark College student code of conduct. Course materials are provided for your learning, not to train or prompt AI on your behalf.
-
-> **Dr. B's Note:** *You're entering health careers where accuracy and integrity matter. AI is here to stay — but how you use it says everything about your professionalism. Own it, declare it, and use it to grow.*
+> **Dr. B's Note:** *You're entering health careers where accuracy and integrity matter. This policy isn't about distrust — it's about protecting your own growth as a thinker, which is the actual skill you're here to build.*
 
 ## Classroom Norms
 
+As your professor, I want to make clear my commitment to creating a welcoming and compassionate classroom culture in-person and online that supports a variety of thoughts, perspectives, and lived experiences. Healthcare occupations are founded on ethical and professional standards that are improved through the inclusion of diverse voices and perspectives. To honor these commitments, I expect that everyone — including me — will:
+
+- Be Kind, Patient, Understanding
+- Create a brave learning space
+- Learning can be tough, discomfort is welcome
+- Practice graceful learning
+- Respect each other's perspectives
+- Make space, take space
+- Include others in the conversation
+- Stay present, but take breaks when you need them
+- Listen to understand, not speak next
+- Stories told here stay here, knowledge leaves
+- Accept reasonable boundaries and non-closure
+- If someone is struggling, offer to help
+- If you are struggling, seek help
+
+Alongside that spirit, a few practical expectations:
+
 - Complete each week's assignments — discussions, labs, ALEKS — by the posted due date.
-- Attend your scheduled labs (both) every week; all lab hours are required to pass the course (all labs with combined score >60%).
+- Attend your scheduled labs (both) every week; all lab hours are required to pass the course — see the Lab Requirement section below for exactly what that means.
 - Be a courteous member of the team and don't get in the way of anyone else's learning: post and reply before the due dates, not hours or minutes before.
-- Academic and intellectual honesty are expected at all times (act professionally now, not when you get the job).
 - Tell me as early as you can about anything affecting your ability to take part fully.
 
 *"How you do anything is how you do everything."*
 
 # What Are the Learning Goals in This Course?
 
-**TL;DR:** By the end, you can apply chemistry reasoning to real health-career problems — not just recall facts.
+*TL;DR: By the end, you can apply chemistry reasoning to real health-career problems — not just recall facts.*
 
 Student learning outcomes are the skills and abilities that you are working to acquire, practice, and apply in class. They represent the learning goals for the term.
 
@@ -211,29 +223,30 @@ These outcomes are measured through your weekly 3-2-1 Team Discussions, lab repo
 
 # How Will I Be Graded, and Why?
 
-**TL;DR:** Discussions 30% · Labs 30% · Quizzes 20% · ALEKS 10% · Final TYC Project 10%. Here's why those weights, and the full breakdown.
+*TL;DR: 3-2-1 Team Posts 15% · OOL Discussions 15% · Lab Experiments 25% · Quizzes 20% · ALEKS Problem Sets 15% · Final TYC Project 10%. Here's why those weights, and the full breakdown.*
 
-These weights aren't arbitrary. Labs and Discussions carry the most weight because that's where the real demonstration of your learning happens — applying what you know, not just recognizing it. ALEKS is weighted lightly because it's practice, not proof of understanding. The Final TYC Project replaces a comprehensive exam because teaching a concept to someone else is a better test of whether you actually understand it than a timed exam is (e.g. “Learn on, do one, teach on.”)
+These weights aren't arbitrary. Lab Experiments carry the most weight because that's where the real demonstration of your learning happens — applying what you know, not just recognizing it. Quizzes are the next-largest individual measure of your understanding. 3-2-1 Team Posts and OOL Discussions are lighter individually, but combined (30%) they carry as much weight as Labs. ALEKS Problem Sets support your learning but aren't proof of understanding on their own, which is why they're weighted below Labs and Quizzes. The Final TYC Project replaces a comprehensive exam because teaching a concept to someone else is a better test of whether you actually understand it than a timed exam is (e.g. “Learn one, do one, teach one.”)
 
 ## Assignment Categories and Their Percentage of the Final Grade
 
-This is a working draft for Fall 2026 — the teaching team will confirm final weights before the term begins.
-
 | Category | Weight | What it is |
 |---|---|---|
-| Discussions | 30% | Weekly 3-2-1 Team Discussions + OOL post and replies |
-| Labs | 30% | Weekly on-campus labs, including INTRO data collection, the RESULTS+ANALYSIS and DISCUSSION+CONCLUSION Canvas assignments |
-| Quizzes | 20% | In-person, given during lab (tentatively Weeks 3, 5, 6, 9, and 11) |
-| ALEKS Homework | 10% | Online adaptive homework for content practice |
+| 3-2-1 Team Posts | 15% | Weekly 3-2-1 Team Discussions — lecture Activities completed and uploaded, plus your engagement with your team |
+| OOL Discussions | 15% | Weekly Outside-of-Lecture discussion post and replies |
+| Lab Experiments | 25% | Weekly on-campus labs — Background, Methods, Results, Findings, and Conclusions (100 points per lab) |
+| Quizzes | 20% | In-person, given during lab (Weeks 4, 6, 8, and 10 — Week 10 carries both Quiz 4 and Quiz 5) |
+| ALEKS Problem Sets | 15% | Online adaptive homework for content practice |
 | Final TYC Project | 10% | Teach Your Community project — no final exam – details in the TYC Canvas module |
 
 ## About the Lab Requirement
 
 Lab hours are part of this course's official credit hours — 1 of your 5 credits is earned specifically through lab. Because of that, each lab must genuinely demonstrate your work, not just check a box.
 
-- Each lab has three parts: INTRO (your uploaded lab notebook pages), Results & Analysis (a Canvas quiz-type assignment, including Excel graphing), and Discussion & Conclusions (a Word template where you replace the provided language with your own analysis, submitted to Canvas and TurnItIn).
-- Each individual lab must score above 60% combined across its three parts — this is not an average across all labs, it's per lab.
-- A lab counts as "missed" toward your credit-hour requirement if you don't attend/submit it, or if it scores below 60%. You cannot miss more than about two labs and still earn the lab credit for this course.
+- Each lab has five parts, totaling 100 points: Background (10 pts) and Methods (40 pts), Results (20 pts), and Findings (10 pts) and Conclusions (20 pts) — see Weekly Flow above for exactly when each is due.
+- Makeup labs are typically not possible. If you miss one experiment, notify me beforehand to be eligible for make-up data — you'll take an 11-point deduction for not collecting the data yourself, but can still complete the rest of the lab assignments for up to 89 of the 100 possible points.
+- If you miss two experiments, the second missed lab is scored zero.
+- Missing three weeks of lab, or having two incomplete labs, means you cannot pass the course.
+- You must earn 65% or greater in the Lab Experiments category to pass this course.
 
 ## Grading Scale
 
@@ -241,9 +254,9 @@ Note: Clark does not award C-, D+, or D- in this course — a C- does not transf
 
 | Percent | Grade | Percent | Grade | Percent | Grade |
 |---|---|---|---|---|---|
-| 93 up to 100 | A | 83 up to 86 | B | 72 up to 76 | C |
-| 90 up to 92 | A- | 80 up to 82 | B- | 63 up to 71 | D |
-| 87 up to 89 | B+ | 77 up to 79 | C+ | 0 up to 62 | F |
+| 93 up to 100 | A | 83 up to 87 | B | 73 up to 76 | C |
+| 90 up to 93 | A- | 80 up to 83 | B- | 60 up to 73 | D |
+| 87 up to 90 | B+ | 77 up to 79 | C+ | 0 up to 60 | F |
 
 ## Late Work
 
@@ -264,7 +277,7 @@ There is no separate revision or regrade policy at this time — the late-work w
 
 # What Resources and Support Services Are Available to Me?
 
-**TL;DR:** Tech Hub for Canvas/software problems, Tutoring or Librarians for coursework help, Basic Needs Hub if life is making this term hard.
+*TL;DR: Tech Hub for Canvas/software problems, Tutoring or Librarians for coursework help, Basic Needs Hub if life is making this term hard.*
 
 ## Technical Support
 
@@ -294,7 +307,7 @@ There is no separate revision or regrade policy at this time — the late-work w
 | **[Career Services](https://www.clark.edu/enroll/careers/index.php)** | Resources and strategies for career and employment goals. 360-992-2902 · [careerservices@clark.edu](mailto:careerservices@clark.edu) |
 | **[Veterans Center of Excellence](https://www.clark.edu/campus-life/student-support/vrc/index.php)** | Resources, community, and support for U.S. military service members. [PUB 015](https://www.clark.edu/about/visitors-guide/getting-to-clark/maps/floor_plans/Gaiser-PUB_map.pdf) · 360-992-2073 · [Vetresources@clark.edu](mailto:Vetresources@clark.edu) |
 
-You can find all these resources as well as links to the [Clark bookstore](https://www.clarkbookstore.com/buy_textbooks.asp), [C-Tran](https://www.c-tran.com/), [campus maps](https://www.clark.edu/about/visitors-guide/getting-to-clark/index.php), and campus life and activities at the [Clark Students website](https://www.clark.edu/current/index.php).
+You can find all these resources as well as links to the [Clark bookstore](https://www.clarkbookstore.com/textbook_express.asp?mode=2&step=2), [C-Tran](https://www.c-tran.com/), [campus maps](https://www.clark.edu/about/visitors-guide/getting-to-clark/index.php), and campus life and activities at the [Clark Students website](https://www.clark.edu/current/index.php).
 
 # How Should I Get Started in Class?
 
@@ -302,40 +315,11 @@ See Your First Week, near the top of this syllabus, for the exact five things to
 
 # Appendix: Official College Policies
 
-Everything below is required Clark College policy language, included in full because it has to be — not because it's what this course is about. A TL;DR sits above each one so you can get the gist and move on, or dig into the full text if it applies to you.
+*TL;DR: The full text of Clark's required policy language lives in one centrally-maintained Canvas course, so it can't drift out of date here. Quick summaries below; contact me if any of these apply to you.*
 
-## ADA Accommodations
+- **ADA Accommodations** — If a disability or temporary health condition affects your coursework, the [Disability Access Center](https://www.clark.edu/campus-life/student-support/disability_support/access_procedure.php) can set up accommodations — contact them as early as you can, then let me know within 24 hours so we can plan for this course.
+- **Non-discrimination Policy** — Clark prohibits discrimination and harassment against any member of the college community; there's a formal grievance process through Human Resources if you experience it.
+- **Title IX and Sexual Misconduct** — If you or someone you know has experienced sexual misconduct, you're not alone — support, reporting options, and campus resources are available.
+- **Student Rights and Responsibilities** — Covers FERPA, absences for reasons of faith or conscience, and your general rights as a student.
 
-**TL;DR:** If a disability or temporary health condition affects your coursework, DAC can set up accommodations for this class — contact them as early as you can.
-
-Clark College and Disability Access Center (DAC) assist students with disabilities in pursuing their educational goals. Clark College is committed to assuring that its services are accessible to individuals with disabilities. Disability Access Center (DAC) coordinates accommodations for students with disabilities and/or temporary health conditions (could include a temporary injury or pregnancy). DAC approves and provides student disability accommodations for classes in partnership with faculty. Students with disabilities who believe that they may need accommodations in this class are encouraged to contact DAC as soon as possible to better ensure that accommodations are implemented in a timely manner. All accommodations must first be approved through Disability Access Center. Interested in getting accommodations? You can request accommodations by following the [steps on the DAC website](https://www.clark.edu/campus-life/student-support/disability_support/access_procedure.php). Or contact DAC one of these ways:
-
-- DAC Main Phone: 360-992-2314. Video Phone for ASL: 360-991-0901.
-- Email: [dac@clark.edu](mailto:dac@clark.edu). Fax: (360) 992-2879.
-- Physical Location: Penguin Union Building (PUB) 002.
-
-If you have already been approved for accommodations, don't forget to [request them every term and schedule your own exams in myAccess](https://www.clark.edu/dac/myaccess.php) — or by contacting DAC. Exams should be scheduled with DAC with at least 5 business days' notice. Please reach out to [DACtesting@clark.edu](mailto:dactesting@clark.edu) if you have any questions about your testing accommodations.
-
-Once you have established accommodations with Disability Access Center, please contact me as your instructor to discuss your needs in this course.
-
-## Non-discrimination Policy
-
-**TL;DR:** Clark prohibits discrimination and harassment, and there's a formal process if you experience it.
-
-The college affirms a commitment to freedom from discrimination for all members of the college community. The responsibility for, and the protection of, this commitment extends to students, faculty, administration, staff, contractors, and those who develop or participate in college programs. It encompasses every aspect of employment and every student and community activity. The college expressly prohibits discrimination on the basis of race, color, national origin, age, perceived or actual physical or mental disability, pregnancy, genetic information, sex, sexual orientation, gender identity, marital status, creed, religion, honorably discharged veteran or military status, citizenship, immigration status, or use of a trained guide dog or service animal. Harassment is a form of discrimination. Any person who believes they have been discriminated against or harassed by Clark College or its employees may file a formal grievance to:
-
-Human Resources Department — 1933 Fort Vancouver Way, Baird Hall 133 — Phone: (360) 992-2105 — Email: [hr@clark.edu](mailto:hr@clark.edu)
-
-## Title IX and Sexual Misconduct
-
-**TL;DR:** If you or someone you know has experienced sexual misconduct, there are people and resources here to help — you're not alone.
-
-Clark College is committed to helping individuals achieve their educational and professional goals and to providing a community that is supportive of students who may have experienced sexual misconduct. The Clark community wants survivors of sexual misconduct, in any form, to know that they are not alone — we are here to help.
-
-If you, or someone you care about, have been impacted by sexual misconduct, the most important thing to know is that you are not alone — there are people who can and want to help. People are available to listen, offer support, provide options, and take actions to help ensure that you and our community are safe. Survivors of sexual misconduct respond to their experiences in different ways. There is no 'right way' to feel or 'right thing' to do. Learn more about [campus and community resources](https://www.clark.edu/about/governance/policies-procedures/title-IX/resources.php), [reporting options](https://www.clark.edu/about/governance/policies-procedures/title-IX/reporting.php), [Title IX](https://www.clark.edu/about/governance/policies-procedures/title-IX/), [personal safety](https://www.clark.edu/about/governance/policies-procedures/title-IX/safety-and-help.php), and how to help a friend who may have experienced sexual misconduct. You can also contact the [Counseling and Health Center](https://www.clark.edu/campus-life/student-support/counseling/index.php) if you would like to pursue counseling.
-
-## Student Rights and Responsibilities
-
-**TL;DR:** This covers things like FERPA, absences for reasons of faith, and your general rights as a student — reach out if any of it applies to you.
-
-On Clark's [Student Rights and Responsibilities page](https://www.clark.edu/about/governance/public-disclosure-and-records/adminProcedures/700/710/index.php), you can find information about freedom of access to education, student absence for reasons of faith or conscience, FERPA, emergency and health information, etc. Please get in touch if you would like to discuss absences for reasons of faith. I am here to support you.
+Full policy text for all of the above: [Clark College Policies Canvas course](https://clarkcollege.instructure.com/courses/2696810).
