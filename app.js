@@ -78,8 +78,8 @@ function renderSyllabus(courseKey) {
     <a href="${meta.downloads.pdf}">Full PDF</a>
     <a href="${meta.downloads.word}">Word doc</a>
     <a href="${meta.downloads.dayone}">Day One handout</a>
-    ${meta.downloads.scheduleMW ? `<a href="${meta.downloads.scheduleMW}">Add to Calendar (MW)</a>` : ""}
-    ${meta.downloads.scheduleTTh ? `<a href="${meta.downloads.scheduleTTh}">Add to Calendar (TTh)</a>` : ""}
+    ${meta.downloads.scheduleMW ? `<a href="${meta.downloads.scheduleMW}">Calendar (MW)</a>` : ""}
+    ${meta.downloads.scheduleTTh ? `<a href="${meta.downloads.scheduleTTh}">Calendar (TTh)</a>` : ""}
   `;
 
   const toc = document.getElementById("toc");

@@ -109,19 +109,44 @@
   }
   .page-toggle { margin-top: 10px; }
   .header-copy {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    flex-wrap: wrap;
     margin-top: 16px;
     padding-top: 16px;
     border-top: 1px solid rgba(255,255,255,0.18);
   }
-  .header-copy-label { font-size: 14px; font-weight: 600; color: #fff; }
+  .header-copy > summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    list-style: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    padding: 7px 14px;
+    border: 1.5px solid rgba(255,255,255,0.55);
+    border-radius: 999px;
+    transition: background 0.12s ease, border-color 0.12s ease;
+  }
+  .header-copy > summary::-webkit-details-marker { display: none; }
+  .header-copy > summary::after {
+    content: "▾";
+    font-size: 11px;
+    transition: transform 0.12s ease;
+  }
+  .header-copy[open] > summary::after { transform: rotate(180deg); }
+  .header-copy > summary:hover { background: rgba(255,255,255,0.12); border-color: #fff; }
+  .header-copy .copy-btns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+  }
   .header-copy .copy-btns a {
     background: #fff;
     color: var(--header-tab-text);
     border-color: #fff;
+    font-size: 13.5px;
+    padding: 6px 11px;
   }
   .header-copy .copy-btns a:hover { background: #E4EEEC; }
 
@@ -305,10 +330,10 @@
       <button id="pageBtnSyllabus" aria-pressed="true" onclick="setPage('syllabus')">Syllabus</button>
       <button id="pageBtnCovered" aria-pressed="false" onclick="setPage('whatscovered')">What's Covered</button>
     </div>
-    <div class="header-copy">
-      <span class="header-copy-label">Get a copy:</span>
+    <details class="header-copy">
+      <summary>Get a copy</summary>
       <div class="copy-btns" id="headerCopyBtns"></div>
-    </div>
+    </details>
   </div>
 </header>
 
