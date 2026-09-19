@@ -239,6 +239,8 @@ These weights aren't arbitrary. Lab Experiments carry the most weight because th
 | ALEKS Problem Sets | 15% | Online adaptive homework for content practice |
 | Final TYC Project | 10% | Teach Your Community project — no final exam – details in the TYC Canvas module |
 
+You must earn at least 65% in every one of the six grading categories above to pass this course — not just an overall passing average. Falling below 65% in any single category, even with a passing overall grade, means you cannot pass.
+
 ## About the Lab Requirement
 
 Lab hours are part of this course's official credit hours — 1 of your 5 credits is earned specifically through lab. Because of that, each lab must genuinely demonstrate your work, not just check a box.
@@ -247,7 +249,6 @@ Lab hours are part of this course's official credit hours — 1 of your 5 credit
 - Makeup labs are typically not possible. If you miss one experiment, notify me beforehand to be eligible for make-up data — you'll take an 11-point deduction for not collecting the data yourself, but can still complete the rest of the lab assignments for up to 89 of the 100 possible points.
 - If you miss two experiments, the second missed lab is scored zero.
 - Missing three weeks of lab, or having two incomplete labs, means you cannot pass the course.
-- You must earn 65% or greater in the Lab Experiments category to pass this course.
 
 ## Grading Scale
 
