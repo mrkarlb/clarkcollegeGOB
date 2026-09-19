@@ -31,7 +31,6 @@ const COURSE_META = {
       dayone: "downloads/CHEM121_DayOne_Fall2026.pdf",
       whatsCovered: "downloads/CHEM121_WhatsCovered_Fall2026.pdf",
       scheduleMW: "downloads/CHEM121_Schedule_Fall2026_MW.ics",
-      scheduleTTh: "downloads/CHEM121_Schedule_Fall2026_TTh.ics",
     },
   },
   chem131: {
