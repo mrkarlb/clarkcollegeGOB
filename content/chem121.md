@@ -211,7 +211,16 @@ Alongside that spirit, a few practical expectations:
 
 # What Are the Learning Goals in This Course?
 
-*TL;DR: By the end, you can apply chemistry reasoning to real health-career problems — not just recall facts.*
+*TL;DR: By the end, you can apply chemistry reasoning to real health-career problems — and these skills tie directly to Clark's General Education Competencies.*
+
+General Education at Clark College empowers students to become informed, adaptable, and engaged community members who are prepared to contribute to a more just and equitable society. Through the competencies below, students in this class build a foundation of skills and knowledge to achieve their personal and professional goals:
+
+- **Critical Thinking 3** — Formulate well-reasoned arguments supported by evidence
+- **Critical Thinking 4** — Apply creative thinking skills to generate new ideas and solve problems
+- **Problem-Solving 1** — Accurately define a problem
+- **Communication 3** — Apply communication skills and concepts to real-world situations
+- **Civic & Global Consciousness 1** — Explain global issues, considering various perspectives
+- **Civic & Global Consciousness 3** — Identify the requirements of responsible civic engagement
 
 Student learning outcomes are the skills and abilities that you are working to acquire, practice, and apply in class. They represent the learning goals for the term.
 
@@ -222,7 +231,14 @@ Student learning outcomes are the skills and abilities that you are working to a
 - **CLO3:** Performs scaled-thinking and mathematical calculations to simplify and evaluate contextual problems that impact the community or environment using quantitative information.
 - **CLO4:** Compose opinions, interpretations, and solid evidence regarding chemical systems and determine their impact on society in everyday life.
 
-These outcomes are measured through your weekly 3-2-1 Team Posts and OOL Discussions, ALEKS Problem Sets, Lab Experiments, Quizzes, and the Final TYC Project. Rubrics for each are posted in the relevant Canvas module.
+The table below lists the learning outcomes for this course with the corresponding assessments, to support Clark's General Education Competencies:
+
+| Course Outcomes | Assessment of Course Outcomes |
+|---|---|
+| CLO1 | ALEKS Problem Sets, 3-2-1 Team Posts, Lab Experiments, OOL Discussions, Final TYC Project |
+| CLO2 | Quizzes, ALEKS Problem Sets, 3-2-1 Team Posts, Lab Experiments, Final TYC Project |
+| CLO3 | Quizzes, ALEKS Problem Sets, 3-2-1 Team Posts, Lab Experiments, Final TYC Project |
+| CLO4 | OOL Discussions, Lab Experiments, Final TYC Project |
 
 # How Will I Be Graded, and Why?
 
