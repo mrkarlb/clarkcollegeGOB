@@ -191,7 +191,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Nuclear fission and fusion; medical imaging without radioactivity
 - Lab: UV Radiation and Alginate Beads
 - Final Project: Teach Your Community (TYC) — final exam assessment,
-  10% of course grade, due Friday, 12/11
+  10% of course grade, due Thursday, 12/10
 - Required Reading: Smith Ch. 9 (9.1–9.7)
 
 <details>

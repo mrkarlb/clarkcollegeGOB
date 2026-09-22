@@ -184,7 +184,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Catabolism of triacylglycerols; ketone bodies; amino acid metabolism
 - Lab: Seed Toxicology
 - Final Project: Teach Your Community (TYC) — final exam assessment,
-  10% of course grade, due Friday, 12/11
+  10% of course grade, due Thursday, 12/10
 - Required Reading: Smith Ch. 18 (18.4–18.11)
 
 <details>
