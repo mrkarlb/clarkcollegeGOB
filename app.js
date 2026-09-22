@@ -28,6 +28,7 @@ const COURSE_META = {
     downloads: {
       pdf: "downloads/CHEM121_Syllabus_Fall2026.pdf",
       word: "downloads/CHEM121_Syllabus_Fall2026.docx",
+      accessible: "downloads/CHEM121_Syllabus_Fall2026_Accessible.docx",
       dayone: "downloads/CHEM121_DayOne_Fall2026.pdf",
       whatsCovered: "downloads/CHEM121_WhatsCovered_Fall2026.pdf",
       scheduleMW: "downloads/CHEM121_Schedule_Fall2026_MW.ics",
@@ -41,6 +42,7 @@ const COURSE_META = {
     downloads: {
       pdf: "downloads/CHEM131_Syllabus_Fall2026.pdf",
       word: "downloads/CHEM131_Syllabus_Fall2026.docx",
+      accessible: "downloads/CHEM131_Syllabus_Fall2026_Accessible.docx",
       dayone: "downloads/CHEM131_DayOne_Fall2026.pdf",
       whatsCovered: "downloads/CHEM131_WhatsCovered_Fall2026.pdf",
       scheduleTTh: "downloads/CHEM131_Schedule_Fall2026_TTh.ics",
@@ -76,6 +78,7 @@ function renderSyllabus(courseKey) {
   document.getElementById("headerCopyBtns").innerHTML = `
     <a href="${meta.downloads.pdf}">Full PDF</a>
     <a href="${meta.downloads.word}">Word doc</a>
+    <a href="${meta.downloads.accessible}">Word doc (accessible)</a>
     <a href="${meta.downloads.dayone}">Day One handout</a>
     ${meta.downloads.scheduleMW ? `<a href="${meta.downloads.scheduleMW}">Calendar (MW)</a>` : ""}
     ${meta.downloads.scheduleTTh ? `<a href="${meta.downloads.scheduleTTh}">Calendar (TTh)</a>` : ""}
@@ -98,6 +101,7 @@ function renderWhatsCovered(courseKey) {
 
   document.getElementById("headerCopyBtns").innerHTML = `
     <a href="${meta.downloads.whatsCovered}">Course Content PDF</a>
+    <a href="${meta.downloads.accessible}">Word doc (accessible)</a>
   `;
 
   const toc = document.getElementById("toc");
