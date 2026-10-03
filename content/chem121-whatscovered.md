@@ -40,6 +40,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Covalent bonding; Lewis structures; naming covalent compounds
 - Lab: Density, Seawater, and Thermohaline Circulation
 - Required Reading: Smith Ch. 3 (3.1–3.9)
+- Structure guide: [Lewis Structures](https://mrkarlb.github.io/clarkcollegeGOBStructures/)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -59,6 +60,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lab: Molecular Shapes and GHGs
 - Writing Workshop 2
 - Required Reading: Smith Ch. 3 (3.10–3.12), Ch. 4 (4.1–4.4)
+- Structure guide: [Shape, Polarity, and Intermolecular Forces](https://mrkarlb.github.io/clarkcollegeGOBStructures/shape.html)
 
 <details>
 <summary>Weekly logistics</summary>
