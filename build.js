@@ -182,11 +182,17 @@ const PRINT_BASE_CSS = `
   li { margin-bottom: 4px; }
 `;
 
+// Plain-text title for the PDF's document properties (screen readers announce it).
+function docTitle(t) {
+  return String(t).replace(/<[^>]*>/g, "").replace(/&(?!\w+;)/g, "&amp;");
+}
+
 async function mdToStyledHtml(mdPath, title) {
   const raw = fs.readFileSync(mdPath, "utf8");
   const { body } = parseFrontmatter(raw);
   const content = marked.parse(body);
-  return `<!DOCTYPE html><html><head><meta charset="UTF-8">
+  return `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+  <title>${docTitle(title)} — Syllabus</title>
   ${PRINT_FONTS}
   <style>${PRINT_BASE_CSS}</style></head><body><h1 style="border:none;font-size:26px;">${title}</h1>${content}</body></html>`;
 }
@@ -199,7 +205,8 @@ async function whatsCoveredPdfHtml(mdPath, title, termLine) {
   const raw = fs.readFileSync(mdPath, "utf8");
   const { body } = parseFrontmatter(raw);
   let content = marked.parse(body).replace(/<details>/g, "<details open>");
-  return `<!DOCTYPE html><html><head><meta charset="UTF-8">
+  return `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+  <title>${docTitle(title)} — What’s Covered</title>
   ${PRINT_FONTS}
   <style>
     ${PRINT_BASE_CSS}
@@ -217,7 +224,8 @@ async function whatsCoveredPdfHtml(mdPath, title, termLine) {
 
 async function dayOneHtml(courseData, title) {
   const s = courseData.html;
-  return `<!DOCTYPE html><html><head><meta charset="UTF-8">
+  return `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+  <title>${docTitle(title)} — Day One</title>
   ${PRINT_FONTS}
   <style>
     body { font-family: 'Source Sans 3', sans-serif; color: #17211E; font-size: 11.5px; line-height: 1.45; }
@@ -272,7 +280,7 @@ async function main() {
     const html = await mdToStyledHtml(c.md, c.pdfTitle);
     const page = await browser.newPage();
     await page.setContent(html, { waitUntil: "networkidle" });
-    await page.pdf({ path: c.pdf, format: "Letter", printBackground: true, margin: { top: "0.6in", bottom: "0.6in", left: "0.6in", right: "0.6in" } });
+    await page.pdf({ path: c.pdf, format: "Letter", printBackground: true, tagged: true, outline: true, margin: { top: "0.6in", bottom: "0.6in", left: "0.6in", right: "0.6in" } });
     await page.close();
     console.log("built", c.pdf);
 
@@ -280,7 +288,7 @@ async function main() {
     const dayOneContent = await dayOneHtml(generated[c.key], c.pdfTitle);
     const dayPage = await browser.newPage();
     await dayPage.setContent(dayOneContent, { waitUntil: "networkidle" });
-    await dayPage.pdf({ path: c.dayone, format: "Letter", printBackground: true, margin: { top: "0.5in", bottom: "0.5in", left: "0.5in", right: "0.5in" } });
+    await dayPage.pdf({ path: c.dayone, format: "Letter", printBackground: true, tagged: true, outline: true, margin: { top: "0.5in", bottom: "0.5in", left: "0.5in", right: "0.5in" } });
     await dayPage.close();
     console.log("built", c.dayone);
 
@@ -288,7 +296,7 @@ async function main() {
     const wcHtml = await whatsCoveredPdfHtml(c.whatsCoveredMd, c.whatsCoveredPdfTitle, generated[c.key].meta.term || "");
     const wcPage = await browser.newPage();
     await wcPage.setContent(wcHtml, { waitUntil: "networkidle" });
-    await wcPage.pdf({ path: c.whatsCoveredPdf, format: "Letter", printBackground: true, margin: { top: "0.6in", bottom: "0.6in", left: "0.6in", right: "0.6in" } });
+    await wcPage.pdf({ path: c.whatsCoveredPdf, format: "Letter", printBackground: true, tagged: true, outline: true, margin: { top: "0.6in", bottom: "0.6in", left: "0.6in", right: "0.6in" } });
     await wcPage.close();
     console.log("built", c.whatsCoveredPdf);
   }
