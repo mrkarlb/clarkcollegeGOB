@@ -22,6 +22,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lab: Safety orientation; scavenger hunt covering compounds, shapes, and IMFs
 - Required Reading: Smith Ch. 10 (10.1–10.10)
 - Naming guide: [How a Name Is Built](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#build), [Alkanes and Cycloalkanes](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#alkanes)
+- Structure guide for lab workbook Appendices 1–3: [Molecular Shapes](https://mrkarlb.github.io/clarkcollegeGOBStructures/shape.html#shape), [Molecular Polarity](https://mrkarlb.github.io/clarkcollegeGOBStructures/shape.html#polarity), [Solubility of Organic Compounds](https://mrkarlb.github.io/clarkcollegeGOBStructures/shape.html#imf-properties)
 
 <details>
 <summary>Weekly logistics</summary>
