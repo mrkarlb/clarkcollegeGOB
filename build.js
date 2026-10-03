@@ -141,7 +141,34 @@ function buildWhatsCoveredData(mdPath) {
   return { meta, introHtml, modules: moduleData };
 }
 
-const PRINT_FONTS = `<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">`;
+// Print fonts are stored in fonts/ and embedded straight into each PDF page,
+// so the PDFs look the same on any computer, with or without internet access.
+// (Source Sans 3 and Source Serif 4, SIL Open Font License; see fonts/OFL-*.txt)
+const FONT_RANGES = {
+  latin: "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+  "latin-ext": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+};
+const PRINT_FONTS = "<style>" + [
+  ["Source Sans 3", "source-sans-3", [400, 600, 700]],
+  ["Source Serif 4", "source-serif-4", [600, 700]],
+].flatMap(([family, file, weights]) => weights.flatMap((w) => Object.entries(FONT_RANGES).map(([subset, range]) => {
+  const data = fs.readFileSync(path.join(__dirname, "fonts", `${file}-${subset}-${w}-normal.woff2`)).toString("base64");
+  return `@font-face{font-family:'${family}';font-style:normal;font-weight:${w};src:url(data:font/woff2;base64,${data}) format('woff2');unicode-range:${range};}`;
+}))).join("") + "</style>";
+
+// Use Playwright's own browser if it's installed; otherwise fall back to a
+// Chromium already on the computer (set CHROMIUM_PATH to point at a specific one).
+async function launchBrowser() {
+  try {
+    return await chromium.launch();
+  } catch (err) {
+    const candidates = [process.env.CHROMIUM_PATH, "/opt/pw-browsers/chromium", "/usr/bin/chromium", "/usr/bin/chromium-browser", "/usr/bin/google-chrome"].filter(Boolean);
+    const found = candidates.find((p) => fs.existsSync(p));
+    if (!found) throw err;
+    console.log("Playwright's browser isn't installed; using", found);
+    return chromium.launch({ executablePath: found });
+  }
+}
 const PRINT_BASE_CSS = `
   body { font-family: 'Source Sans 3', sans-serif; color: #17211E; font-size: 12.5px; line-height: 1.5; max-width: 100%; }
   h1 { font-family: 'Source Serif 4', serif; color: #143F49; font-size: 22px; border-bottom: 2px solid #1D5C6B; padding-bottom: 4px; margin-top: 22px; }
@@ -191,7 +218,7 @@ async function whatsCoveredPdfHtml(mdPath, title, termLine) {
 async function dayOneHtml(courseData, title) {
   const s = courseData.html;
   return `<!DOCTYPE html><html><head><meta charset="UTF-8">
-  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  ${PRINT_FONTS}
   <style>
     body { font-family: 'Source Sans 3', sans-serif; color: #17211E; font-size: 11.5px; line-height: 1.45; }
     h1 { font-family: 'Source Serif 4', serif; color: #143F49; font-size: 22px; margin: 0 0 2px; }
@@ -240,7 +267,7 @@ async function main() {
   }
 
   // PDFs via pandoc-rendered HTML -> Playwright print (keeps our brand styling)
-  const browser = await chromium.launch();
+  const browser = await launchBrowser();
   for (const c of courses) {
     const html = await mdToStyledHtml(c.md, c.pdfTitle);
     const page = await browser.newPage();

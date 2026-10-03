@@ -15,6 +15,7 @@ Live site source for: `https://mrkarlb.github.io/clarkcollegeGOB/`
 
 ## Other files
 - `index.html` — page shell (header, layout, CSS)
+- `fonts/` — Source Sans 3 and Source Serif 4, embedded into every PDF so they look the same on any computer, with or without internet access (SIL Open Font License)
 - `app.js` — rendering logic (tabs, search, dark mode, nav) — reads from `generated-content.js`, which is a build output, not something you edit directly
 
 ## To update content
@@ -30,4 +31,4 @@ Live site source for: `https://mrkarlb.github.io/clarkcollegeGOB/`
 
 ## Still to do
 - The Word doc styling from Pandoc is plainer than a hand-built version (no table borders/shading). Fixable with a Pandoc reference template if you want the fancier look back.
-- Requires Pandoc and Node.js (with the `marked` and `playwright` packages) to run the build — this isn't something GitHub does for you automatically; it has to be run locally (or via Claude Code) before uploading.
+- Requires Pandoc and Node.js (with the `marked` and `playwright` packages) to run the build. If Playwright's own browser isn't installed, the build uses a Chromium already on the computer (or the one named by `CHROMIUM_PATH`) — this isn't something GitHub does for you automatically; it has to be run locally (or via Claude Code) before uploading.
