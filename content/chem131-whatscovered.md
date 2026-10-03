@@ -40,7 +40,7 @@ Everything covered in this course, organized by topic and week — useful for co
   naming revisited
 - Lab: Solubility and Oil Spills
 - Required Reading: Smith Ch. 11 (11.1–11.2, 11.3–11.4, 11.8–11.10), Ch. 10 (10.5–10.8)
-- Naming guide: [Alkenes, Alkynes, and Cis/Trans](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#alkenes)
+- Naming guide: [Alkenes, Alkynes, and Cis/Trans](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#alkenes), [Aromatic Compounds](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#aromatics)
 
 <details>
 <summary>Weekly logistics</summary>
