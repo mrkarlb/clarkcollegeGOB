@@ -21,6 +21,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Fossil fuels, physical properties, and combustion of hydrocarbons
 - Lab: Safety orientation; scavenger hunt covering compounds, shapes, and IMFs
 - Required Reading: Smith Ch. 10 (10.1–10.10)
+- Naming guide: [How a Name Is Built](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#build), [Alkanes and Cycloalkanes](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#alkanes)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -39,6 +40,7 @@ Everything covered in this course, organized by topic and week — useful for co
   naming revisited
 - Lab: Solubility and Oil Spills
 - Required Reading: Smith Ch. 11 (11.1–11.2, 11.3–11.4, 11.8–11.10), Ch. 10 (10.5–10.8)
+- Naming guide: [Alkenes, Alkynes, and Cis/Trans](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#alkenes)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -58,6 +60,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lab: Plastics and Nurdles
 - Library Visit 1
 - Required Reading: Smith Ch. 11 (11.5–11.7), Ch. 12 (12.1–12.7)
+- Naming guide: [Alcohols, Ethers, Halides, Nitro Compounds, and Thiols](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#alcohols)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -75,6 +78,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Carboxylic acids and esters — naming, properties, acidity, and reactions
 - Lab: Chirality
 - Required Reading: Smith Ch. 12 (12.8–12.12), Ch. 13 (13.1–13.6)
+- Naming guide: [Aldehydes and Ketones](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#carbonyls), [Chirality, R and S, and Meso Compounds](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#chirality), [Carboxylic Acids, Esters, and Anhydrides](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#acids)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -93,6 +97,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lab: Reactions of Functional Groups
 - Library Visit 2
 - Required Reading: Smith Ch. 13 (13.7–13.10), Ch. 16 (16.1–16.6)
+- Naming guide: [Amines and Amides](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#amines)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -111,6 +116,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Monosaccharides and their cyclic forms
 - Lab: Protein Light
 - Required Reading: Smith Ch. 16 (16.7–16.11), Ch. 14 (14.1–14.3)
+- Naming guide: [Fischer Projections and D/L](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#fischer)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -129,6 +135,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lipids — fatty acids, waxes, triacylglycerols, and their hydrolysis
 - Lab: Sugar Spill and Enzymes (Day 1); Bioremediation (Day 2)
 - Required Reading: Smith Ch. 14 (14.4–14.7), Ch. 15 (15.1–15.5)
+- Naming guide: [Fatty Acids: Chain Length and Cis/Trans](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#fatty-acids)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -147,6 +154,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Nucleosides, nucleotides, and nucleic acids; the DNA double helix; replication; RNA
 - Lab: Bioplastics (Design Challenge)
 - Required Reading: Smith Ch. 15 (15.6–15.10), Ch. 17 (17.1–17.5)
+- Naming guide: [Steroids](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#steroids), [Nitrogen Rings](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#heterocycles)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -165,6 +173,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Overview of metabolism; ATP and energy production; coenzymes in metabolism
 - Lab: DNA Extraction
 - Required Reading: Smith Ch. 17 (17.6–17.11), Ch. 18 (18.1–18.3)
+- Naming guide: [Phosphates and ATP](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#phosphates)
 
 <details>
 <summary>Weekly logistics</summary>
