@@ -141,7 +141,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lab: Sugar Spill and Enzymes (Day 1); Bioremediation (Day 2)
 - Required Reading: Smith Ch. 14 (14.4–14.7), Ch. 15 (15.1–15.5)
 - Naming guide: [Fatty Acids: Chain Length and Cis/Trans](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#fatty-acids)
-- Reactions guide: [Sugar Oxidation and Reduction](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#sugar-redox), [Glycosidic Bonds and Triglycerides](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#condensation), [Digestion and Saponification](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#hydrolysis), [Margarine and Trans Fats](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#other-additions)
+- Reactions guide: [Sugar Oxidation and Reduction](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#sugar-redox), [Reducing Sugars and Benedict's Test](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#benedicts), [Glycosidic Bonds and Triglycerides](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#condensation), [Digestion and Saponification](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#hydrolysis), [Margarine and Trans Fats](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#other-additions)
 
 <details>
 <summary>Weekly logistics</summary>
