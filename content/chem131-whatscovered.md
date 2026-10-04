@@ -180,6 +180,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lab: DNA Extraction
 - Required Reading: Smith Ch. 17 (17.6–17.11), Ch. 18 (18.1–18.3)
 - Naming guide: [Phosphates and ATP](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#phosphates)
+- Reactions guide: [Reactions in Metabolism](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#metabolism), [NAD⁺ and FAD as Coenzymes](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#redox-pair), [Reading an Enzyme's Name](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#enzyme-names)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -201,6 +202,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Final Project: Teach Your Community (TYC) — final exam assessment,
   10% of course grade, due Thursday, 12/10
 - Required Reading: Smith Ch. 18 (18.4–18.11)
+- Reactions guide: [One Pattern, Used Again and Again](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#pattern), [Combustion: The Whole Trip at Once](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#combustion)
 
 <details>
 <summary>Weekly logistics</summary>
