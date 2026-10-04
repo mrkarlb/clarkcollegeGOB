@@ -62,6 +62,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Library Visit 1
 - Required Reading: Smith Ch. 11 (11.5–11.7), Ch. 12 (12.1–12.7)
 - Naming guide: [Alcohols, Ethers, Halides, Nitro Compounds, and Thiols](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#alcohols)
+- Reactions guide: [Identify the Reaction Type](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#identify), [Addition and Elimination](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#addelim), [Oxidizing Alcohols](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#alcohols)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -80,6 +81,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lab: Chirality
 - Required Reading: Smith Ch. 12 (12.8–12.12), Ch. 13 (13.1–13.6)
 - Naming guide: [Aldehydes and Ketones](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#carbonyls), [Chirality, R and S, and Meso Compounds](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#chirality), [Carboxylic Acids, Esters, and Anhydrides](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#acids)
+- Reactions guide: [Oxidation and Reduction](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#redox), [Esters: Condensation and Hydrolysis](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#esters), [Carboxylic Acids Give Up H⁺](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#acids)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -99,6 +101,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Library Visit 2
 - Required Reading: Smith Ch. 13 (13.7–13.10), Ch. 16 (16.1–16.6)
 - Naming guide: [Amines and Amides](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#amines)
+- Reactions guide: [Amides and Peptide Bonds](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#condensation), [Amines Pick Up H⁺](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#amines), [Amino Acids as Zwitterions](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#zwitterions)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -118,6 +121,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lab: Protein Light
 - Required Reading: Smith Ch. 16 (16.7–16.11), Ch. 14 (14.1–14.3)
 - Naming guide: [Fischer Projections and D/L](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#fischer)
+- Reactions guide: [Protein Digestion (Hydrolysis)](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#hydrolysis), [Reading an Enzyme's Name](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#enzyme-names), [Sugar Rings (Hemiacetals)](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#hemiacetal)
 
 <details>
 <summary>Weekly logistics</summary>
@@ -137,6 +141,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Lab: Sugar Spill and Enzymes (Day 1); Bioremediation (Day 2)
 - Required Reading: Smith Ch. 14 (14.4–14.7), Ch. 15 (15.1–15.5)
 - Naming guide: [Fatty Acids: Chain Length and Cis/Trans](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#fatty-acids)
+- Reactions guide: [Sugar Oxidation and Reduction](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#sugar-redox), [Glycosidic Bonds and Triglycerides](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#condensation), [Digestion and Saponification](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#hydrolysis), [Margarine and Trans Fats](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#other-additions)
 
 <details>
 <summary>Weekly logistics</summary>
