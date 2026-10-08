@@ -96,9 +96,9 @@ Canvas Modules are your home base. This rhythm repeats every module — once you
 | Day | What's due |
 |---|---|
 | Monday | New module opens |
-| Wednesday | 3-2-1 Team post + upload due; OOL discussion post due; Lab Results (20 pts) due |
+| Wednesday | 3-2-1 Team post + upload due; OOL discussion post due |
 | Thursday | 3-2-1 Team Lead Summary post due (Team Lead only, that week) |
-| Friday | OOL replies due; Lab Findings (10 pts) and Conclusions (20 pts) due |
+| Friday | OOL replies due; Lab Results (20 pts), Findings (10 pts), and Conclusions (20 pts) due |
 | Sunday | 3-2-1 Team post + replies to all 3 teammates + upload due; ALEKS homework due; Lab Background (10 pts) and Methods (40 pts) due |
 
 Attend lab both days assigned in your schedule.
