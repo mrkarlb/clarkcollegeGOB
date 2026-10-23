@@ -295,13 +295,13 @@ Lab hours are part of this course's official credit hours — 1 of your 5 credit
 
 ## Grading Scale
 
-Note: Clark does not award C-, D+, or D- in this course — a C- does not transfer, so grading stops at a clean C, then D, then F.
+Note: Clark does not award C-, D+, or D- in this course — a C- does not transfer, so grading stops at a clean C, then D, then F. Final percentages are rounded to the nearest whole number.
 
 | Percent | Grade | Percent | Grade | Percent | Grade |
 |---|---|---|---|---|---|
-| 93 up to 100 | A | 83 up to 87 | B | 73 up to 77 | C |
-| 90 up to 93 | A- | 80 up to 83 | B- | 60 up to 73 | D |
-| 87 up to 90 | B+ | 77 up to 80 | C+ | 0 up to 60 | F |
+| 100–93 | A | 86–83 | B | 76–73 | C |
+| 92–90 | A- | 82–80 | B- | 72–60 | D |
+| 89–87 | B+ | 79–77 | C+ | 59–0 | F |
 
 ## Late Work
 
