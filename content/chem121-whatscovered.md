@@ -26,8 +26,8 @@ Everything covered in this course, organized by topic and week — useful for co
 <details>
 <summary>Weekly logistics</summary>
 
-- Wednesday activity: A01 (2.1–2.3)
-- Sunday activity: A02 (2.4–2.8)
+- Activity: A01 (2.1–2.3)
+- Activity: A02 (2.4–2.8)
 - Lab 1
 
 </details>
@@ -45,8 +45,8 @@ Everything covered in this course, organized by topic and week — useful for co
 <details>
 <summary>Weekly logistics</summary>
 
-- Wednesday activity: A03 (3.1–3.6)
-- Sunday activity: A04 (3.7–3.9)
+- Activity: A03 (3.1–3.6)
+- Activity: A04 (3.7–3.9)
 - Lab 2
 - Also this week: Unit Quiz 1 (Ch. 1 + Ch. 2, no dimensional analysis); Writing Workshop 1
 
@@ -65,8 +65,8 @@ Everything covered in this course, organized by topic and week — useful for co
 <details>
 <summary>Weekly logistics</summary>
 
-- Wednesday activity: A05 (3.10–3.12)
-- Sunday activity: A06 (4.1–4.4)
+- Activity: A05 (3.10–3.12)
+- Activity: A06 (4.1–4.4)
 - Lab 3 (continued into simulations alongside Writing Workshop 2)
 
 </details>
@@ -84,8 +84,8 @@ Everything covered in this course, organized by topic and week — useful for co
 <details>
 <summary>Weekly logistics</summary>
 
-- Wednesday activity: A07 (4.5–4.7)
-- Sunday activity: A08 (5.1–5.4)
+- Activity: A07 (4.5–4.7)
+- Activity: A08 (5.1–5.4)
 - Lab 4 (continued — weighing copper — alongside Library Visit 1)
 
 </details>
@@ -102,8 +102,8 @@ Everything covered in this course, organized by topic and week — useful for co
 <details>
 <summary>Weekly logistics</summary>
 
-- Wednesday activity: A09 (5.5–5.8)
-- Sunday activity: A10 (5.9–5.10)
+- Activity: A09 (5.5–5.8)
+- Activity: A10 (5.9–5.10)
 - Lab 5 (finished with a Graphing Workshop)
 - Also this week: Unit Quiz 2 (Ch. 3 + Ch. 4)
 
@@ -121,8 +121,8 @@ Everything covered in this course, organized by topic and week — useful for co
 <details>
 <summary>Weekly logistics</summary>
 
-- Wednesday activity: A11 (5.11–5.12)
-- Sunday activity: A12 (6.1–6.4)
+- Activity: A11 (5.11–5.12)
+- Activity: A12 (6.1–6.4)
 - Lab 6 (two-day lab: NOx tube deployment Day 1, soil testing completed
   Day 2 alongside Library Visit 2)
 
@@ -140,8 +140,8 @@ Everything covered in this course, organized by topic and week — useful for co
 <details>
 <summary>Weekly logistics</summary>
 
-- Wednesday activity: A13 (6.5–6.9)
-- Sunday activity: A14 (7.1–7.4)
+- Activity: A13 (6.5–6.9)
+- Activity: A14 (7.1–7.4)
 - Lab 7 (NOx tube collection, ozone strip placement; finished with a
   Graphing Workshop for air-quality results)
 - Also this week: Unit Quiz 3 (Ch. 5)
@@ -159,8 +159,8 @@ Everything covered in this course, organized by topic and week — useful for co
 <details>
 <summary>Weekly logistics</summary>
 
-- Wednesday activity: A15 (7.5–7.8)
-- Sunday activity: A16 (8.1–8.3)
+- Activity: A15 (7.5–7.8)
+- Activity: A16 (8.1–8.3)
 - Lab 8 (Analysis — "My Waterway Report")
 - Calendar note: 11/11 campus holiday — lecture and lab still held this week
 
@@ -177,8 +177,8 @@ Everything covered in this course, organized by topic and week — useful for co
 <details>
 <summary>Weekly logistics</summary>
 
-- Wednesday activity: A17 (8.4–8.6)
-- Sunday activity: A18 (8.8–8.9)
+- Activity: A17 (8.4–8.6)
+- Activity: A18 (8.8–8.9)
 - Lab 9 (finished with Water Quality Index calculations)
 - Also this week: Unit Quiz 4 (Ch. 6 + Ch. 7)
 
