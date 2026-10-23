@@ -21,7 +21,7 @@ If you read one part of this syllabus, read this one.
 |---|---|
 | **What it costs** | **Chemfolio** *($19.50)* + **CHEM&121 Lab Manual** *($16.70)* (Clark Bookstore) + ALEKS (paid through your course registration). |
 | **When things are due** | Wednesday through Sunday each carry something — see Weekly Flow below for the exact rhythm. Once you learn it, it repeats every module. |
-| **Time to budget** | About 10–12 hours a week — most of it on Canvas, plus your 4-hour on-campus lab. |
+| **Time to budget** | About 10–12 hours a week outside of lab, plus your 4-hour on-campus lab — see How to Work in This Class. |
 | **How to reach me** | Canvas Inbox only — I don't use email during the term. I reply within 24 hours on weekdays. |
 | **The two big ones** | Weekly lab attendance (required every week — see About the Lab Requirement for how a missed lab is handled) and the Final TYC (Teach Your Community) Project — 10% of your grade, in place of a final exam. |
 | **The AI rule** | No AI-generated content in anything you submit — ever, no exceptions. See the AI Agreement below for the full policy. |
@@ -35,7 +35,7 @@ A few abbreviations come up constantly in this course. Here's what they mean, so
 
 | Term | What it means |
 |---|---|
-| 3-2-1 | Your weekly Team Discussion format — named for its posting structure (three problem areas, two areas of interest, one insight from the video key). |
+| 3-2-1 | Your weekly Team Discussion format — named for its posting structure (three problem areas, two areas of interest, one triage question you bring to your team's huddle in lab). |
 | OOL | Outside Of Lecture — a separate weekly class discussion, not the 3-2-1. |
 | TYC | Teach Your Community — your Final Project, replacing a final exam. |
 | ALEKS | Your online adaptive homework and textbook-access platform. |
@@ -49,7 +49,7 @@ A few abbreviations come up constantly in this course. Here's what they mean, so
 2. Log into Canvas and read the announcements at the top of the course.
 3. Work through Getting Started: Course Orientation, including the ALEKS/Office/OneDrive setup guide — both need to be done by the end of your first lab, so budget the time.
 4. Read this syllabus, especially the Start Here box and the Course Agreements section.
-5. Confirm you have both your Chemfolio and lab manual from the Clark Bookstore before class — your first 3-2-1 team post is due that Wednesday.
+5. Confirm you have both your Chemfolio and lab manual from the Clark Bookstore before class — your first 3-2-1 team post is due that Thursday, the day after your second lab day.
 
 # Course Information
 
@@ -96,16 +96,41 @@ Canvas Modules are your home base. This rhythm repeats every module — once you
 | Day | What's due |
 |---|---|
 | Monday | New module opens |
-| Wednesday | 3-2-1 Team post + upload due; OOL discussion post due |
-| Thursday | 3-2-1 Team Lead Summary post due (Team Lead only, that week) |
-| Friday | OOL replies due; Lab Results (20 pts), Findings (10 pts), and Conclusions (20 pts) due |
-| Sunday | 3-2-1 Team post + replies to all 3 teammates + upload due; ALEKS homework due; Lab Background (10 pts) and Methods (40 pts) due |
+| Wednesday (second lab day) | Team huddle in lab; OOL discussion post due |
+| Thursday | 3-2-1 Team post due, covering both Activities |
+| Friday | TEAM LEAD POST due (Team Lead only, that week); OOL replies due; Lab Results (20 pts), Findings (10 pts), and Conclusions (20 pts) due |
+| Sunday | 3-2-1 replies to two teammates' ONE questions + both Activity PDF uploads due; ALEKS homework due; Lab Background (10 pts) and Methods (40 pts) due |
 
 Attend lab both days assigned in your schedule.
 
 Quizzes are the one exception to this weekly pattern — they're in-person during lab, in Weeks 2, 5, 7, 9, and 10.
 
 > **Dr. B's Note:** *Prioritize content learning in your Chemfolio with your team first. Labs are based on the assigned content from the module.*
+
+## How to Work in This Class
+
+*TL;DR: Same Activities as the in-person sections, on your schedule. Try each Activity on your own first, then use the Video Key to check and correct your work. Plan on 10–12 hours a week outside of lab. If it's taking more, or you're putting in that time and your quiz scores are low, check in with me.*
+
+**Same course, your schedule.** In-person sections spend 3 hours a week in class working these same Chemfolio Activities together, then finish and review outside class with the Video Keys. You do the same work. The only difference is that you choose when, and how fast.
+
+**How to work an Activity**
+
+1. Read the assigned Smith section.
+2. Work the Activity in your Chemfolio on your own. Don't start the video yet.
+3. Mark where you got stuck. That's your THREE.
+4. Watch the Video Key to check and correct your work, and note in your Chemfolio what changed.
+5. Bring what's still unclear to your team's huddle. That's your ONE.
+
+**Why this order matters.** Points come from completing the work, but quizzes measure what you learned, and quizzes don't come with a video. If you can only do a problem while the video is playing, you haven't learned it yet. Getting stuck first and then fixing it is what makes it stick.
+
+**How much time.** Plan on 10–12 hours a week outside of lab. Check in with me if either of these happens:
+
+- You're regularly spending more than 12 hours a week.
+- You're putting in 10–12 hours and doing all the work, but your quiz scores are low.
+
+Either one means something about how you're working needs adjusting, and that's what Help Hours are for.
+
+> **Dr. B's Note:** *Work smarter, not harder. Slow is smooth, and smooth is fast. Put your effort where it pays off most directly in learning: 3-2-1 Team Posts (15%), ALEKS Problem Sets (15%), and Quizzes (20%) together make up 50% of your grade — see How Will I Be Graded below. Lab work and OOL matter too, and both take real writing and analysis. Both will feel slow at first, and you'll get faster as we go. That's the point: both are professional expectations in your future career, which is why they're in this class.*
 
 # About Your Instructor
 
@@ -250,7 +275,7 @@ These weights aren't arbitrary. Lab Experiments carry the most weight because th
 
 | Category | Weight | What it is |
 |---|---|---|
-| 3-2-1 Team Posts | 15% | Weekly 3-2-1 Team Discussions — lecture Activities completed and uploaded, plus your engagement with your team |
+| 3-2-1 Team Posts | 15% | Weekly 3-2-1 Team Discussions — one post Thursday after an in-lab team huddle, two replies answering teammates' questions, and lecture Activities completed and uploaded |
 | OOL Discussions | 15% | Weekly Outside-of-Lecture discussion post and replies |
 | Lab Experiments | 25% | Weekly on-campus labs — Background, Methods, Results, Findings, and Conclusions (100 points per lab) |
 | Quizzes | 20% | In-person, given during lab (Weeks 2, 5, 7, 9, and 10) |
