@@ -99,7 +99,7 @@ Everything covered in this course, organized by topic and week — useful for co
 - Amino acids, acid-base behavior of amino acids, and peptides
 - Lab: Reactions of Functional Groups
 - Library Visit 2
-- Required Reading: Smith Ch. 13 (13.7–13.10), Ch. 16 (16.1–16.6)
+- Required Reading: Smith Ch. 13 (13.7–13.10), Ch. 16 (16.1–16.7)
 - Naming guide: [Amines and Amides](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#amines)
 - Reactions guide: [Amides and Peptide Bonds](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#condensation), [Amines Pick Up H⁺](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#amines), [Amino Acids as Zwitterions](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#zwitterions)
 
@@ -107,7 +107,7 @@ Everything covered in this course, organized by topic and week — useful for co
 <summary>Weekly logistics</summary>
 
 - Activity: A29 (13.7–13.10)
-- Activity: A30 (16.1–16.6)
+- Activity: A30 (16.1–16.7)
 - Writing Workshop 2
 
 </details>
@@ -118,16 +118,17 @@ Everything covered in this course, organized by topic and week — useful for co
 - Common proteins; protein hydrolysis and denaturation; enzymes and
   how they work; using enzymes to diagnose and treat disease
 - Monosaccharides and their cyclic forms
+- Glycolysis: first look, alongside carbohydrates (energy accounting returns in Week 10)
 - Lab: Protein Light
-- Required Reading: Smith Ch. 16 (16.7–16.11), Ch. 14 (14.1–14.3)
+- Required Reading: Smith Ch. 16 (16.8–16.11), Ch. 14 (14.1–14.3), Ch. 18 (18.4)
 - Naming guide: [Fischer Projections and D/L](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#fischer)
 - Reactions guide: [Protein Digestion (Hydrolysis)](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#hydrolysis), [Reading an Enzyme's Name](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#enzyme-names), [Sugar Rings (Hemiacetals)](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#hemiacetal)
 
 <details>
 <summary>Weekly logistics</summary>
 
-- Activity: A31 (16.7–16.11)
-- Activity: A32 (14.1–14.3)
+- Activity: A31 (16.8–16.11)
+- Activity: A32 (14.1–14.3, 18.4)
 - Also this week: Unit Quiz 2 (organic reactions and functional groups);
   Archer Gallery Visit in place of a lab
 
@@ -155,17 +156,18 @@ Everything covered in this course, organized by topic and week — useful for co
 ## Week 8: Cell Membranes and Nucleic Acids
 
 **What this week covers:**
-- Phospholipids and cell membranes; cholesterol; steroid hormones;
-  fat-soluble vitamins
+- Phospholipids and cell membranes; membrane transport and diffusion; cholesterol;
+  steroid hormones; fat-soluble vitamins
+- β-oxidation of fatty acids: first look, alongside lipids (energy accounting returns in Week 10)
 - Nucleosides, nucleotides, and nucleic acids; the DNA double helix; replication; RNA
 - Lab: Bioplastics (Design Challenge)
-- Required Reading: Smith Ch. 15 (15.6–15.10), Ch. 17 (17.1–17.5)
+- Required Reading: Smith Ch. 15 (15.6–15.10), Ch. 17 (17.1–17.5), Ch. 18 (18.9)
 - Naming guide: [Steroids](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#steroids), [Nitrogen Rings](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/#heterocycles)
 
 <details>
 <summary>Weekly logistics</summary>
 
-- Activity: A35 (15.6–15.10)
+- Activity: A35 (15.6–15.10, 18.9)
 - Activity: A36 (17.1–17.5)
 - Also this week: Unit Quiz 3 (Ch. 16 + Ch. 14)
 
@@ -195,20 +197,22 @@ Everything covered in this course, organized by topic and week — useful for co
 ## Week 10: Catabolism, Energy Expenditure, and Final Project
 
 **What this week covers:**
-- Glycolysis; the fate of pyruvate; the citric acid cycle; electron
-  transport chain and oxidative phosphorylation; ATP yield from glucose
-- Catabolism of triacylglycerols; ketone bodies; amino acid metabolism
+- Revisiting glycolysis (Week 6) and β-oxidation (Week 8) to account for every
+  NADH, FADH₂, ATP, and GTP produced
+- The fate of pyruvate; the citric acid cycle; electron transport chain and
+  oxidative phosphorylation; ATP yield from glucose
+- Ketone bodies; amino acid metabolism and the urea cycle
 - Lab: Seed Toxicology
 - Final Project: Teach Your Community (TYC) — final exam assessment,
   10% of course grade, due Thursday, 12/10
-- Required Reading: Smith Ch. 18 (18.4–18.11)
+- Required Reading: Smith Ch. 18 (18.4–18.11; 18.4 and 18.9 revisited from Weeks 6 and 8)
 - Reactions guide: [One Pattern, Used Again and Again](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#pattern), [Combustion: The Whole Trip at Once](https://mrkarlb.github.io/clarkcollegeGOBNomenclature/reactions.html#combustion)
 
 <details>
 <summary>Weekly logistics</summary>
 
-- Activity: A39 (18.4–18.8)
-- Activity: A40 (18.9–18.11)
+- Activity: A39 (18.4–18.8; revisits 18.4)
+- Activity: A40 (18.8–18.11; revisits 18.9)
 - Also this week: Unit Quiz 4 (Ch. 15 + Ch. 17); Unit Quiz 5
   (Ch. 18); TYC Outline work continues
 - Finals week: course potluck
